@@ -21,7 +21,7 @@
 
 #### <i class="icon-file"></i> 打开repository
 
-imagesstep1data.png
+images/step1data.png
 
 #### <i class="icon-file"></i> 点击要修改的文件
 
