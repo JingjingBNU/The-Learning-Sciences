@@ -53,7 +53,7 @@ images/step4edit.png
 ![][5]
 
 [5]:
-images/step4edit.png
+images/step4note.png
 
 #### <i class="icon-file"></i> 申请汇入原始数据文件
 
