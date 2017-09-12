@@ -21,6 +21,9 @@
 
 #### <i class="icon-file"></i> 打开repository
 
+![][4]
+
+[4]:
 images/step1data.png
 
 #### <i class="icon-file"></i> 点击要修改的文件
