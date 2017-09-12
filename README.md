@@ -40,10 +40,24 @@ images/step2file.png
 [3]:
 images//step3edit.png
 
-#### <i class="icon-file"></i> 填写修改说明
+#### <i class="icon-file"></i> 加入要修改的数据
 
+![][4]
+
+[4]:
+images/the-learning-sciences/step4edit.png
+
+
+#### <i class="icon-file"></i> 在页面下方填写修改说明
+
+![][5]
+
+[5]:
 images/the-learning-sciences/step4edit.png
 
 #### <i class="icon-file"></i> 申请汇入原始数据文件
 
+![][6]
+
+[6]:
 images/the-learning-sciences/step5request.png
