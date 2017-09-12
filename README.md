@@ -21,18 +21,24 @@
 
 #### <i class="icon-file"></i> 打开repository
 
-![][4]
+![][1]
 
-[4]:
+[1]:
 images/step1data.png
 
 #### <i class="icon-file"></i> 点击要修改的文件
 
-images/the-learning-sciences/step2file.png
+![][2]
+
+[2]:
+images/step2file.png
 
 #### <i class="icon-file"></i> 点击修改按钮
 
-images/the-learning-sciences/step3edit.png
+![][3]
+
+[3]:
+images//step3edit.png
 
 #### <i class="icon-file"></i> 填写修改说明
 
