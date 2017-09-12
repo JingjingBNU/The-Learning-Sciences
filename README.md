@@ -21,7 +21,7 @@
 
 #### <i class="icon-file"></i> 打开repository
 
-images/The-Learning-Sciences/step1data.png
+images/images/step1data.png
 
 #### <i class="icon-file"></i> 点击要修改的文件
 
