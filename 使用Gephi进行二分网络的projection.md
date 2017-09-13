@@ -1,6 +1,8 @@
 # 使用Gephi进行二分网络的projection
 
 请大家使用**data**文件夹中两份数据，进行可视化和转换。
+可下载视频学习如何使用Gephi：
+![twomodeprojection.mp4](../images/projection/twomodeprojection.mp4) 
 
 
 ## 数据导入Gephil
