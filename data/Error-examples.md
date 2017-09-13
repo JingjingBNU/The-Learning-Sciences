@@ -48,3 +48,30 @@
 
 [6]:
 ../images/mergedata/40-space.png
+
+#### 出现不同的类别
+
+![][6]
+
+[6]:
+../images/mergedata/more.png
+
+#### 拼写错误，直接导致机器认为它是一个新类别
+
+![][6]
+
+[6]:
+../images/mergedata/spell.png
+
+#### oh, my god 这里也是拼写错误
+
+![][6]
+
+[6]:
+../images/mergedata/spella.png
+
+#### 漏填，找的我好辛苦
+![][6]
+
+[6]:
+../images/mergedata/missingc.png
