@@ -21,7 +21,7 @@ images/projection/import.png
 images/projection/nodelist.png
 
 
-### 导入边列表选择需要导入的节点列表文件（CSV格式），分隔符选择逗号（Sepatator），如表格（As table）一项要选择**边表格（Edges table）**，点击下一步，出现如下对话框，输入列中的Type变量一栏设置为String格式，不用勾选“创建丢失节点（Creating missing nodes）”一项：
+### 导入边列表选择需要导入的节点列表文件（CSV格式），分隔符选择逗号（Sepatator），如表格（As table）一项要选择**边表格（Edges table）**，点击下一步，出现如下对话框，输入列中的Type变量一栏设置为String格式，不用勾选“创建丢失节点（Creating missing nodes）”一项：
 
 ![][3]
 
