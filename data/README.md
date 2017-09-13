@@ -13,10 +13,14 @@ Teresa Sosa  | Language Education
 双击打开OpenRefine。（注意：如果双击不能打开OpenRefine且无法显示，打开浏览器输入URL localhost:3333。这样可以通过浏览器打OpenRefine）
 
 
+
+![transposedata.mp4](../images/mergedata/transposedata.mp4) 
+
+
 ![][1]
 
 [1]:
-../images/mergedata/transposedata.m4v
+../images/mergedata/transposedata.mp4
 
 ----------
 
