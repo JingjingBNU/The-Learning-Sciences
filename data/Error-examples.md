@@ -58,20 +58,21 @@
 
 #### 拼写错误，直接导致机器认为它是一个新类别
 
-![][6]
+![][7]
 
-[6]:
+[7]:
 ../images/mergedata/spell.png
 
 #### oh, my god 这里也是拼写错误
 
-![][6]
+![][8]
 
-[6]:
+[8]:
 ../images/mergedata/spella.png
 
 #### 漏填，找的我好辛苦
-![][6]
 
-[6]:
+![][9]
+
+[9]:
 ../images/mergedata/missingc.png
