@@ -7,7 +7,7 @@
 source  | target
 ------------- | -------------
 Teresa Sosa  | Literacy
-Teresa Sosa  | Language EducationacademicdisciplineClarence MuseHeart of DixieClarence MuseToussaint L'OvertureClarence MuseThe Custard Nine
+Teresa Sosa  | Language Education
 一个边列表至少包含两列。列表中的每一行对应描述一种关系。如上表所示，这个边列表例子中的行表示的是某个学者在学习/工作的学科系别。完成上述工作需要两个软件，Microsft Excel和OpenRefine（处理结构化数据的一种工具）。OpenRefine的Mac版本与Windows版本都可以免费下载。
 用[OpenRefine](http://openrefine.org/)处理多列转换多行数据
 双击打开OpenRefine。（注意：如果双击不能打开OpenRefine且无法显示，打开浏览器输入URL localhost:3333。这样可以通过浏览器打OpenRefine）
@@ -20,7 +20,7 @@ Teresa Sosa  | Language EducationacademicdisciplineClarence MuseHeart of Dix
 
 ----------
 
-#数据汇集
+# 数据汇集
 
 
 
@@ -39,7 +39,7 @@ Teresa Sosa  | Language EducationacademicdisciplineClarence MuseHeart of Dix
 ![][1]
 
 [1]:
-images/mergedata/step1data.png
+../images/mergedata/step1data.png
 
 #### <i class="icon-file"></i> 点击要修改的文件
 
