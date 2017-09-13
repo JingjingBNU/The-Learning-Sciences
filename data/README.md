@@ -41,26 +41,27 @@ Teresa Sosa  | Language Education
 [1]:
 ../images/mergedata/step1data.png
 
+
 #### <i class="icon-file"></i> 点击要修改的文件
 
 ![][2]
 
 [2]:
-images/mergedata/step2file.png
+../images/mergedata/step2file.png
 
 #### <i class="icon-file"></i> 点击修改按钮
 
 ![][3]
 
 [3]:
-images/mergedata/step3edit.png
+../images/mergedata/step3edit.png
 
 #### <i class="icon-file"></i> 加入要修改的数据
 
 ![][4]
 
 [4]:
-images/mergedata/step4edit.png
+../images/mergedata/step4edit.png
 
 
 #### <i class="icon-file"></i> 在页面下方填写修改说明
@@ -68,11 +69,11 @@ images/mergedata/step4edit.png
 ![][5]
 
 [5]:
-images/mergedata/step4note.png
+../images/mergedata/step4note.png
 
 #### <i class="icon-file"></i> 申请汇入原始数据文件
 
 ![][6]
 
 [6]:
-images/mergedata/step5request.png
+../images/mergedata/step5request.png
