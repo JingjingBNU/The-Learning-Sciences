@@ -23,7 +23,7 @@
 | GrafuseWU      | 吴嘉豪  | 2005 |   1   |
 | YangDongFang98 | 杨东芳  | 2006 |       |
 | heqiao1997     | 贺巧   | 2007 |       |
-| Schurtze       | 全偲绮  | 2008 | 4    |
+| Schurtze       | 全偲绮  | 2008 | 4    |
 | ChiChenBNU     | 陈驰   | 2009 |       |
 | guoh123        | 郭晗   | 2010 |       |
 | ShaoaiMu       | 孔德虎  | 2011 |    1  |
