@@ -7,8 +7,8 @@
 | yanyanduan     | 段艳艳  | 1    |       |
 | ZTLzyw         | 钟天隆  | 1    |    1  |
 | WangWeichuu    | 王伟初  | 1991 |       |
-| Sylvia-SUN     | 孙萌   | 1992 |       |
-| dongxu9806     | 董旭   | 1993 |       |
+| Sylvia-SUN     | 孙萌   | 1992 |   2   |
+| dongxu9806     | 董旭   | 1993 |   2   |
 | niujiayu       | 牛佳玉  | 1994 |       |
 | luzijing1997   | 卢紫荆  | 1995 |       |
 | Xinyuan20      | 李欣媛  | 1996 |       |
@@ -29,6 +29,6 @@
 | ShaoaiMu       | 孔德虎  | 2011 |    1  |
 | ChangYX        | 张元欣  | 2013 |       |
 | XuXueying      | 徐雪迎  | 2014 |       |
-| wsy0810        | 王诗雨  | 2015 |       |
+| wsy0810        | 王诗雨  | 2015 |   2   |
 | LuminaCheng    | 程露   | 2016 |       |
 | ShaoaiNiu      | 牛晓杰  | 2017 |   1   |
