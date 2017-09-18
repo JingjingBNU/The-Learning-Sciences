@@ -28,7 +28,7 @@
 | ChiChenBNU     | 陈驰   | 2009 |   5    |
 | guoh123        | 郭晗   | 2010 |       |
 | ShaoaiMu       | 孔德虎  | 2011 |    1  |
-| Liuliuyangyang | 刘阳   | 2012 |       |
+| Liuliuyangyang | 刘阳   | 2012 |  8   |
 | ChangYX        | 张元欣  | 2013 |    3  |
 | XuXueying      | 徐雪迎  | 2014 |  6    |
 | wsy0810        | 王诗雨  | 2015 |   2   |
