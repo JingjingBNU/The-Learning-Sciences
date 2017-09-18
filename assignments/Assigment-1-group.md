@@ -5,7 +5,7 @@
 
 | username       | name | year | group |
 | -------------- | ---- | ---- | ----- |
-| yanyanduan     | 段艳艳  | 1    |       |
+| yanyanduan     | 段艳艳  | 1    |   8   |
 | ZTLzyw         | 钟天隆  | 1    |    1  |
 | WangWeichuu    | 王伟初  | 1991 | 6     |
 | Sylvia-SUN     | 孙萌   | 1992 |   2   |
@@ -18,8 +18,8 @@
 | ZhaiYun1997    | 翟芸   | 1999 |  6    |
 | liangyue97     | 梁越   | 2000 |  5     |
 | Liuzj0630      | 刘紫荆  | 2001 |  7     |
-| lvqiuyan       | 吕秋燕  | 2002 |       |
-| gjh1997        | 郭佳惠  | 2003 |       |
+| lvqiuyan       | 吕秋燕  | 2002 |   8   |
+| gjh1997        | 郭佳惠  | 2003 |   8   |
 | weiwenting129  | 韦文婷  | 2004 |  7     |
 | GrafuseWU      | 吴嘉豪  | 2005 |   1   |
 | YangDongFang98 | 杨东芳  | 2006 |  5     |
