@@ -14,7 +14,7 @@
 | Xinyuan20      | 李欣媛  | 1996 | 4     |
 | Wangqijun96    | 王麒钧  | 1997 | 6     |
 | QingJiaqi666   | 庆嘉琪  | 1998 | 4     |
-| ZhaiYun1997    | 翟芸   | 1999 |   6   |
+| ZhaiYun1997    | 翟芸   | 1999 |  6    |
 | liangyue97     | 梁越   | 2000 |  5     |
 | Liuzj0630      | 刘紫荆  | 2001 |       |
 | lvqiuyan       | 吕秋燕  | 2002 |       |
@@ -28,7 +28,7 @@
 | guoh123        | 郭晗   | 2010 |       |
 | ShaoaiMu       | 孔德虎  | 2011 |    1  |
 | ChangYX        | 张元欣  | 2013 |    3  |
-| XuXueying      | 徐雪迎  | 2014 |   6   |
+| XuXueying      | 徐雪迎  | 2014 |  6    |
 | wsy0810        | 王诗雨  | 2015 |   2   |
 | LuminaCheng    | 程露   | 2016 |    3  |
 | ShaoaiNiu      | 牛晓杰  | 2017 |   1   |
