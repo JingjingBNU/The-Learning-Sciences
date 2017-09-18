@@ -6,7 +6,7 @@
 | -------------- | ---- | ---- | ----- |
 | yanyanduan     | 段艳艳  | 1    |       |
 | ZTLzyw         | 钟天隆  | 1    |    1  |
-| WangWeichuu    | 王伟初  | 1991 |   6   |
+| WangWeichuu    | 王伟初  | 1991 |  6    |
 | Sylvia-SUN     | 孙萌   | 1992 |   2   |
 | dongxu9806     | 董旭   | 1993 |   2   |
 | niujiayu       | 牛佳玉  | 1994 |  3   |
