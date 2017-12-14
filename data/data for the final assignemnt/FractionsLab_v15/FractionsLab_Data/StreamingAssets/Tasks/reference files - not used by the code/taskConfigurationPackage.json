@@ -1,0 +1,90 @@
+{
+  "initial_model": [
+    {
+      "numerator": 1,
+      "denominator": 2,
+      "partition": 1,
+      "type": "VRect",
+      "position": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "color": "blue"
+    },
+    {
+      "numerator": 3,
+      "denominator": 3,
+      "partition": 2,
+      "type": "Liquid",
+      "position": {
+        "x": -2,
+        "y": -3.5
+      },
+      "color": "yellow"
+    },
+    {
+      "numerator": 2,
+      "denominator": 2,
+      "partition": 1,
+      "type": "StarSet",
+      "position": {
+        "x": 5.3,
+        "y": 5
+      },
+      "color": "red"
+    }
+  ],
+  "initial_configuration": [
+    {
+      "item": "lab",
+      "active": true
+    },
+    {
+      "item": "symbols",
+      "active": true
+    },
+    {
+      "item": "lines",
+      "active": false
+    },
+    {
+      "item": "rectangles",
+      "active": false
+    },
+    {
+      "item": "sets",
+      "active": true
+    },
+    {
+      "item": "liquids",
+      "active": true
+    },
+    {
+      "item": "change_color",
+      "active": true
+    },
+    {
+      "item": "copy",
+      "active": true
+    },
+    {
+      "item": "partition",
+      "active": true
+    },
+    {
+      "item": "add",
+      "active": false
+    },
+    {
+      "item": "subtract",
+      "active": true
+    }
+  ],
+  "extra_information": {
+  } 
+  "task_description": {
+    "id": "idtask",
+    "title": "Task01",
+    "desctiption": "example of task"
+  }
+}

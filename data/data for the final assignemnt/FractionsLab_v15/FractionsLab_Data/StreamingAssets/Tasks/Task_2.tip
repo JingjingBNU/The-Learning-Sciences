@@ -1,0 +1,57 @@
+﻿{
+  "initial_model": [
+    
+  ],
+  "initial_configuration": [
+    {
+      "item": "lab",
+      "active": true
+    },
+    {
+      "item": "lines",
+      "active": true
+    },
+    {
+      "item": "rectangles",
+      "active": true
+    },
+    {
+      "item": "sets",
+      "active": true
+    },
+    {
+      "item": "liquids",
+      "active": true
+    },
+    {
+      "item": "change_color",
+      "active": true
+    },
+    {
+      "item": "copy",
+      "active": true
+    },
+    {
+      "item": "partition",
+      "active": true
+    },
+    {
+      "item": "add",
+      "active": true
+    },
+    {
+      "item": "subtract",
+      "active": true
+    }
+  ],
+  "extra_information": {
+  },
+  "task_description": {
+    "title": "",
+    "desctiption": "用右侧的图形表示一个分母为18且大小为1/6的分数",
+    "endStateMessage": "恭喜！ 你创造了一个分母为18并且等于1/6的分数",
+    "genericFeedback": "当你想要改变分母但是又要保证分数值不变的时候，你需要做些什么？",
+    "feedbackDelayTime": 10,
+    "showAtStartup": "true"
+  }  
+}

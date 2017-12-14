@@ -1,0 +1,16 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		27	c960df28ea5178ea35f4302d093eae94aa10c707	4/19/2017 10:44:46 AM		4/19/2017 10:45:07 AM	19.64526
+ClickButton	NumberedLines					4/19/2017 10:45:27 AM	40.1244
+FractionGenerated	NumberedLines	line_1				4/19/2017 10:45:27 AM	40.1244
+FractionChange	Denominator	line_1		1		4/19/2017 10:45:29 AM	41.84353
+FractionChange	Denominator	line_1		2		4/19/2017 10:45:29 AM	42.06139
+PressFraction	NumberedLines	line_1		0/2	(1.3125, 0)	4/19/2017 10:45:30 AM	43.17244
+ReleaseFraction	NumberedLines	line_1		0/2	(1.3125, 0)	4/19/2017 10:45:30 AM	43.29949
+FractionChange	Numerator	line_1		1		4/19/2017 10:45:32 AM	44.72659
+ClickButton	OpenTaskDescription					4/19/2017 10:45:34 AM	46.52562
+TaskChange_warningMessage	ClickForward			1		4/19/2017 10:45:35 AM	47.83468
+TaskChange_warningMessage	ClickForward			2		4/19/2017 10:45:36 AM	48.55486
+TaskChange_warningMessage	ClickForward			3		4/19/2017 10:45:36 AM	48.75785
+PopupAfterTaskReflection						4/19/2017 10:45:37 AM	49.76474
+PressFraction	NumberedLines	line_1		1/2	(1.3125, 0)	4/19/2017 10:46:01 AM	74.19664
+ReleaseFraction	NumberedLines	line_1		1/2	(1.3125, 0)	4/19/2017 10:46:02 AM	74.33863

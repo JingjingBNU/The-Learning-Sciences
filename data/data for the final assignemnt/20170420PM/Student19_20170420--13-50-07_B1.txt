@@ -1,0 +1,61 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		19	226fdaf1639840cffddc2f364483e6c2182c8a44	4/20/2017 1:50:07 PM		4/20/2017 1:50:35 PM	25.86061
+ClickButton	NumberedLines					4/20/2017 1:50:45 PM	36.00454
+FractionGenerated	NumberedLines	line_1				4/20/2017 1:50:45 PM	36.00454
+FractionChange	Denominator	line_1		1		4/20/2017 1:50:46 PM	37.39754
+FractionChange	Denominator	line_1		2		4/20/2017 1:50:48 PM	39.07588
+FractionChange	Denominator	line_1		3		4/20/2017 1:50:48 PM	39.4685
+FractionChange	Denominator	line_1		4		4/20/2017 1:50:48 PM	39.69162
+FractionChange	Denominator	line_1		5		4/20/2017 1:50:48 PM	39.89206
+FractionChange	Denominator	line_1		6		4/20/2017 1:50:49 PM	40.14058
+FractionChange	Denominator	line_1		7		4/20/2017 1:50:49 PM	40.42766
+PressFraction	NumberedLines	line_1		0/7	(1.3125, -1)	4/20/2017 1:50:51 PM	42.85253
+FractionTrashed	NumberedLines	line_1		0/7		4/20/2017 1:50:52 PM	43.80579
+ReleaseFraction	NumberedLines	line_1		0/7	(-11.7, 8.366667)	4/20/2017 1:50:52 PM	43.80579
+ClickButton	Set/Moons					4/20/2017 1:50:55 PM	46.49284
+FractionGenerated	MoonSets	moonset_2				4/20/2017 1:50:55 PM	46.49284
+PressFraction	MoonSets	moonset_2		0/0	(0.28125, -1)	4/20/2017 1:50:56 PM	47.54173
+ReleaseFraction	MoonSets	moonset_2		0/0	(0.28125, -1)	4/20/2017 1:50:56 PM	47.66771
+FractionChange	Denominator	moonset_2		1		4/20/2017 1:50:56 PM	47.66771
+PressFraction	MoonSets	moonset_2		0/1	(0.28125, -1)	4/20/2017 1:50:58 PM	49.89202
+ReleaseFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:50:59 PM	50.02197
+PressFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:50:59 PM	50.89204
+ReleaseFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:00 PM	51.00611
+PressFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:00 PM	51.75619
+ReleaseFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:00 PM	51.86215
+FractionChange	Numerator	moonset_2		0		4/20/2017 1:51:00 PM	51.86215
+PressFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:00 PM	51.93302
+ReleaseFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:01 PM	52.0202
+FractionChange	Numerator	moonset_2		0		4/20/2017 1:51:01 PM	52.0202
+PressFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:01 PM	52.10915
+ReleaseFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:01 PM	52.19848
+FractionChange	Numerator	moonset_2		0		4/20/2017 1:51:01 PM	52.19848
+PressFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:01 PM	52.78123
+ReleaseFraction	MoonSets	moonset_2		0/1	(0.4479167, -1.1)	4/20/2017 1:51:01 PM	52.87619
+FractionChange	Numerator	moonset_2		1		4/20/2017 1:51:01 PM	52.87619
+PressFraction	MoonSets	moonset_2		1/1	(0.4479167, -1.1)	4/20/2017 1:51:01 PM	52.96518
+ReleaseFraction	MoonSets	moonset_2		1/1	(0.4479167, -1.1)	4/20/2017 1:51:02 PM	53.06025
+FractionChange	Numerator	moonset_2		2		4/20/2017 1:51:02 PM	53.06025
+PressFraction	MoonSets	moonset_2		2/1	(0.4479167, -1.1)	4/20/2017 1:51:02 PM	53.15005
+ReleaseFraction	MoonSets	moonset_2		2/1	(0.4479167, -1.1)	4/20/2017 1:51:02 PM	53.22806
+FractionChange	Numerator	moonset_2		3		4/20/2017 1:51:02 PM	53.22806
+PressFraction	MoonSets	moonset_2		3/1	(0.4479167, -1.1)	4/20/2017 1:51:02 PM	53.31607
+ReleaseFraction	MoonSets	moonset_2		3/1	(0.4479167, -1.1)	4/20/2017 1:51:02 PM	53.41416
+PressFraction	MoonSets	moonset_2		3/1	(0.4479167, -1.1)	4/20/2017 1:51:05 PM	56.90118
+ReleaseFraction	MoonSets	moonset_2		3/1	(0.4479167, -1.1)	4/20/2017 1:51:06 PM	57.02222
+PressFraction	MoonSets	moonset_2		3/1	(0.4479167, -1.1)	4/20/2017 1:51:06 PM	57.87632
+ReleaseFraction	MoonSets	moonset_2		3/1	(0.4479167, -1.1)	4/20/2017 1:51:07 PM	57.98906
+FractionChange	Denominator	moonset_2		2		4/20/2017 1:51:07 PM	57.98906
+PressFraction	MoonSets	moonset_2		3/2	(0.4479167, -1.1)	4/20/2017 1:51:07 PM	58.06815
+ReleaseFraction	MoonSets	moonset_2		3/2	(0.4479167, -1.1)	4/20/2017 1:51:07 PM	58.15823
+FractionChange	Denominator	moonset_2		3		4/20/2017 1:51:07 PM	58.15823
+PressFraction	MoonSets	moonset_2		3/3	(0.4479167, -1.1)	4/20/2017 1:51:07 PM	58.24337
+ReleaseFraction	MoonSets	moonset_2		3/3	(0.4479167, -1.1)	4/20/2017 1:51:07 PM	58.32436
+FractionChange	Denominator	moonset_2		4		4/20/2017 1:51:07 PM	58.32436
+PressFraction	MoonSets	moonset_2		3/4	(0.4479167, -1.1)	4/20/2017 1:51:08 PM	59.18837
+ReleaseFraction	MoonSets	moonset_2		3/4	(0.4479167, -1.1)	4/20/2017 1:51:08 PM	59.32441
+FractionChange	Denominator	moonset_2		5		4/20/2017 1:51:08 PM	59.32441
+PressFraction	MoonSets	moonset_2		3/5	(0.4479167, -1.1)	4/20/2017 1:51:09 PM	60.59642
+ReleaseFraction	MoonSets	moonset_2		3/5	(0.4479167, -1.1)	4/20/2017 1:51:09 PM	60.73345
+FractionChange	Denominator	moonset_2		6		4/20/2017 1:51:09 PM	60.73345
+EndStateReached						4/20/2017 1:51:12 PM	63.7364

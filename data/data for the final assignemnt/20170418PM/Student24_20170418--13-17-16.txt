@@ -1,0 +1,811 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		24	f77911bee5bb17c9c4c29108b8e4abbe23458417	4/18/2017 1:17:16 PM		4/18/2017 1:18:22 PM	63.95474
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:18:37 PM	79.1072
+ClickButton	OpenTaskDescription					4/18/2017 1:19:34 PM	136.3294
+ClickButton	NumberedLines					4/18/2017 1:20:43 PM	205.7489
+FractionGenerated	NumberedLines	line_1				4/18/2017 1:20:43 PM	205.7489
+FractionChange	Denominator	line_1		1		4/18/2017 1:20:45 PM	207.5709
+FractionChange	Denominator	line_1		2		4/18/2017 1:20:46 PM	208.608
+FractionChange	Denominator	line_1		3		4/18/2017 1:20:47 PM	208.8459
+FractionChange	Denominator	line_1		4		4/18/2017 1:20:47 PM	209.55
+PressFraction	NumberedLines	line_1		0/4	(1.3125, -1)	4/18/2017 1:20:49 PM	210.9551
+ReleaseFraction	NumberedLines	line_1		0/4	(1.3125, -1)	4/18/2017 1:20:49 PM	211.0701
+FractionChange	Numerator	line_1		1		4/18/2017 1:20:53 PM	215.2182
+FractionChange	Numerator	line_1		2		4/18/2017 1:20:54 PM	215.8502
+EndStateReached						4/18/2017 1:20:57 PM	218.8513
+PopupAfterTaskReflection						4/18/2017 1:21:04 PM	226.5087
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:21:09 PM		4/18/2017 1:21:09 PM	231.754
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我乐在其中	4/18/2017 1:21:18 PM		4/18/2017 1:21:18 PM	240.6853
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:21:20 PM		4/18/2017 1:21:20 PM	242.5993
+ClickButton	Set/Stars					4/18/2017 1:24:30 PM	432.3431
+FractionGenerated	StarSets	starset_2				4/18/2017 1:24:30 PM	432.3431
+FractionChange	Denominator	starset_2		1		4/18/2017 1:24:42 PM	444.2416
+FractionChange	Denominator	starset_2		2		4/18/2017 1:24:42 PM	444.4515
+FractionChange	Denominator	starset_2		3		4/18/2017 1:24:42 PM	444.6375
+FractionChange	Denominator	starset_2		4		4/18/2017 1:24:43 PM	444.8606
+FractionChange	Denominator	starset_2		5		4/18/2017 1:24:43 PM	445.0876
+FractionChange	Denominator	starset_2		6		4/18/2017 1:24:43 PM	445.3336
+FractionChange	Denominator	starset_2		7		4/18/2017 1:24:43 PM	445.5636
+FractionChange	Denominator	starset_2		8		4/18/2017 1:24:44 PM	445.7986
+FractionChange	Denominator	starset_2		9		4/18/2017 1:24:44 PM	446.0297
+FractionChange	Denominator	starset_2		10		4/18/2017 1:24:44 PM	446.2656
+FractionChange	Denominator	starset_2		11		4/18/2017 1:24:44 PM	446.4966
+FractionChange	Denominator	starset_2		12		4/18/2017 1:24:44 PM	446.7167
+FractionChange	Denominator	starset_2		13		4/18/2017 1:24:45 PM	446.9317
+FractionChange	Denominator	starset_2		14		4/18/2017 1:24:45 PM	447.1357
+FractionChange	Denominator	starset_2		15		4/18/2017 1:24:45 PM	447.3368
+FractionChange	Denominator	starset_2		16		4/18/2017 1:24:45 PM	447.5478
+FractionChange	Denominator	starset_2		17		4/18/2017 1:24:45 PM	447.7647
+FractionChange	Denominator	starset_2		18		4/18/2017 1:24:46 PM	447.9937
+FractionChange	Denominator	starset_2		19		4/18/2017 1:24:46 PM	448.2388
+FractionChange	Denominator	starset_2		20		4/18/2017 1:24:46 PM	448.4748
+FractionChange	Denominator	starset_2		21		4/18/2017 1:24:46 PM	448.7037
+FractionChange	Denominator	starset_2		20		4/18/2017 1:24:47 PM	449.5779
+FractionChange	Denominator	starset_2		19		4/18/2017 1:24:48 PM	449.7689
+FractionChange	Denominator	starset_2		18		4/18/2017 1:24:48 PM	450.4599
+PressFraction	StarSets	starset_2		0/18	(-0.71875, 0)	4/18/2017 1:24:49 PM	451.2889
+ReleaseFraction	StarSets	starset_2		0/18	(-0.71875, 0)	4/18/2017 1:24:49 PM	451.3919
+FractionChange	Numerator	starset_2		1		4/18/2017 1:26:08 PM	530.4478
+FractionChange	Numerator	starset_2		2		4/18/2017 1:26:09 PM	530.9408
+FractionChange	Numerator	starset_2		3		4/18/2017 1:26:09 PM	531.4508
+EndStateReached						4/18/2017 1:26:12 PM	534.4508
+PopupAfterTaskReflection						4/18/2017 1:26:27 PM	548.9455
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:26:29 PM		4/18/2017 1:26:29 PM	551.6135
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 1:26:35 PM		4/18/2017 1:26:35 PM	557.0471
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:26:37 PM		4/18/2017 1:26:37 PM	559.0188
+ClickButton	NumberedLines					4/18/2017 1:27:30 PM	611.9446
+FractionGenerated	NumberedLines	line_3				4/18/2017 1:27:30 PM	611.9446
+PressFraction	NumberedLines	line_3		0/0	(1.3125, 0)	4/18/2017 1:27:36 PM	618.1899
+ReleaseFraction	NumberedLines	line_3		0/0	(1.7125, 0.1666667)	4/18/2017 1:27:36 PM	618.361
+PressFraction	NumberedLines	line_3		0/0	(1.7125, 0.1666667)	4/18/2017 1:27:39 PM	621.412
+FractionTrashed	NumberedLines	line_3		0/0		4/18/2017 1:27:40 PM	622.4891
+ReleaseFraction	NumberedLines	line_3		0/0	(-12.53333, 8.733334)	4/18/2017 1:27:40 PM	622.4891
+ClickButton	OpenTaskDescription					4/18/2017 1:27:41 PM	623.517
+ClickButton	NumberedLines					4/18/2017 1:27:45 PM	627.0621
+FractionGenerated	NumberedLines	line_4				4/18/2017 1:27:45 PM	627.0621
+FractionChange	Denominator	line_4		1		4/18/2017 1:27:47 PM	629.3683
+FractionChange	Denominator	line_4		2		4/18/2017 1:27:47 PM	629.5633
+FractionChange	Denominator	line_4		3		4/18/2017 1:27:47 PM	629.7583
+FractionChange	Denominator	line_4		4		4/18/2017 1:27:48 PM	629.9744
+FractionChange	Denominator	line_4		5		4/18/2017 1:27:48 PM	630.1864
+FractionChange	Denominator	line_4		6		4/18/2017 1:27:48 PM	630.4183
+FractionChange	Denominator	line_4		7		4/18/2017 1:27:48 PM	630.6624
+FractionChange	Denominator	line_4		8		4/18/2017 1:27:49 PM	630.8904
+FractionChange	Denominator	line_4		9		4/18/2017 1:27:49 PM	631.1133
+FractionChange	Denominator	line_4		10		4/18/2017 1:27:49 PM	631.3423
+FractionChange	Denominator	line_4		11		4/18/2017 1:27:49 PM	631.5809
+FractionChange	Denominator	line_4		12		4/18/2017 1:27:50 PM	632.3555
+PressFraction	NumberedLines	line_4		0/12	(1.3125, -1)	4/18/2017 1:27:54 PM	636.1576
+ReleaseFraction	NumberedLines	line_4		0/12	(1.3125, -1)	4/18/2017 1:27:54 PM	636.2496
+FractionChange	Numerator	line_4		1		4/18/2017 1:28:25 PM	667.7218
+FractionChange	Numerator	line_4		2		4/18/2017 1:28:26 PM	667.9938
+PressFraction	NumberedLines	line_4		2/12	(1.3125, -1)	4/18/2017 1:28:39 PM	681.5863
+ReleaseFraction	NumberedLines	line_4		2/12	(1.3125, -1)	4/18/2017 1:28:39 PM	681.6942
+FractionChange	Numerator	line_4		3		4/18/2017 1:28:48 PM	690.0385
+FractionChange	Numerator	line_4		4		4/18/2017 1:28:48 PM	690.2556
+FractionChange	Numerator	line_4		5		4/18/2017 1:28:48 PM	690.4696
+FractionChange	Numerator	line_4		6		4/18/2017 1:28:49 PM	690.7726
+FractionChange	Numerator	line_4		7		4/18/2017 1:28:49 PM	691.1216
+PressFraction	NumberedLines	line_4		7/12	(1.3125, -1)	4/18/2017 1:28:51 PM	693.5096
+ReleaseFraction	NumberedLines	line_4		7/12	(1.3125, -1)	4/18/2017 1:28:51 PM	693.6357
+FractionChange	Numerator	line_4		6		4/18/2017 1:28:52 PM	694.6637
+FractionChange	Numerator	line_4		5		4/18/2017 1:28:53 PM	694.8687
+FractionChange	Numerator	line_4		4		4/18/2017 1:28:53 PM	695.0637
+FractionChange	Numerator	line_4		3		4/18/2017 1:28:53 PM	695.2808
+FractionChange	Numerator	line_4		2		4/18/2017 1:28:53 PM	695.5029
+FractionChange	Numerator	line_4		1		4/18/2017 1:28:53 PM	695.7238
+PressFraction	NumberedLines	line_4		1/12	(1.3125, -1)	4/18/2017 1:29:04 PM	706.1482
+ReleaseFraction	NumberedLines	line_4		1/12	(1.179167, -0.9666667)	4/18/2017 1:29:04 PM	706.2751
+FractionChange	Numerator	line_4		2		4/18/2017 1:29:05 PM	707.0892
+PressFraction	NumberedLines	line_4		2/12	(1.179167, -0.9666667)	4/18/2017 1:29:06 PM	708.4012
+ReleaseFraction	NumberedLines	line_4		2/12	(1.179167, -0.9666667)	4/18/2017 1:29:06 PM	708.5262
+FractionChange	Numerator	line_4		3		4/18/2017 1:29:07 PM	709.6853
+PressFraction	NumberedLines	line_4		3/12	(1.179167, -0.9666667)	4/18/2017 1:29:08 PM	710.3013
+ReleaseFraction	NumberedLines	line_4		3/12	(1.179167, -0.9666667)	4/18/2017 1:29:08 PM	710.4593
+PressFraction	NumberedLines	line_4		3/12	(1.179167, -0.9666667)	4/18/2017 1:29:11 PM	712.9207
+ReleaseFraction	NumberedLines	line_4		3/12	(1.179167, -0.9666667)	4/18/2017 1:29:11 PM	713.0493
+FractionChange	Numerator	line_4		4		4/18/2017 1:29:11 PM	713.7134
+PressFraction	NumberedLines	line_4		4/12	(1.179167, -0.9666667)	4/18/2017 1:29:14 PM	716.5205
+ReleaseFraction	NumberedLines	line_4		4/12	(1.179167, -0.9666667)	4/18/2017 1:29:14 PM	716.6454
+FractionChange	Numerator	line_4		5		4/18/2017 1:29:15 PM	717.3055
+PressFraction	NumberedLines	line_4		5/12	(1.179167, -0.9666667)	4/18/2017 1:29:16 PM	718.6956
+ReleaseFraction	NumberedLines	line_4		5/12	(1.179167, -0.9666668)	4/18/2017 1:29:17 PM	718.8056
+FractionChange	Numerator	line_4		6		4/18/2017 1:29:18 PM	719.7816
+PressFraction	NumberedLines	line_4		6/12	(1.179167, -0.9666668)	4/18/2017 1:29:19 PM	721.4177
+ReleaseFraction	NumberedLines	line_4		6/12	(1.179167, -0.9666668)	4/18/2017 1:29:19 PM	721.5317
+FractionChange	Numerator	line_4		7		4/18/2017 1:29:20 PM	722.2677
+FractionChange	Numerator	line_4		8		4/18/2017 1:29:21 PM	723.4587
+FractionChange	Numerator	line_4		9		4/18/2017 1:29:21 PM	723.6898
+FractionChange	Numerator	line_4		10		4/18/2017 1:29:22 PM	723.9102
+FractionChange	Numerator	line_4		11		4/18/2017 1:29:22 PM	724.1738
+EndStateReached						4/18/2017 1:29:24 PM	726.6918
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:29:28 PM	730.2032
+PressFraction	NumberedLines	line_4		11/12	(1.179167, -0.9666668)	4/18/2017 1:29:33 PM	735.3722
+ReleaseFraction	NumberedLines	line_4		11/12	(1.179167, -1)	4/18/2017 1:29:33 PM	735.4882
+FractionChange	Numerator	line_4		10		4/18/2017 1:29:34 PM	736.3302
+PressFraction	NumberedLines	line_4		10/12	(1.179167, -1)	4/18/2017 1:29:36 PM	737.8123
+ReleaseFraction	NumberedLines	line_4		10/12	(1.179167, -1)	4/18/2017 1:29:36 PM	737.9053
+FractionChange	Numerator	line_4		9		4/18/2017 1:29:36 PM	738.4483
+PressFraction	NumberedLines	line_4		9/12	(1.179167, -1)	4/18/2017 1:29:37 PM	739.3873
+ReleaseFraction	NumberedLines	line_4		9/12	(1.179167, -1)	4/18/2017 1:29:37 PM	739.4783
+FractionChange	Numerator	line_4		8		4/18/2017 1:29:38 PM	740.0453
+PressFraction	NumberedLines	line_4		8/12	(1.179167, -1)	4/18/2017 1:29:38 PM	740.3354
+FractionChange	Numerator	line_4		7		4/18/2017 1:29:38 PM	740.4224
+ReleaseFraction	NumberedLines	line_4		7/12	(1.179167, -1.033333)	4/18/2017 1:29:38 PM	740.4224
+EndStateReached						4/18/2017 1:29:39 PM	741.4514
+EndStateReached						4/18/2017 1:29:40 PM	742.3884
+EndStateReached						4/18/2017 1:29:40 PM	742.4814
+FractionChange	Numerator	line_4		8		4/18/2017 1:29:42 PM	743.8875
+PressFraction	NumberedLines	line_4		8/12	(1.179167, -1.033333)	4/18/2017 1:29:43 PM	745.1185
+ReleaseFraction	NumberedLines	line_4		8/12	(1.179167, -1.033333)	4/18/2017 1:29:43 PM	745.2426
+FractionChange	Numerator	line_4		9		4/18/2017 1:29:44 PM	745.9726
+FractionChange	Numerator	line_4		10		4/18/2017 1:29:44 PM	746.2057
+FractionChange	Numerator	line_4		11		4/18/2017 1:29:44 PM	746.4216
+FractionChange	Numerator	line_4		12		4/18/2017 1:29:44 PM	746.6516
+FractionChange	Numerator	line_4		13		4/18/2017 1:29:45 PM	746.8636
+FractionChange	Numerator	line_4		12		4/18/2017 1:29:46 PM	748.6508
+EndStateReached						4/18/2017 1:29:47 PM	748.9726
+FractionChange	Numerator	line_4		13		4/18/2017 1:29:56 PM	758.714
+FractionChange	Numerator	line_4		14		4/18/2017 1:29:57 PM	759.0272
+FractionChange	Numerator	line_4		15		4/18/2017 1:29:57 PM	759.1361
+FractionChange	Numerator	line_4		16		4/18/2017 1:29:57 PM	759.5132
+PressFraction	NumberedLines	line_4		16/12	(1.179167, -1.033333)	4/18/2017 1:30:00 PM	761.8903
+ReleaseFraction	NumberedLines	line_4		16/12	(1.179167, -1.033333)	4/18/2017 1:30:00 PM	762.0003
+FractionChange	Numerator	line_4		15		4/18/2017 1:30:00 PM	762.6302
+PressFraction	NumberedLines	line_4		15/12	(1.179167, -1.033333)	4/18/2017 1:30:02 PM	763.9553
+ReleaseFraction	NumberedLines	line_4		15/12	(1.179167, -1.033333)	4/18/2017 1:30:02 PM	764.0834
+FractionChange	Numerator	line_4		14		4/18/2017 1:30:02 PM	764.6523
+FractionChange	Numerator	line_4		13		4/18/2017 1:30:03 PM	764.8723
+FractionChange	Numerator	line_4		12		4/18/2017 1:30:03 PM	765.0903
+FractionChange	Numerator	line_4		11		4/18/2017 1:30:13 PM	775.1686
+FractionChange	Numerator	line_4		10		4/18/2017 1:30:13 PM	775.6127
+FractionChange	Numerator	line_4		9		4/18/2017 1:30:14 PM	775.8587
+EndStateReached						4/18/2017 1:30:17 PM	778.8616
+PressFraction	NumberedLines	line_4		9/12	(1.179167, -1.033333)	4/18/2017 1:30:36 PM	798.2075
+ReleaseFraction	NumberedLines	line_4		9/12	(1.245834, -1.033333)	4/18/2017 1:30:36 PM	798.3835
+PressFraction	NumberedLines	line_4		9/12	(1.245834, -1.033333)	4/18/2017 1:30:37 PM	799.4355
+FractionTrashed	NumberedLines	line_4		9/12		4/18/2017 1:30:38 PM	800.2256
+ReleaseFraction	NumberedLines	line_4		9/12	(-11.96667, 8)	4/18/2017 1:30:38 PM	800.2256
+EndStateReached						4/18/2017 1:30:39 PM	801.2094
+EndStateReached						4/18/2017 1:30:39 PM	801.3885
+ClickButton	OpenTaskDescription					4/18/2017 1:30:39 PM	801.5927
+EndStateReached						4/18/2017 1:30:40 PM	802.4367
+EndStateReached						4/18/2017 1:30:41 PM	803.2265
+EndStateReached						4/18/2017 1:30:41 PM	803.2265
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:30:43 PM	805.3907
+ClickButton	OpenTaskDescription					4/18/2017 1:30:46 PM	808.6728
+ClickButton	NumberedLines					4/18/2017 1:30:54 PM	815.8361
+FractionGenerated	NumberedLines	line_5				4/18/2017 1:30:54 PM	815.8361
+FractionChange	Denominator	line_5		1		4/18/2017 1:30:55 PM	817.1162
+FractionChange	Denominator	line_5		2		4/18/2017 1:30:55 PM	817.3162
+FractionChange	Denominator	line_5		3		4/18/2017 1:30:55 PM	817.5162
+FractionChange	Denominator	line_5		4		4/18/2017 1:30:55 PM	817.7172
+FractionChange	Denominator	line_5		5		4/18/2017 1:30:56 PM	817.9182
+FractionChange	Denominator	line_5		6		4/18/2017 1:30:56 PM	818.1252
+FractionChange	Denominator	line_5		7		4/18/2017 1:30:56 PM	818.3542
+FractionChange	Denominator	line_5		8		4/18/2017 1:30:56 PM	818.5662
+FractionChange	Denominator	line_5		9		4/18/2017 1:30:57 PM	818.7622
+FractionChange	Denominator	line_5		10		4/18/2017 1:30:57 PM	818.9654
+FractionChange	Denominator	line_5		11		4/18/2017 1:30:57 PM	819.1782
+FractionChange	Denominator	line_5		12		4/18/2017 1:30:58 PM	819.8083
+PressFraction	NumberedLines	line_5		0/12	(2.3125, 0)	4/18/2017 1:30:58 PM	820.5823
+ReleaseFraction	NumberedLines	line_5		0/12	(2.3125, 0)	4/18/2017 1:30:58 PM	820.6883
+FractionChange	Numerator	line_5		1		4/18/2017 1:30:59 PM	821.6743
+FractionChange	Numerator	line_5		2		4/18/2017 1:31:00 PM	821.8784
+FractionChange	Numerator	line_5		3		4/18/2017 1:31:00 PM	822.0674
+FractionChange	Numerator	line_5		4		4/18/2017 1:31:00 PM	822.2694
+FractionChange	Numerator	line_5		5		4/18/2017 1:31:00 PM	822.4664
+FractionChange	Numerator	line_5		6		4/18/2017 1:31:00 PM	822.6754
+FractionChange	Numerator	line_5		7		4/18/2017 1:31:01 PM	822.9064
+FractionChange	Numerator	line_5		8		4/18/2017 1:31:01 PM	823.1256
+FractionChange	Numerator	line_5		9		4/18/2017 1:31:01 PM	823.3404
+FractionChange	Numerator	line_5		10		4/18/2017 1:31:01 PM	823.5544
+FractionChange	Numerator	line_5		11		4/18/2017 1:31:02 PM	823.8184
+FractionChange	Numerator	line_5		12		4/18/2017 1:31:02 PM	824.3275
+FractionChange	Numerator	line_5		11		4/18/2017 1:31:03 PM	825.0355
+FractionChange	Numerator	line_5		10		4/18/2017 1:31:03 PM	825.2755
+FractionChange	Numerator	line_5		9		4/18/2017 1:31:04 PM	825.9865
+EndStateReached						4/18/2017 1:31:04 PM	826.3434
+PopupAfterTaskReflection						4/18/2017 1:31:05 PM	827.4018
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	困难	4/18/2017 1:31:06 PM		4/18/2017 1:31:06 PM	828.6879
+EndStateReached						4/18/2017 1:31:07 PM	828.9866
+PopupAfterTaskReflection						4/18/2017 1:31:09 PM	831.1607
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:31:12 PM		4/18/2017 1:31:12 PM	833.845
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 1:31:14 PM		4/18/2017 1:31:14 PM	836.6841
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:31:16 PM		4/18/2017 1:31:16 PM	837.9532
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:31:43 PM		4/18/2017 1:31:43 PM	865.3
+ClickButton	Lab					4/18/2017 1:32:06 PM	888.2907
+ClickButton	NumberedLines					4/18/2017 1:32:08 PM	890.4188
+FractionGenerated	NumberedLines	line_6				4/18/2017 1:32:08 PM	890.4188
+FractionChange	Denominator	line_6		1		4/18/2017 1:32:10 PM	892.6999
+FractionChange	Denominator	line_6		2		4/18/2017 1:32:11 PM	892.819
+FractionChange	Denominator	line_6		1		4/18/2017 1:32:12 PM	894.093
+PressFraction	NumberedLines	line_6		0/1	(2.3125, 0)	4/18/2017 1:32:12 PM	894.669
+ReleaseFraction	NumberedLines	line_6		0/1	(2.3125, 0)	4/18/2017 1:32:13 PM	894.788
+FractionChange	Numerator	line_6		1		4/18/2017 1:32:13 PM	895.581
+FractionChange	Numerator	line_6		2		4/18/2017 1:32:14 PM	895.83
+FractionChange	Numerator	line_6		3		4/18/2017 1:32:14 PM	896.6641
+PressFraction	NumberedLines	line_6		3/1	(2.3125, 0)	4/18/2017 1:32:16 PM	898.2811
+FractionPlaced	EqOp1	line_6		3/1		4/18/2017 1:32:17 PM	899.6942
+ReleaseFraction	NumberedLines	line_6		3/1	(2.3125, 0)	4/18/2017 1:32:17 PM	899.6942
+PressFraction	NumberedLines	line_6		3/1	(2.3125, 0)	4/18/2017 1:32:24 PM	905.8144
+ReleaseFraction	NumberedLines	line_6		3/1	(2.3125, 0)	4/18/2017 1:32:24 PM	905.9375
+FractionChange	Numerator	line_6		2		4/18/2017 1:32:42 PM	924.691
+FractionChange	Numerator	line_6		1		4/18/2017 1:32:43 PM	924.9161
+FractionChange	Numerator	line_6		0		4/18/2017 1:32:43 PM	925.1681
+FractionChange	Numerator	line_6		0		4/18/2017 1:32:43 PM	925.4821
+PressFraction	NumberedLines	line_6		0/1	(2.3125, 0)	4/18/2017 1:32:45 PM	927.4062
+ReleaseFraction	NumberedLines	line_6		0/1	(2.279167, -0.06666666)	4/18/2017 1:32:45 PM	927.5411
+FractionChange	Denominator	line_6		1		4/18/2017 1:32:46 PM	928.3922
+FractionChange	Denominator	line_6		1		4/18/2017 1:32:49 PM	931.1633
+PressFraction	NumberedLines	line_6		0/1	(2.279167, -0.06666666)	4/18/2017 1:32:50 PM	931.8033
+ReleaseFraction	NumberedLines	line_6		0/1	(2.279167, -0.06666672)	4/18/2017 1:32:50 PM	931.9083
+FractionChange	Denominator	line_6		1		4/18/2017 1:32:50 PM	932.3884
+FractionChange	Denominator	line_6		1		4/18/2017 1:32:51 PM	933.2325
+FractionChange	Denominator	line_6		1		4/18/2017 1:32:51 PM	933.4304
+PressFraction	NumberedLines	line_6		0/1	(2.279167, -0.06666672)	4/18/2017 1:32:52 PM	934.5764
+ReleaseFraction	NumberedLines	line_6		0/1	(2.279167, -0.06666672)	4/18/2017 1:32:52 PM	934.6705
+PressFraction	NumberedLines	line_6		0/1	(2.279167, -0.06666672)	4/18/2017 1:32:55 PM	936.9035
+ReleaseFraction	NumberedLines	line_6		0/1	(2.2125, -0.6333334)	4/18/2017 1:32:55 PM	937.1156
+PressFraction	NumberedLines	line_6		0/1	(2.2125, -0.6333334)	4/18/2017 1:32:55 PM	937.5046
+ReleaseFraction	NumberedLines	line_6		0/1	(2.2125, -0.6666667)	4/18/2017 1:32:55 PM	937.5916
+PressFraction	NumberedLines	line_6		0/1	(2.2125, -0.6666667)	4/18/2017 1:32:57 PM	939.0021
+FractionTrashed	NumberedLines	line_6		0/1		4/18/2017 1:32:58 PM	940.1617
+ReleaseFraction	NumberedLines	line_6		0/1	(-12.03333, 9.2)	4/18/2017 1:32:58 PM	940.1617
+ClickButton	NumberedLines					4/18/2017 1:32:59 PM	941.0977
+FractionGenerated	NumberedLines	line_7				4/18/2017 1:32:59 PM	941.0977
+FractionChange	Denominator	line_7		1		4/18/2017 1:33:06 PM	948.3419
+FractionChange	Denominator	line_7		2		4/18/2017 1:33:06 PM	948.6019
+PressFraction	NumberedLines	line_7		0/2	(1.3125, 0)	4/18/2017 1:33:07 PM	949.337
+ReleaseFraction	NumberedLines	line_7		0/2	(1.3125, 0)	4/18/2017 1:33:07 PM	949.4221
+FractionChange	Numerator	line_7		1		4/18/2017 1:33:09 PM	951.4832
+FractionChange	Numerator	line_7		2		4/18/2017 1:33:10 PM	951.7571
+FractionChange	Numerator	line_7		3		4/18/2017 1:33:10 PM	952.1221
+FractionChange	Numerator	line_7		4		4/18/2017 1:33:10 PM	952.2221
+FractionChange	Numerator	line_7		5		4/18/2017 1:33:11 PM	952.7492
+FractionChange	Numerator	line_7		6		4/18/2017 1:33:12 PM	953.9122
+PressFraction	NumberedLines	line_7		6/2	(1.3125, 0)	4/18/2017 1:33:13 PM	955.3262
+OperationResult	Equivalence			=		4/18/2017 1:33:14 PM	956.3232
+FractionPlaced	EqOp2	line_7		6/2		4/18/2017 1:33:14 PM	956.3232
+ReleaseFraction	NumberedLines	line_7		6/2	(1.3125, 0)	4/18/2017 1:33:14 PM	956.3232
+PressFraction	NumberedLines	line_7		6/2	(1.3125, 0)	4/18/2017 1:33:26 PM	967.7857
+FractionTrashed	NumberedLines	line_7		6/2		4/18/2017 1:33:27 PM	968.89
+ReleaseFraction	NumberedLines	line_7		6/2	(-11.1, 7.833333)	4/18/2017 1:33:27 PM	968.89
+ClickButton	Lab					4/18/2017 1:34:17 PM	1019.328
+ClickButton	OpenTaskDescription					4/18/2017 1:34:20 PM	1021.964
+ClickButton	NumberedLines					4/18/2017 1:34:48 PM	1050.229
+FractionGenerated	NumberedLines	line_8				4/18/2017 1:34:48 PM	1050.229
+FractionChange	Denominator	line_8		1		4/18/2017 1:34:57 PM	1059.156
+PressFraction	NumberedLines	line_8		0/1	(1.3125, -1)	4/18/2017 1:34:59 PM	1060.887
+ReleaseFraction	NumberedLines	line_8		0/1	(1.3125, -1)	4/18/2017 1:34:59 PM	1061
+FractionChange	Numerator	line_8		1		4/18/2017 1:35:00 PM	1061.905
+FractionChange	Numerator	line_8		2		4/18/2017 1:35:00 PM	1062.162
+FractionChange	Numerator	line_8		3		4/18/2017 1:35:01 PM	1062.977
+PressFraction	NumberedLines	line_8		3/1	(1.3125, -1)	4/18/2017 1:35:02 PM	1063.793
+FractionChange	Numerator	line_8		2		4/18/2017 1:35:02 PM	1063.876
+ReleaseFraction	NumberedLines	line_8		2/1	(1.3125, -1)	4/18/2017 1:35:02 PM	1063.876
+FractionChange	Numerator	line_8		3		4/18/2017 1:35:03 PM	1065.369
+PressFraction	NumberedLines	line_8		3/1	(1.3125, -1)	4/18/2017 1:35:04 PM	1065.869
+ReleaseFraction	NumberedLines	line_8		3/1	(1.045833, 3.1)	4/18/2017 1:35:04 PM	1066.565
+ClickButton	NumberedLines					4/18/2017 1:35:06 PM	1068.003
+FractionGenerated	NumberedLines	line_9				4/18/2017 1:35:06 PM	1068.003
+PressFraction	NumberedLines	line_9		0/0	(1.3125, 1)	4/18/2017 1:35:07 PM	1069.193
+ReleaseFraction	NumberedLines	line_9		0/0	(0.5791667, -2.033333)	4/18/2017 1:35:08 PM	1069.876
+FractionChange	Denominator	line_9		1		4/18/2017 1:35:10 PM	1071.996
+PressFraction	NumberedLines	line_9		0/1	(0.5791667, -2.033333)	4/18/2017 1:35:10 PM	1072.61
+ReleaseFraction	NumberedLines	line_9		0/1	(0.5791669, -2.033333)	4/18/2017 1:35:10 PM	1072.712
+FractionChange	Numerator	line_9		1		4/18/2017 1:35:11 PM	1073.515
+FractionChange	Numerator	line_9		2		4/18/2017 1:35:11 PM	1073.744
+FractionChange	Numerator	line_9		3		4/18/2017 1:35:12 PM	1074.513
+PressFraction	NumberedLines	line_9		3/1	(0.5791669, -2.033333)	4/18/2017 1:35:14 PM	1076.6
+ReleaseFraction	NumberedLines	line_9		3/1	(2.079167, -2.033333)	4/18/2017 1:35:15 PM	1077.396
+PressFraction	NumberedLines	line_9		3/1	(2.079167, -2.033333)	4/18/2017 1:35:15 PM	1077.542
+ReleaseFraction	NumberedLines	line_9		3/1	(2.645833, -1.9)	4/18/2017 1:35:15 PM	1077.694
+ClickButton	Lab					4/18/2017 1:35:22 PM	1083.933
+PressFraction	NumberedLines	line_8		3/1	(1.045833, 3.1)	4/18/2017 1:35:23 PM	1085.127
+FractionPlaced	EqOp1	line_8		3/1		4/18/2017 1:35:24 PM	1086.022
+ReleaseFraction	NumberedLines	line_8		3/1	(1.045833, 3.1)	4/18/2017 1:35:24 PM	1086.022
+PressFraction	NumberedLines	line_8		3/1	(1.045833, 3.1)	4/18/2017 1:35:26 PM	1088.635
+FractionTrashed	NumberedLines	line_8		3/1		4/18/2017 1:35:28 PM	1089.859
+ReleaseFraction	NumberedLines	line_8		3/1	(-12.23333, 8.8)	4/18/2017 1:35:28 PM	1089.859
+PressFraction	NumberedLines	line_9		3/1	(2.645833, -1.9)	4/18/2017 1:35:29 PM	1091.393
+ReleaseFraction	NumberedLines	line_9		3/1	(2.645833, -1.9)	4/18/2017 1:35:29 PM	1091.494
+FractionChange	Numerator	line_9		2		4/18/2017 1:35:41 PM	1103.195
+FractionChange	Numerator	line_9		1		4/18/2017 1:35:41 PM	1103.545
+FractionChange	Numerator	line_9		2		4/18/2017 1:35:42 PM	1104.205
+FractionChange	Numerator	line_9		3		4/18/2017 1:35:42 PM	1104.466
+PressFraction	NumberedLines	line_9		3/1	(2.645833, -1.9)	4/18/2017 1:35:43 PM	1105.134
+ReleaseFraction	NumberedLines	line_9		3/1	(1.345833, 1.566667)	4/18/2017 1:35:44 PM	1105.824
+FractionChange	Numerator	line_9		2		4/18/2017 1:35:47 PM	1108.894
+FractionChange	Numerator	line_9		3		4/18/2017 1:35:47 PM	1109.329
+FractionChange	Numerator	line_9		2		4/18/2017 1:36:37 PM	1159.348
+FractionChange	Numerator	line_9		1		4/18/2017 1:36:38 PM	1160.008
+PressFraction	NumberedLines	line_9		1/1	(1.345833, 1.566667)	4/18/2017 1:37:04 PM	1186.678
+ReleaseFraction	NumberedLines	line_9		1/1	(1.345833, 1.566667)	4/18/2017 1:37:05 PM	1186.818
+ClickButton	NumberedLines					4/18/2017 1:37:09 PM	1191.089
+FractionGenerated	NumberedLines	line_10				4/18/2017 1:37:09 PM	1191.089
+PressFraction	NumberedLines	line_10		0/0	(1.3125, 1)	4/18/2017 1:37:10 PM	1191.826
+ReleaseFraction	NumberedLines	line_10		0/0	(3.945833, -5.5)	4/18/2017 1:37:11 PM	1192.803
+PressFraction	NumberedLines	line_10		0/0	(3.945833, -5.5)	4/18/2017 1:37:15 PM	1196.878
+FractionTrashed	NumberedLines	line_10		0/0		4/18/2017 1:37:16 PM	1198.2
+ReleaseFraction	NumberedLines	line_10		0/0	(-12.7, 9.966667)	4/18/2017 1:37:16 PM	1198.2
+PressFraction	NumberedLines	line_9		1/1	(1.345833, 1.566667)	4/18/2017 1:37:17 PM	1199.441
+FractionTrashed	NumberedLines	line_9		1/1		4/18/2017 1:37:19 PM	1200.847
+ReleaseFraction	NumberedLines	line_9		1/1	(-12.3, 8.7)	4/18/2017 1:37:19 PM	1200.847
+ClickButton	Lab					4/18/2017 1:37:21 PM	1203.507
+ClickButton	Lab					4/18/2017 1:37:22 PM	1204.357
+ClickButton	NumberedLines					4/18/2017 1:37:23 PM	1205.751
+FractionGenerated	NumberedLines	line_11				4/18/2017 1:37:24 PM	1205.751
+PressFraction	NumberedLines	line_11		0/0	(2.3125, 0)	4/18/2017 1:37:25 PM	1206.873
+ReleaseFraction	NumberedLines	line_11		0/0	(-4.554167, -1.766667)	4/18/2017 1:37:26 PM	1208.105
+FractionChange	Denominator	line_11		1		4/18/2017 1:37:27 PM	1209.125
+FractionChange	Denominator	line_11		2		4/18/2017 1:37:27 PM	1209.599
+FractionChange	Denominator	line_11		3		4/18/2017 1:37:28 PM	1209.993
+FractionChange	Denominator	line_11		4		4/18/2017 1:37:28 PM	1210.081
+FractionChange	Denominator	line_11		3		4/18/2017 1:37:29 PM	1211.489
+PressFraction	NumberedLines	line_11		0/3	(-4.554167, -1.766667)	4/18/2017 1:37:30 PM	1212.107
+ReleaseFraction	NumberedLines	line_11		0/3	(-4.554167, -1.766667)	4/18/2017 1:37:30 PM	1212.207
+FractionChange	Numerator	line_11		1		4/18/2017 1:37:31 PM	1213.51
+PressFraction	NumberedLines	line_11		1/3	(-4.554167, -1.766667)	4/18/2017 1:37:32 PM	1214.675
+FractionPlaced	EqOp1	line_11		1/3		4/18/2017 1:37:34 PM	1215.764
+ReleaseFraction	NumberedLines	line_11		1/3	(-4.554167, -1.766667)	4/18/2017 1:37:34 PM	1215.764
+ClickButton	NumberedLines					4/18/2017 1:37:35 PM	1217.285
+FractionGenerated	NumberedLines	line_12				4/18/2017 1:37:35 PM	1217.285
+PressFraction	NumberedLines	line_12		0/0	(2.3125, 0)	4/18/2017 1:37:37 PM	1219.459
+ReleaseFraction	NumberedLines	line_12		0/0	(0.6125002, -5.633333)	4/18/2017 1:37:39 PM	1220.962
+FractionChange	Denominator	line_12		1		4/18/2017 1:37:43 PM	1224.899
+FractionChange	Denominator	line_12		2		4/18/2017 1:37:43 PM	1225.154
+FractionChange	Denominator	line_12		3		4/18/2017 1:37:43 PM	1225.517
+FractionChange	Denominator	line_12		4		4/18/2017 1:37:43 PM	1225.638
+FractionChange	Denominator	line_12		5		4/18/2017 1:37:44 PM	1226.309
+PressFraction	NumberedLines	line_12		0/5	(0.6125002, -5.633333)	4/18/2017 1:37:45 PM	1226.957
+ReleaseFraction	NumberedLines	line_12		0/5	(0.6125002, -5.633333)	4/18/2017 1:37:45 PM	1227.071
+FractionChange	Numerator	line_12		1		4/18/2017 1:37:46 PM	1228.048
+PressFraction	NumberedLines	line_12		1/5	(0.6125002, -5.633333)	4/18/2017 1:37:46 PM	1228.657
+OperationResult	Equivalence			>		4/18/2017 1:37:48 PM	1230.088
+FractionPlaced	EqOp2	line_12		1/5		4/18/2017 1:37:48 PM	1230.088
+ReleaseFraction	NumberedLines	line_12		1/5	(0.6125002, -5.633333)	4/18/2017 1:37:48 PM	1230.088
+EndStateReached						4/18/2017 1:37:51 PM	1233.093
+EndStateReached						4/18/2017 1:37:51 PM	1233.093
+EndStateReached						4/18/2017 1:37:51 PM	1233.093
+PopupAfterTaskReflection						4/18/2017 1:37:54 PM	1236.174
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:37:55 PM		4/18/2017 1:37:55 PM	1237.631
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:37:59 PM		4/18/2017 1:37:59 PM	1240.8
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我搞不明白	4/18/2017 1:38:01 PM		4/18/2017 1:38:01 PM	1242.762
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 1:38:01 PM		4/18/2017 1:38:01 PM	1243.648
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:38:04 PM		4/18/2017 1:38:04 PM	1245.908
+ClickButton	Lab					4/18/2017 1:38:04 PM	1245.908
+ClickButton	Lab					4/18/2017 1:38:30 PM	1272.554
+ClickButton	NumberedLines					4/18/2017 1:38:37 PM	1279.545
+FractionGenerated	NumberedLines	line_13				4/18/2017 1:38:37 PM	1279.545
+PressFraction	NumberedLines	line_13		0/0	(0.3125, 0)	4/18/2017 1:38:38 PM	1280.349
+ReleaseFraction	NumberedLines	line_13		0/0	(0.2791667, 0)	4/18/2017 1:38:38 PM	1280.457
+FractionChange	Denominator	line_13		1		4/18/2017 1:38:39 PM	1280.772
+FractionChange	Denominator	line_13		2		4/18/2017 1:38:39 PM	1281.008
+FractionChange	Denominator	line_13		3		4/18/2017 1:38:39 PM	1281.231
+FractionChange	Denominator	line_13		4		4/18/2017 1:38:39 PM	1281.443
+FractionChange	Denominator	line_13		5		4/18/2017 1:38:39 PM	1281.654
+FractionChange	Denominator	line_13		6		4/18/2017 1:38:40 PM	1281.892
+FractionChange	Denominator	line_13		7		4/18/2017 1:38:40 PM	1282.121
+FractionChange	Denominator	line_13		8		4/18/2017 1:38:40 PM	1282.389
+FractionChange	Denominator	line_13		9		4/18/2017 1:38:40 PM	1282.664
+FractionChange	Denominator	line_13		8		4/18/2017 1:38:41 PM	1283.731
+PressFraction	NumberedLines	line_13		0/8	(0.2791667, 0)	4/18/2017 1:38:42 PM	1284.255
+ReleaseFraction	NumberedLines	line_13		0/8	(0.2791667, 0)	4/18/2017 1:38:42 PM	1284.378
+FractionChange	Numerator	line_13		1		4/18/2017 1:38:43 PM	1285.164
+ClickButton	NumberedLines					4/18/2017 1:38:47 PM	1289.572
+FractionGenerated	NumberedLines	line_14				4/18/2017 1:38:47 PM	1289.572
+PressFraction	NumberedLines	line_14		0/0	(1.3125, -1)	4/18/2017 1:38:48 PM	1290.296
+ReleaseFraction	NumberedLines	line_14		0/0	(-1.754167, -4.666667)	4/18/2017 1:38:49 PM	1291.039
+FractionChange	Denominator	line_14		1		4/18/2017 1:38:52 PM	1293.998
+FractionChange	Denominator	line_14		2		4/18/2017 1:38:55 PM	1297.421
+FractionChange	Denominator	line_14		3		4/18/2017 1:38:56 PM	1297.826
+PressFraction	NumberedLines	line_14		0/3	(-1.754167, -4.666667)	4/18/2017 1:38:56 PM	1298.333
+ReleaseFraction	NumberedLines	line_14		0/3	(-1.754167, -4.666667)	4/18/2017 1:38:56 PM	1298.423
+FractionChange	Numerator	line_14		1		4/18/2017 1:38:57 PM	1299.271
+PressFraction	NumberedLines	line_14		1/3	(-1.754167, -4.666667)	4/18/2017 1:39:01 PM	1303.503
+ReleaseFraction	NumberedLines	line_14		1/3	(-2.120834, -9.700001)	4/18/2017 1:39:02 PM	1304.424
+PressFraction	NumberedLines	line_13		1/8	(0.2791667, 0)	4/18/2017 1:39:03 PM	1305.096
+FractionPlaced	EqOp1	line_13		1/8		4/18/2017 1:39:04 PM	1305.77
+ReleaseFraction	NumberedLines	line_13		1/8	(0.2791667, 0)	4/18/2017 1:39:04 PM	1305.77
+PressFraction	NumberedLines	line_13		1/8	(0.2791667, 0)	4/18/2017 1:39:05 PM	1306.892
+OperationResult	Equivalence			=		4/18/2017 1:39:06 PM	1308.297
+FractionPlaced	EqOp2	line_13		1/8		4/18/2017 1:39:06 PM	1308.297
+ReleaseFraction	NumberedLines	line_13		1/8	(0.2791667, 0)	4/18/2017 1:39:06 PM	1308.297
+PressFraction	NumberedLines	line_14		1/3	(-2.120834, -9.700001)	4/18/2017 1:39:10 PM	1312.476
+OperationResult	Equivalence			<		4/18/2017 1:39:12 PM	1313.819
+FractionPlaced	EqOp2	line_14		1/3		4/18/2017 1:39:12 PM	1313.819
+ReleaseFraction	NumberedLines	line_14		1/3	(-2.120834, -9.700001)	4/18/2017 1:39:12 PM	1313.819
+EndStateReached						4/18/2017 1:39:15 PM	1316.822
+EndStateReached						4/18/2017 1:39:15 PM	1316.822
+EndStateReached						4/18/2017 1:39:15 PM	1316.822
+PopupAfterTaskReflection						4/18/2017 1:39:17 PM	1318.854
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:39:19 PM		4/18/2017 1:39:19 PM	1321.631
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 1:39:25 PM		4/18/2017 1:39:25 PM	1327.391
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:39:27 PM		4/18/2017 1:39:27 PM	1328.821
+ClickButton	Lab					4/18/2017 1:39:27 PM	1328.821
+ClickButton	NumberedLines					4/18/2017 1:39:33 PM	1335.647
+FractionGenerated	NumberedLines	line_15				4/18/2017 1:39:33 PM	1335.647
+FractionChange	Denominator	line_15		1		4/18/2017 1:39:35 PM	1337.083
+FractionChange	Denominator	line_15		2		4/18/2017 1:39:35 PM	1337.31
+FractionChange	Denominator	line_15		3		4/18/2017 1:39:35 PM	1337.512
+FractionChange	Denominator	line_15		4		4/18/2017 1:39:35 PM	1337.703
+FractionChange	Denominator	line_15		5		4/18/2017 1:39:36 PM	1337.901
+FractionChange	Denominator	line_15		6		4/18/2017 1:39:36 PM	1338.09
+FractionChange	Denominator	line_15		7		4/18/2017 1:39:36 PM	1338.307
+FractionChange	Denominator	line_15		8		4/18/2017 1:39:37 PM	1338.803
+PressFraction	NumberedLines	line_15		0/8	(1.3125, 1)	4/18/2017 1:39:37 PM	1339.595
+ReleaseFraction	NumberedLines	line_15		0/8	(1.3125, 1)	4/18/2017 1:39:37 PM	1339.69
+FractionChange	Numerator	line_15		1		4/18/2017 1:39:38 PM	1340.448
+FractionChange	Numerator	line_15		2		4/18/2017 1:39:38 PM	1340.661
+ClickButton	NumberedLines					4/18/2017 1:39:39 PM	1341.537
+FractionGenerated	NumberedLines	line_16				4/18/2017 1:39:39 PM	1341.537
+PressFraction	NumberedLines	line_16		0/0	(0.3125, 0)	4/18/2017 1:39:40 PM	1342.517
+ReleaseFraction	NumberedLines	line_16		0/0	(0.3458333, -2.133333)	4/18/2017 1:39:41 PM	1342.797
+PressFraction	NumberedLines	line_16		0/0	(0.3458333, -2.133333)	4/18/2017 1:39:43 PM	1345.438
+FractionTrashed	NumberedLines	line_16		0/0		4/18/2017 1:39:44 PM	1346.374
+ReleaseFraction	NumberedLines	line_16		0/0	(-11.1, 8.066667)	4/18/2017 1:39:44 PM	1346.374
+PressFraction	NumberedLines	line_15		2/8	(1.3125, 1)	4/18/2017 1:39:56 PM	1358.426
+ReleaseFraction	NumberedLines	line_15		2/8	(1.3125, 1)	4/18/2017 1:39:56 PM	1358.579
+FractionChange	Numerator	line_15		3		4/18/2017 1:39:57 PM	1359.5
+FractionChange	Numerator	line_15		4		4/18/2017 1:39:58 PM	1359.773
+FractionChange	Numerator	line_15		5		4/18/2017 1:39:58 PM	1360.035
+FractionChange	Numerator	line_15		6		4/18/2017 1:39:58 PM	1360.585
+ClickButton	NumberedLines					4/18/2017 1:40:03 PM	1365.15
+FractionGenerated	NumberedLines	line_17				4/18/2017 1:40:03 PM	1365.15
+PressFraction	NumberedLines	line_17		0/0	(1.3125, -1)	4/18/2017 1:40:04 PM	1366.103
+ReleaseFraction	NumberedLines	line_17		0/0	(1.2125, -2.566667)	4/18/2017 1:40:04 PM	1366.469
+FractionChange	Denominator	line_17		1		4/18/2017 1:40:05 PM	1367.311
+FractionChange	Denominator	line_17		2		4/18/2017 1:40:05 PM	1367.521
+FractionChange	Denominator	line_17		3		4/18/2017 1:40:06 PM	1368.284
+PressFraction	NumberedLines	line_17		0/3	(1.2125, -2.566667)	4/18/2017 1:40:07 PM	1369.097
+ReleaseFraction	NumberedLines	line_17		0/3	(1.2125, -2.566667)	4/18/2017 1:40:07 PM	1369.192
+FractionChange	Numerator	line_17		1		4/18/2017 1:40:08 PM	1370.206
+FractionChange	Numerator	line_17		2		4/18/2017 1:40:08 PM	1370.583
+ClickButton	Lab					4/18/2017 1:40:10 PM	1372.438
+PressFraction	NumberedLines	line_15		6/8	(1.3125, 1)	4/18/2017 1:40:11 PM	1373.585
+FractionPlaced	EqOp1	line_15		6/8		4/18/2017 1:40:12 PM	1374.137
+ReleaseFraction	NumberedLines	line_15		6/8	(1.3125, 1)	4/18/2017 1:40:12 PM	1374.137
+PressFraction	NumberedLines	line_17		2/3	(1.2125, -2.566667)	4/18/2017 1:40:13 PM	1375.073
+OperationResult	Equivalence			>		4/18/2017 1:40:14 PM	1376.157
+FractionPlaced	EqOp2	line_17		2/3		4/18/2017 1:40:14 PM	1376.157
+ReleaseFraction	NumberedLines	line_17		2/3	(1.2125, -2.566667)	4/18/2017 1:40:14 PM	1376.157
+PressFraction	NumberedLines	line_15		6/8	(1.3125, 1)	4/18/2017 1:40:27 PM	1389.597
+FractionTrashed	NumberedLines	line_15		6/8		4/18/2017 1:40:29 PM	1391.08
+ReleaseFraction	NumberedLines	line_15		6/8	(-12.56667, 8.866667)	4/18/2017 1:40:29 PM	1391.08
+PressFraction	NumberedLines	line_17		2/3	(1.2125, -2.566667)	4/18/2017 1:40:30 PM	1392.133
+FractionTrashed	NumberedLines	line_17		2/3		4/18/2017 1:40:31 PM	1393.159
+ReleaseFraction	NumberedLines	line_17		2/3	(-10.76667, 8.066667)	4/18/2017 1:40:31 PM	1393.159
+ClickButton	OpenTaskDescription					4/18/2017 1:40:55 PM	1417.282
+Feedback	FeedbackPresented			你对分母和分子需要做些什么？		4/18/2017 1:42:00 PM	1482.63
+ClickButton	OpenTaskDescription					4/18/2017 1:42:18 PM	1499.934
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:42:23 PM	1505.319
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:42:24 PM	1505.804
+ClickButton	Lab					4/18/2017 1:42:39 PM	1521.321
+Feedback	FeedbackPresented			你对分母和分子需要做些什么？		4/18/2017 1:42:42 PM	1523.957
+ClickButton	OpenTaskDescription					4/18/2017 1:42:45 PM	1526.889
+ClickButton	NumberedLines					4/18/2017 1:42:51 PM	1533.168
+FractionGenerated	NumberedLines	line_18				4/18/2017 1:42:51 PM	1533.168
+PressFraction	NumberedLines	line_18		0/0	(2.3125, 0)	4/18/2017 1:42:53 PM	1535.18
+ReleaseFraction	NumberedLines	line_18		0/0	(-0.6875, 3.366667)	4/18/2017 1:42:54 PM	1536.275
+FractionChange	Denominator	line_18		1		4/18/2017 1:43:01 PM	1543.267
+FractionChange	Denominator	line_18		2		4/18/2017 1:43:01 PM	1543.636
+FractionChange	Denominator	line_18		3		4/18/2017 1:43:02 PM	1544.253
+FractionChange	Denominator	line_18		4		4/18/2017 1:43:02 PM	1544.49
+FractionChange	Denominator	line_18		5		4/18/2017 1:43:02 PM	1544.71
+FractionChange	Denominator	line_18		6		4/18/2017 1:43:03 PM	1544.914
+FractionChange	Denominator	line_18		7		4/18/2017 1:43:03 PM	1545.157
+FractionChange	Denominator	line_18		8		4/18/2017 1:43:03 PM	1545.406
+FractionChange	Denominator	line_18		7		4/18/2017 1:43:06 PM	1548.07
+FractionChange	Denominator	line_18		6		4/18/2017 1:43:06 PM	1548.282
+FractionChange	Denominator	line_18		5		4/18/2017 1:43:06 PM	1548.479
+FractionChange	Denominator	line_18		4		4/18/2017 1:43:06 PM	1548.692
+FractionChange	Denominator	line_18		3		4/18/2017 1:43:07 PM	1548.926
+PressFraction	NumberedLines	line_18		0/3	(-0.6875, 3.366667)	4/18/2017 1:43:09 PM	1550.988
+ReleaseFraction	NumberedLines	line_18		0/3	(-0.6875, 3.366667)	4/18/2017 1:43:09 PM	1551.096
+FractionChange	Numerator	line_18		1		4/18/2017 1:43:10 PM	1552.079
+FractionChange	Numerator	line_18		2		4/18/2017 1:43:10 PM	1552.329
+FractionChange	Numerator	line_18		3		4/18/2017 1:43:10 PM	1552.568
+FractionChange	Numerator	line_18		4		4/18/2017 1:43:11 PM	1552.807
+FractionChange	Numerator	line_18		5		4/18/2017 1:43:17 PM	1558.987
+FractionChange	Numerator	line_18		4		4/18/2017 1:43:27 PM	1568.924
+FractionChange	Numerator	line_18		3		4/18/2017 1:43:27 PM	1569.303
+FractionChange	Numerator	line_18		2		4/18/2017 1:43:29 PM	1571.472
+FractionChange	Numerator	line_18		1		4/18/2017 1:43:29 PM	1571.734
+FractionChange	Numerator	line_18		0		4/18/2017 1:43:30 PM	1571.972
+FractionChange	Numerator	line_18		0		4/18/2017 1:43:30 PM	1572.182
+PressFraction	NumberedLines	line_18		0/3	(-0.6875, 3.366667)	4/18/2017 1:43:30 PM	1572.714
+ReleaseFraction	NumberedLines	line_18		0/3	(-0.6875, 3.366667)	4/18/2017 1:43:31 PM	1572.817
+FractionChange	Denominator	line_18		2		4/18/2017 1:43:31 PM	1573.608
+FractionChange	Denominator	line_18		1		4/18/2017 1:43:32 PM	1573.848
+FractionChange	Denominator	line_18		1		4/18/2017 1:43:32 PM	1574.121
+FractionChange	Denominator	line_18		1		4/18/2017 1:43:32 PM	1574.366
+FractionChange	Denominator	line_18		2		4/18/2017 1:43:33 PM	1575.205
+FractionChange	Denominator	line_18		3		4/18/2017 1:43:33 PM	1575.414
+FractionChange	Denominator	line_18		4		4/18/2017 1:43:33 PM	1575.64
+PressFraction	NumberedLines	line_18		0/4	(-0.6875, 3.366667)	4/18/2017 1:43:35 PM	1577.007
+ReleaseFraction	NumberedLines	line_18		0/4	(-0.6875, 3.366667)	4/18/2017 1:43:35 PM	1577.068
+FractionChange	Numerator	line_18		0		4/18/2017 1:43:36 PM	1577.765
+FractionChange	Numerator	line_18		0		4/18/2017 1:43:36 PM	1578.678
+FractionChange	Numerator	line_18		0		4/18/2017 1:43:37 PM	1579.7
+FractionChange	Numerator	line_18		1		4/18/2017 1:43:38 PM	1580.187
+FractionChange	Numerator	line_18		2		4/18/2017 1:43:38 PM	1580.473
+FractionChange	Numerator	line_18		3		4/18/2017 1:43:39 PM	1581.047
+ClickButton	Lab					4/18/2017 1:43:44 PM	1586.318
+PressFraction	NumberedLines	line_18		3/4	(-0.6875, 3.366667)	4/18/2017 1:43:45 PM	1586.952
+FractionPlaced	EqOp1	line_18		3/4		4/18/2017 1:43:45 PM	1587.565
+ReleaseFraction	NumberedLines	line_18		3/4	(-0.6875, 3.366667)	4/18/2017 1:43:45 PM	1587.565
+ClickButton	NumberedLines					4/18/2017 1:43:47 PM	1588.816
+FractionGenerated	NumberedLines	line_19				4/18/2017 1:43:47 PM	1588.816
+PressFraction	NumberedLines	line_19		0/0	(2.3125, 0)	4/18/2017 1:43:48 PM	1589.763
+ReleaseFraction	NumberedLines	line_19		0/0	(-0.2208333, 0.7666667)	4/18/2017 1:43:48 PM	1590.37
+PressFraction	NumberedLines	line_19		0/0	(-0.2208333, 0.7666667)	4/18/2017 1:43:50 PM	1592.323
+ReleaseFraction	NumberedLines	line_19		0/0	(0.4125004, 0.8333333)	4/18/2017 1:43:51 PM	1593.07
+FractionChange	Denominator	line_19		1		4/18/2017 1:43:52 PM	1593.882
+FractionChange	Denominator	line_19		2		4/18/2017 1:43:54 PM	1596.092
+FractionChange	Denominator	line_19		3		4/18/2017 1:43:58 PM	1600.661
+PressFraction	NumberedLines	line_19		0/3	(0.4125004, 0.8333333)	4/18/2017 1:44:00 PM	1601.847
+ReleaseFraction	NumberedLines	line_19		0/3	(0.4125004, 0.8333333)	4/18/2017 1:44:00 PM	1601.966
+FractionChange	Numerator	line_19		1		4/18/2017 1:44:04 PM	1606.222
+PressFraction	NumberedLines	line_19		1/3	(0.4125004, 0.8333333)	4/18/2017 1:44:05 PM	1606.783
+ReleaseFraction	NumberedLines	line_19		1/3	(0.3791671, 0.7)	4/18/2017 1:44:05 PM	1606.923
+FractionChange	Denominator	line_19		2		4/18/2017 1:44:06 PM	1607.966
+PressFraction	NumberedLines	line_19		1/2	(0.3791671, 0.7)	4/18/2017 1:44:06 PM	1608.396
+OperationResult	Equivalence			>		4/18/2017 1:44:07 PM	1609.284
+FractionPlaced	EqOp2	line_19		1/2		4/18/2017 1:44:07 PM	1609.284
+ReleaseFraction	NumberedLines	line_19		1/2	(0.3791671, 0.7)	4/18/2017 1:44:07 PM	1609.284
+PressFraction	NumberedLines	line_19		1/2	(0.3791671, 0.7)	4/18/2017 1:44:10 PM	1612.288
+ReleaseFraction	NumberedLines	line_19		1/2	(-5.9875, -1.9)	4/18/2017 1:44:10 PM	1612.583
+Feedback	FeedbackPresented			你对分母和分子需要做些什么？		4/18/2017 1:44:11 PM	1613.448
+PressFraction	NumberedLines	line_18		3/4	(-0.6875, 3.366667)	4/18/2017 1:44:15 PM	1617.07
+ReleaseFraction	NumberedLines	line_18		3/4	(2.779167, -0.2333331)	4/18/2017 1:44:17 PM	1619.281
+PressFraction	NumberedLines	line_19		1/2	(-5.9875, -1.9)	4/18/2017 1:44:18 PM	1620.706
+ReleaseFraction	NumberedLines	line_19		1/2	(-7.320833, 2)	4/18/2017 1:44:19 PM	1621.625
+ClickButton	Lab					4/18/2017 1:44:22 PM	1624.257
+ClickButton	Lab					4/18/2017 1:44:23 PM	1625.498
+PressFraction	NumberedLines	line_18		3/4	(2.779167, -0.2333331)	4/18/2017 1:44:24 PM	1626.45
+FractionPlaced	EqOp1	line_18		3/4		4/18/2017 1:44:25 PM	1627.292
+ReleaseFraction	NumberedLines	line_18		3/4	(2.779167, -0.2333331)	4/18/2017 1:44:25 PM	1627.292
+PressFraction	NumberedLines	line_19		1/2	(-7.320833, 2)	4/18/2017 1:44:26 PM	1628.268
+ReleaseFraction	NumberedLines	line_19		1/2	(-7.3875, 1.333333)	4/18/2017 1:44:26 PM	1628.541
+PressFraction	NumberedLines	line_19		1/2	(-7.3875, 1.333333)	4/18/2017 1:44:27 PM	1628.818
+ReleaseFraction	NumberedLines	line_19		1/2	(-7.3875, 1.333333)	4/18/2017 1:44:27 PM	1628.91
+PressFraction	NumberedLines	line_19		1/2	(-7.3875, 1.333333)	4/18/2017 1:44:27 PM	1629.523
+ReleaseFraction	NumberedLines	line_19		1/2	(-7.3875, 1.333333)	4/18/2017 1:44:27 PM	1629.606
+FractionChange	Denominator	line_19		3		4/18/2017 1:44:30 PM	1632.07
+FractionChange	Denominator	line_19		2		4/18/2017 1:44:31 PM	1633.554
+FractionChange	Denominator	line_19		3		4/18/2017 1:44:35 PM	1637.537
+FractionChange	Denominator	line_19		4		4/18/2017 1:44:47 PM	1649.294
+PressFraction	NumberedLines	line_19		1/4	(-7.3875, 1.333333)	4/18/2017 1:44:47 PM	1649.653
+OperationResult	Equivalence			>		4/18/2017 1:44:49 PM	1650.968
+FractionPlaced	EqOp2	line_19		1/4		4/18/2017 1:44:49 PM	1650.968
+ReleaseFraction	NumberedLines	line_19		1/4	(-7.3875, 1.333333)	4/18/2017 1:44:49 PM	1650.968
+PressFraction	NumberedLines	line_19		1/4	(-7.3875, 1.333333)	4/18/2017 1:44:52 PM	1654.103
+ReleaseFraction	NumberedLines	line_19		1/4	(-7.761865, 0.976191)	4/18/2017 1:44:52 PM	1654.204
+Feedback	FeedbackPresented			请检查一下看您的新分母是否是原始分母的倍数		4/18/2017 1:44:53 PM	1655.547
+PressFraction	NumberedLines	line_19		1/4	(-7.761865, 0.976191)	4/18/2017 1:45:05 PM	1666.817
+ReleaseFraction	NumberedLines	line_19		1/4	(-7.861865, 0.8428577)	4/18/2017 1:45:05 PM	1666.921
+PressFraction	NumberedLines	line_19		1/4	(-7.861865, 0.8428577)	4/18/2017 1:45:08 PM	1669.804
+ReleaseFraction	NumberedLines	line_19		1/4	(-7.861865, 0.8428577)	4/18/2017 1:45:08 PM	1669.936
+FractionChange	Denominator	line_19		3		4/18/2017 1:45:09 PM	1671.111
+PressFraction	NumberedLines	line_19		1/3	(-7.861865, 0.8428577)	4/18/2017 1:45:09 PM	1671.61
+OperationResult	Equivalence			>		4/18/2017 1:45:10 PM	1672.506
+FractionPlaced	EqOp2	line_19		1/3		4/18/2017 1:45:10 PM	1672.506
+ReleaseFraction	NumberedLines	line_19		1/3	(-7.861865, 0.8428577)	4/18/2017 1:45:10 PM	1672.506
+Feedback	FeedbackPresented			你对分母和分子需要做些什么？		4/18/2017 1:45:12 PM	1674.707
+Feedback	FeedbackPresented			你对分母和分子需要做些什么？		4/18/2017 1:45:15 PM	1677.613
+PressFraction	NumberedLines	line_19		1/3	(-7.861865, 0.8428577)	4/18/2017 1:45:29 PM	1691.059
+ReleaseFraction	NumberedLines	line_19		1/3	(-8.095198, 0.7095243)	4/18/2017 1:45:29 PM	1691.16
+PressFraction	NumberedLines	line_19		1/3	(-8.095198, 0.7095243)	4/18/2017 1:45:30 PM	1691.95
+ReleaseFraction	NumberedLines	line_19		1/3	(-8.128531, 0.676191)	4/18/2017 1:45:30 PM	1692.045
+FractionChange	Numerator	line_19		2		4/18/2017 1:45:31 PM	1692.909
+PressFraction	NumberedLines	line_19		2/3	(-8.128531, 0.676191)	4/18/2017 1:45:32 PM	1693.821
+OperationResult	Equivalence			>		4/18/2017 1:45:32 PM	1694.496
+FractionPlaced	EqOp2	line_19		2/3		4/18/2017 1:45:32 PM	1694.496
+ReleaseFraction	NumberedLines	line_19		2/3	(-8.128531, 0.676191)	4/18/2017 1:45:32 PM	1694.496
+Feedback	FeedbackPresented			为了更简便地比较分数，每个分数的分母需要相同。		4/18/2017 1:45:58 PM	1720.334
+Feedback	FeedbackPresented			为了更简便地比较分数，每个分数的分母需要相同。		4/18/2017 1:45:58 PM	1720.677
+PressFraction	NumberedLines	line_19		2/3	(-8.128531, 0.676191)	4/18/2017 1:46:11 PM	1733.225
+ReleaseFraction	NumberedLines	line_19		2/3	(-8.161863, 0.676191)	4/18/2017 1:46:11 PM	1733.305
+PressFraction	NumberedLines	line_18		3/4	(2.779167, -0.2333331)	4/18/2017 1:46:12 PM	1734.37
+ReleaseFraction	NumberedLines	line_18		3/4	(2.8125, -0.2333331)	4/18/2017 1:46:12 PM	1734.484
+FractionChange	Denominator	line_18		3		4/18/2017 1:46:13 PM	1735.452
+PressFraction	NumberedLines	line_18		3/3	(2.8125, -0.2333331)	4/18/2017 1:46:14 PM	1736.676
+ReleaseFraction	NumberedLines	line_18		3/3	(2.645833, 0.6666669)	4/18/2017 1:46:15 PM	1737.219
+PressFraction	NumberedLines	line_18		3/3	(2.645833, 0.6666669)	4/18/2017 1:46:18 PM	1739.94
+ReleaseFraction	NumberedLines	line_18		3/3	(2.645833, 0.5666668)	4/18/2017 1:46:18 PM	1740.083
+PressFraction	NumberedLines	line_19		2/3	(-8.161863, 0.676191)	4/18/2017 1:46:20 PM	1742.278
+ReleaseFraction	NumberedLines	line_19		2/3	(-8.161863, 0.676191)	4/18/2017 1:46:20 PM	1742.394
+FractionChange	Numerator	line_19		3		4/18/2017 1:46:22 PM	1744.06
+FractionChange	Numerator	line_19		4		4/18/2017 1:46:22 PM	1744.306
+FractionChange	Numerator	line_19		5		4/18/2017 1:46:23 PM	1745.037
+FractionChange	Numerator	line_19		6		4/18/2017 1:46:23 PM	1745.499
+FractionChange	Numerator	line_19		7		4/18/2017 1:46:23 PM	1745.701
+FractionChange	Numerator	line_19		8		4/18/2017 1:46:24 PM	1745.959
+FractionChange	Numerator	line_19		9		4/18/2017 1:46:25 PM	1747.307
+PressFraction	NumberedLines	line_19		9/3	(-8.161863, 0.676191)	4/18/2017 1:46:28 PM	1750.027
+ReleaseFraction	NumberedLines	line_19		9/3	(-8.161863, 0.676191)	4/18/2017 1:46:28 PM	1750.148
+FractionChange	Numerator	line_19		8		4/18/2017 1:46:29 PM	1750.83
+FractionChange	Numerator	line_19		7		4/18/2017 1:46:29 PM	1751.051
+FractionChange	Numerator	line_19		6		4/18/2017 1:46:30 PM	1751.806
+PressFraction	NumberedLines	line_19		6/3	(-8.161863, 0.676191)	4/18/2017 1:46:31 PM	1752.945
+OperationResult	Equivalence			>		4/18/2017 1:46:32 PM	1753.783
+FractionPlaced	EqOp1	line_19		6/3		4/18/2017 1:46:32 PM	1753.783
+ReleaseFraction	NumberedLines	line_19		6/3	(-8.161863, 0.676191)	4/18/2017 1:46:32 PM	1753.783
+Feedback	FeedbackPresented			请检查一下看您的新分母是否是原始分母的倍数		4/18/2017 1:46:34 PM	1756.475
+PressFraction	NumberedLines	line_19		6/3	(-8.161863, 0.676191)	4/18/2017 1:46:40 PM	1762.392
+ReleaseFraction	NumberedLines	line_19		6/3	(-8.161863, 0.676191)	4/18/2017 1:46:40 PM	1762.519
+FractionChange	Numerator	line_19		5		4/18/2017 1:46:42 PM	1763.97
+PressFraction	NumberedLines	line_19		5/3	(-8.161863, 0.676191)	4/18/2017 1:46:42 PM	1764.551
+ReleaseFraction	NumberedLines	line_19		5/3	(-8.161863, 0.676191)	4/18/2017 1:46:43 PM	1765.029
+PressFraction	NumberedLines	line_19		5/3	(-8.161863, 0.676191)	4/18/2017 1:46:45 PM	1767.43
+OperationResult	Equivalence			>		4/18/2017 1:46:46 PM	1768.152
+FractionPlaced	EqOp1	line_19		5/3		4/18/2017 1:46:46 PM	1768.152
+ReleaseFraction	NumberedLines	line_19		5/3	(-8.161863, 0.676191)	4/18/2017 1:46:46 PM	1768.152
+PressFraction	NumberedLines	line_19		5/3	(-8.161863, 0.676191)	4/18/2017 1:46:47 PM	1769.18
+OperationResult	Equivalence			>		4/18/2017 1:46:47 PM	1769.713
+FractionPlaced	EqOp1	line_19		5/3		4/18/2017 1:46:47 PM	1769.713
+ReleaseFraction	NumberedLines	line_19		5/3	(-8.161863, 0.676191)	4/18/2017 1:46:47 PM	1769.713
+Feedback	FeedbackPresented			检查您是否可以通过乘以或除以新分数的分母来形成原始分数的分母		4/18/2017 1:46:48 PM	1770.663
+PressFraction	NumberedLines	line_19		5/3	(-8.161863, 0.676191)	4/18/2017 1:47:09 PM	1790.776
+ReleaseFraction	NumberedLines	line_19		5/3	(-8.161863, 0.6428576)	4/18/2017 1:47:09 PM	1790.884
+FractionChange	Denominator	line_19		4		4/18/2017 1:47:10 PM	1792.044
+FractionChange	Denominator	line_19		5		4/18/2017 1:47:10 PM	1792.257
+FractionChange	Denominator	line_19		6		4/18/2017 1:47:10 PM	1792.458
+FractionChange	Denominator	line_19		7		4/18/2017 1:47:10 PM	1792.679
+FractionChange	Denominator	line_19		8		4/18/2017 1:47:11 PM	1792.882
+FractionChange	Denominator	line_19		9		4/18/2017 1:47:11 PM	1793.093
+FractionChange	Denominator	line_19		10		4/18/2017 1:47:11 PM	1793.309
+FractionChange	Denominator	line_19		11		4/18/2017 1:47:11 PM	1793.527
+FractionChange	Denominator	line_19		12		4/18/2017 1:47:12 PM	1793.764
+FractionChange	Denominator	line_19		13		4/18/2017 1:47:12 PM	1794.047
+FractionChange	Denominator	line_19		14		4/18/2017 1:47:12 PM	1794.28
+FractionChange	Denominator	line_19		15		4/18/2017 1:47:13 PM	1795.231
+FractionChange	Denominator	line_19		16		4/18/2017 1:47:13 PM	1795.653
+PressFraction	NumberedLines	line_19		5/16	(-8.161863, 0.6428576)	4/18/2017 1:47:17 PM	1799.008
+ReleaseFraction	NumberedLines	line_19		5/16	(-8.161863, 0.6428576)	4/18/2017 1:47:17 PM	1799.149
+FractionChange	Numerator	line_19		6		4/18/2017 1:47:19 PM	1801.197
+FractionChange	Numerator	line_19		7		4/18/2017 1:47:19 PM	1801.463
+FractionChange	Numerator	line_19		8		4/18/2017 1:47:19 PM	1801.712
+FractionChange	Numerator	line_19		9		4/18/2017 1:47:20 PM	1801.956
+FractionChange	Numerator	line_19		10		4/18/2017 1:47:20 PM	1802.167
+FractionChange	Numerator	line_19		11		4/18/2017 1:47:20 PM	1802.245
+FractionChange	Numerator	line_19		12		4/18/2017 1:47:20 PM	1802.514
+FractionChange	Numerator	line_19		13		4/18/2017 1:47:21 PM	1802.875
+FractionChange	Numerator	line_19		12		4/18/2017 1:47:21 PM	1803.552
+PressFraction	NumberedLines	line_18		3/3	(2.645833, 0.5666668)	4/18/2017 1:47:24 PM	1806.292
+ReleaseFraction	NumberedLines	line_18		3/3	(2.645833, 0.5666668)	4/18/2017 1:47:24 PM	1806.375
+FractionChange	Denominator	line_18		4		4/18/2017 1:47:26 PM	1808.724
+FractionChange	Denominator	line_18		5		4/18/2017 1:47:27 PM	1808.952
+FractionChange	Denominator	line_18		6		4/18/2017 1:47:27 PM	1809.258
+PressFraction	NumberedLines	line_18		3/6	(2.645833, 0.5666668)	4/18/2017 1:47:30 PM	1811.833
+ReleaseFraction	NumberedLines	line_18		3/6	(2.645833, 0.5666668)	4/18/2017 1:47:30 PM	1811.908
+PressFraction	NumberedLines	line_18		3/6	(2.645833, 0.5666668)	4/18/2017 1:47:33 PM	1814.884
+ReleaseFraction	NumberedLines	line_18		3/6	(2.645833, 0.5666668)	4/18/2017 1:47:33 PM	1815.023
+FractionChange	Numerator	line_18		4		4/18/2017 1:47:33 PM	1815.693
+PressFraction	NumberedLines	line_19		12/16	(-8.161863, 0.6428576)	4/18/2017 1:47:35 PM	1817.151
+OperationResult	Equivalence			>		4/18/2017 1:47:36 PM	1817.993
+FractionPlaced	EqOp1	line_19		12/16		4/18/2017 1:47:36 PM	1817.993
+ReleaseFraction	NumberedLines	line_19		12/16	(-8.161863, 0.6428576)	4/18/2017 1:47:36 PM	1817.993
+PressFraction	NumberedLines	line_18		4/6	(2.645833, 0.5666668)	4/18/2017 1:47:36 PM	1818.727
+OperationResult	Equivalence			>		4/18/2017 1:47:37 PM	1819.363
+FractionPlaced	EqOp2	line_18		4/6		4/18/2017 1:47:37 PM	1819.363
+ReleaseFraction	NumberedLines	line_18		4/6	(2.645833, 0.5666668)	4/18/2017 1:47:37 PM	1819.363
+Feedback	FeedbackPresented			为了更简便地比较分数，每个分数的分母需要相同。		4/18/2017 1:47:40 PM	1821.797
+PressFraction	NumberedLines	line_18		4/6	(2.645833, 0.5666668)	4/18/2017 1:47:44 PM	1826.421
+ReleaseFraction	NumberedLines	line_18		4/6	(2.645833, 0.7000002)	4/18/2017 1:47:44 PM	1826.567
+FractionChange	Denominator	line_18		7		4/18/2017 1:47:45 PM	1827.399
+FractionChange	Denominator	line_18		8		4/18/2017 1:47:45 PM	1827.647
+FractionChange	Denominator	line_18		9		4/18/2017 1:47:46 PM	1827.876
+FractionChange	Denominator	line_18		10		4/18/2017 1:47:46 PM	1828.093
+FractionChange	Denominator	line_18		11		4/18/2017 1:47:46 PM	1828.342
+FractionChange	Denominator	line_18		12		4/18/2017 1:47:46 PM	1828.585
+FractionChange	Denominator	line_18		13		4/18/2017 1:47:47 PM	1829.362
+FractionChange	Denominator	line_18		14		4/18/2017 1:47:47 PM	1829.625
+FractionChange	Denominator	line_18		15		4/18/2017 1:47:48 PM	1829.895
+FractionChange	Denominator	line_18		16		4/18/2017 1:47:48 PM	1830.422
+PressFraction	NumberedLines	line_18		4/16	(2.645833, 0.7000002)	4/18/2017 1:48:02 PM	1843.959
+ReleaseFraction	NumberedLines	line_18		4/16	(2.645833, 0.7000002)	4/18/2017 1:48:02 PM	1844.108
+FractionChange	Numerator	line_18		5		4/18/2017 1:48:03 PM	1845.242
+FractionChange	Numerator	line_18		6		4/18/2017 1:48:03 PM	1845.478
+FractionChange	Numerator	line_18		7		4/18/2017 1:48:03 PM	1845.712
+FractionChange	Numerator	line_18		8		4/18/2017 1:48:04 PM	1846.001
+FractionChange	Numerator	line_18		9		4/18/2017 1:48:04 PM	1846.249
+FractionChange	Numerator	line_18		10		4/18/2017 1:48:04 PM	1846.482
+FractionChange	Numerator	line_18		11		4/18/2017 1:48:04 PM	1846.726
+FractionChange	Numerator	line_18		12		4/18/2017 1:48:05 PM	1846.976
+FractionChange	Numerator	line_18		13		4/18/2017 1:48:06 PM	1847.819
+FractionChange	Numerator	line_18		14		4/18/2017 1:48:06 PM	1848.3
+FractionChange	Numerator	line_18		15		4/18/2017 1:48:07 PM	1849.067
+PressFraction	NumberedLines	line_18		15/16	(2.645833, 0.7000002)	4/18/2017 1:48:08 PM	1850.632
+OperationResult	Equivalence			<		4/18/2017 1:48:09 PM	1851.24
+FractionPlaced	EqOp2	line_18		15/16		4/18/2017 1:48:09 PM	1851.24
+ReleaseFraction	NumberedLines	line_18		15/16	(2.645833, 0.7000002)	4/18/2017 1:48:09 PM	1851.24
+Feedback	FeedbackPresented			检查您是否可以通过乘以或除以新分数的分母来形成原始分数的分母		4/18/2017 1:48:12 PM	1853.768
+PressFraction	NumberedLines	line_18		15/16	(2.645833, 0.7000002)	4/18/2017 1:48:21 PM	1863.442
+ReleaseFraction	NumberedLines	line_18		15/16	(2.645833, 0.7000002)	4/18/2017 1:48:21 PM	1863.573
+FractionChange	Numerator	line_18		16		4/18/2017 1:48:22 PM	1864.46
+FractionChange	Numerator	line_18		15		4/18/2017 1:48:23 PM	1865.094
+FractionChange	Numerator	line_18		14		4/18/2017 1:48:23 PM	1865.427
+ClickButton	OpenTaskDescription					4/18/2017 1:49:36 PM	1938.429
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:49:38 PM	1940.132
+PopupAfterTaskReflection						4/18/2017 1:49:38 PM	1940.32
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:49:42 PM		4/18/2017 1:49:42 PM	1943.794
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:49:43 PM		4/18/2017 1:49:43 PM	1945.041
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:49:44 PM		4/18/2017 1:49:44 PM	1945.837
+ClickButton	Lab					4/18/2017 1:49:44 PM	1945.837
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:49:45 PM	1946.818
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:49:45 PM	1947.198
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:49:45 PM	1947.362
+PopupAfterTaskReflection						4/18/2017 1:49:45 PM	1947.686
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:49:47 PM		4/18/2017 1:49:47 PM	1949.506
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:49:50 PM		4/18/2017 1:49:50 PM	1951.764
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:49:50 PM		4/18/2017 1:49:50 PM	1952.703
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:49:51 PM	1953.552
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:49:52 PM	1953.764
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:49:52 PM	1954.43
+PopupAfterTaskReflection						4/18/2017 1:49:52 PM	1954.63
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:49:54 PM		4/18/2017 1:49:54 PM	1955.864
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:49:57 PM		4/18/2017 1:49:57 PM	1958.929
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:49:57 PM		4/18/2017 1:49:57 PM	1959.508
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:49:58 PM	1960.264
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:49:58 PM	1960.467
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:49:58 PM	1960.678
+PopupAfterTaskReflection						4/18/2017 1:49:59 PM	1960.963
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:50:01 PM		4/18/2017 1:50:01 PM	1963.461
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:50:02 PM		4/18/2017 1:50:02 PM	1964.307
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:50:03 PM		4/18/2017 1:50:03 PM	1964.939
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:50:11 PM	1973.127
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:50:11 PM	1973.358
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:50:12 PM	1973.77
+PopupAfterTaskReflection						4/18/2017 1:50:12 PM	1973.941
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:50:13 PM		4/18/2017 1:50:13 PM	1975.215
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:50:16 PM		4/18/2017 1:50:16 PM	1978.679
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:50:17 PM		4/18/2017 1:50:17 PM	1979.348
+ClickButton	Lab					4/18/2017 1:50:22 PM	1984.703
+ClickButton	3OperandTab					4/18/2017 1:52:03 PM	2085.104
+ClickButton	NumberedLines					4/18/2017 1:52:17 PM	2099.476
+FractionGenerated	NumberedLines	line_20				4/18/2017 1:52:17 PM	2099.476
+FractionChange	Denominator	line_20		1		4/18/2017 1:52:18 PM	2100.722
+FractionChange	Denominator	line_20		2		4/18/2017 1:52:19 PM	2100.91
+FractionChange	Denominator	line_20		3		4/18/2017 1:52:19 PM	2101.498
+FractionChange	Denominator	line_20		4		4/18/2017 1:52:20 PM	2101.736
+PressFraction	NumberedLines	line_20		0/4	(1.3125, 0)	4/18/2017 1:52:20 PM	2102.464
+ReleaseFraction	NumberedLines	line_20		0/4	(1.3125, 0)	4/18/2017 1:52:20 PM	2102.576
+FractionChange	Numerator	line_20		1		4/18/2017 1:52:21 PM	2103.364
+PressFraction	NumberedLines	line_20		1/4	(1.3125, 0)	4/18/2017 1:52:22 PM	2103.732
+FractionPlaced	SumOp1	line_20		1/4		4/18/2017 1:52:23 PM	2105.427
+ReleaseFraction	NumberedLines	line_20		1/4	(1.3125, 0)	4/18/2017 1:52:23 PM	2105.427
+PressFraction	NumberedLines	line_20		1/4	(1.3125, 0)	4/18/2017 1:52:26 PM	2108.665
+FractionTrashed	NumberedLines	line_20		1/4		4/18/2017 1:52:28 PM	2109.93
+ReleaseFraction	NumberedLines	line_20		1/4	(-12.96667, 8.766666)	4/18/2017 1:52:28 PM	2109.93
+ClickButton	NumberedLines					4/18/2017 1:52:29 PM	2111.153
+FractionGenerated	NumberedLines	line_21				4/18/2017 1:52:29 PM	2111.153
+PressFraction	NumberedLines	line_21		0/0	(1.3125, 0)	4/18/2017 1:52:32 PM	2114.125
+FractionTrashed	NumberedLines	line_21		0/0		4/18/2017 1:52:33 PM	2115.126
+ReleaseFraction	NumberedLines	line_21		0/0	(-11.83333, 7.9)	4/18/2017 1:52:33 PM	2115.126
+ClickButton	NumberedLines					4/18/2017 1:52:35 PM	2116.907
+FractionGenerated	NumberedLines	line_22				4/18/2017 1:52:35 PM	2116.907
+FractionChange	Denominator	line_22		1		4/18/2017 1:52:36 PM	2117.802
+FractionChange	Denominator	line_22		2		4/18/2017 1:52:36 PM	2118.038
+FractionChange	Denominator	line_22		3		4/18/2017 1:52:36 PM	2118.614
+PressFraction	NumberedLines	line_22		0/3	(1.3125, -1)	4/18/2017 1:52:38 PM	2120.214
+ReleaseFraction	NumberedLines	line_22		0/3	(1.3125, -1)	4/18/2017 1:52:38 PM	2120.307
+FractionChange	Numerator	line_22		1		4/18/2017 1:52:39 PM	2121.23
+PressFraction	NumberedLines	line_22		1/3	(1.3125, -1)	4/18/2017 1:52:39 PM	2121.637
+FractionPlaced	SumOp2	line_22		1/3		4/18/2017 1:52:41 PM	2122.963
+ReleaseFraction	NumberedLines	line_22		1/3	(1.3125, -1)	4/18/2017 1:52:41 PM	2122.963
+ClickButton	 OperationSwitchMinus					4/18/2017 1:52:42 PM	2124.105
+PressFraction	NumberedLines	line_22		1/3	(1.3125, -1)	4/18/2017 1:52:44 PM	2125.935
+FractionTrashed	NumberedLines	line_22		1/3		4/18/2017 1:52:45 PM	2126.815
+ReleaseFraction	NumberedLines	line_22		1/3	(-13.16667, 8.8)	4/18/2017 1:52:45 PM	2126.815
+Feedback	FeedbackPresented			你是如何把两个分数相加的？		4/18/2017 1:52:55 PM	2136.987
+ClickButton	OpenTaskDescription					4/18/2017 1:55:16 PM	2278.087
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:55:18 PM	2279.762
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:55:18 PM	2280.527
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:55:19 PM	2280.73
+PopupAfterTaskReflection						4/18/2017 1:55:19 PM	2281.222
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:55:24 PM		4/18/2017 1:55:24 PM	2286.104
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 1:55:27 PM		4/18/2017 1:55:27 PM	2289.16
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:55:30 PM		4/18/2017 1:55:30 PM	2292.188
+ClickButton	Lab					4/18/2017 1:55:30 PM	2292.188

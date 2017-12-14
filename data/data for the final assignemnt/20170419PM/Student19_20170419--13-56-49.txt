@@ -1,0 +1,100 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		19	25c26c5d309107ceebcf136813b7d0a52903beb3	4/19/2017 1:56:49 PM		4/19/2017 1:57:48 PM	57.23235
+ClickButton	NumberedLines					4/19/2017 1:57:56 PM	65.50073
+FractionGenerated	NumberedLines	line_1				4/19/2017 1:57:56 PM	65.50073
+FractionChange	Denominator	line_1		1		4/19/2017 1:57:58 PM	67.92476
+FractionChange	Denominator	line_1		2		4/19/2017 1:57:59 PM	68.60369
+FractionChange	Denominator	line_1		3		4/19/2017 1:57:59 PM	68.82777
+FractionChange	Denominator	line_1		4		4/19/2017 1:58:00 PM	69.16369
+PressFraction	NumberedLines	line_1		0/4	(0.3125, 0)	4/19/2017 1:58:12 PM	81.15602
+ReleaseFraction	NumberedLines	line_1		0/4	(0.3125, 0)	4/19/2017 1:58:12 PM	81.33201
+FractionChange	Numerator	line_1		1		4/19/2017 1:58:13 PM	82.41903
+FractionChange	Numerator	line_1		2		4/19/2017 1:58:13 PM	82.69104
+FractionChange	Numerator	line_1		3		4/19/2017 1:58:14 PM	83.05093
+FractionChange	Numerator	line_1		4		4/19/2017 1:58:15 PM	83.94696
+EndStateReached						4/19/2017 1:58:16 PM	85.69202
+TaskChange_warningMessage	ClickForward			1		4/19/2017 1:58:21 PM	90.4745
+PressFraction	NumberedLines	line_1		4/4	(0.3125, 0)	4/19/2017 1:58:27 PM	96.34715
+FractionTrashed	NumberedLines	line_1		4/4		4/19/2017 1:58:29 PM	98.12325
+ReleaseFraction	NumberedLines	line_1		4/4	(-12.23333, 8.6)	4/19/2017 1:58:29 PM	98.12325
+ClickButton	Shape/HRects					4/19/2017 1:58:37 PM	106.0194
+FractionGenerated	HRects	hrect_2				4/19/2017 1:58:37 PM	106.0194
+PressFraction	HRects	hrect_2		0/0	(2.125, 0)	4/19/2017 1:58:37 PM	106.8533
+ReleaseFraction	HRects	hrect_2		0/0	(1.958333, 0.3)	4/19/2017 1:58:38 PM	107.7144
+PressFraction	HRects	hrect_2		0/0	(1.958333, 0.3)	4/19/2017 1:58:42 PM	111.3455
+ReleaseFraction	HRects	hrect_2		0/0	(2.025, 0.3333333)	4/19/2017 1:58:42 PM	111.4814
+PressFraction	HRects	hrect_2		0/0	(2.025, 0.3333333)	4/19/2017 1:58:44 PM	113.5454
+ReleaseFraction	HRects	hrect_2		0/0	(2.025, 0.3333333)	4/19/2017 1:58:44 PM	113.6895
+PressFraction	HRects	hrect_2		0/0	(2.025, 0.3333333)	4/19/2017 1:58:59 PM	128.5927
+FractionTrashed	HRects	hrect_2		0/0		4/19/2017 1:59:01 PM	130.4578
+ReleaseFraction	HRects	hrect_2		0/0	(-12.83333, 8.266666)	4/19/2017 1:59:01 PM	130.4578
+ClickButton	Set/Hearts					4/19/2017 1:59:04 PM	133.7048
+FractionGenerated	HeartSets	heartset_3				4/19/2017 1:59:04 PM	133.7048
+PressFraction	HeartSets	heartset_3		0/0	(0.28125, 1)	4/19/2017 1:59:10 PM	139.3129
+FractionTrashed	HeartSets	heartset_3		0/0		4/19/2017 1:59:11 PM	140.7682
+ReleaseFraction	HeartSets	heartset_3		0/0	(-12, 7.966667)	4/19/2017 1:59:11 PM	140.7682
+ClickButton	OpenTaskDescription					4/19/2017 1:59:42 PM	171.2714
+ClickButton	Shape/VRects					4/19/2017 1:59:52 PM	181.3985
+FractionGenerated	VRects	vrect_4				4/19/2017 1:59:52 PM	181.3985
+PressFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 1:59:56 PM	185.8946
+ReleaseFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 1:59:57 PM	186.0227
+PressFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 1:59:57 PM	186.1266
+ReleaseFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 1:59:57 PM	186.2546
+PressFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 2:00:01 PM	190.7097
+ReleaseFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 2:00:01 PM	190.8377
+FractionChange	Numerator	vrect_4		0		4/19/2017 2:00:06 PM	195.7497
+PressFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 2:00:38 PM	226.9322
+ReleaseFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 2:00:38 PM	227.0843
+PressFraction	VRects	vrect_4		0/0	(0.125, 0)	4/19/2017 2:00:38 PM	227.9013
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:39 PM	228.0453
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:39 PM	228.5963
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:39 PM	228.7083
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:40 PM	229.5013
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:40 PM	229.6204
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:41 PM	229.9723
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:41 PM	230.0764
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:41 PM	230.2123
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:41 PM	230.3333
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:42 PM	231.3413
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:42 PM	231.4693
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:42 PM	231.6363
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:42 PM	231.7403
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:44 PM	233.2524
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:44 PM	233.3635
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:44 PM	233.4684
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:44 PM	233.5714
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:44 PM	233.6443
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:44 PM	233.7634
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:46 PM	235.7724
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:46 PM	235.8844
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:47 PM	235.9815
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:47 PM	236.0834
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:49 PM	238.0915
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:49 PM	238.1965
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:49 PM	238.3154
+ReleaseFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:49 PM	238.4194
+PressFraction	VRects	vrect_4		0/0	(0.291667, 0.06666666)	4/19/2017 2:00:49 PM	238.5394
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.03333336)	4/19/2017 2:00:49 PM	238.6514
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.03333336)	4/19/2017 2:00:50 PM	239.1805
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.03333333)	4/19/2017 2:00:50 PM	239.2674
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.03333333)	4/19/2017 2:00:50 PM	239.6034
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.03333333)	4/19/2017 2:00:50 PM	239.7405
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.03333333)	4/19/2017 2:00:51 PM	240.5074
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:00:51 PM	240.6195
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:00:52 PM	241.3074
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:00:52 PM	241.4365
+FractionChange	Numerator	vrect_4		0		4/19/2017 2:00:56 PM	245.0196
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:00 PM	249.8836
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:01 PM	250.0516
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:02 PM	251.0356
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:02 PM	251.1876
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:07 PM	256.4907
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:07 PM	256.6668
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:07 PM	256.7718
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:07 PM	256.9148
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:08 PM	256.9638
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:08 PM	257.1078
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:08 PM	257.5787
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:08 PM	257.7159
+PressFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:12 PM	261.7148
+ReleaseFraction	VRects	vrect_4		0/0	(0.1916671, 0.0333333)	4/19/2017 2:01:12 PM	261.8828

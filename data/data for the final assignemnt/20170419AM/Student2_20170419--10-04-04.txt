@@ -1,0 +1,289 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		111201584	496e3e737cc8ef5c0663efd6513ee1f14c13ca54	4/19/2017 10:04:04 AM		4/19/2017 10:08:01 AM	235.4344
+ClickButton	NumberedLines					4/19/2017 10:08:12 AM	247.0112
+FractionGenerated	NumberedLines	line_1				4/19/2017 10:08:12 AM	247.0112
+FractionChange	Denominator	line_1		1		4/19/2017 10:08:22 AM	257.3878
+FractionChange	Denominator	line_1		1		4/19/2017 10:08:24 AM	259.2503
+ClickButton	NumberedLines					4/19/2017 10:08:26 AM	260.7064
+FractionGenerated	NumberedLines	line_2				4/19/2017 10:08:26 AM	260.7064
+TaskChange_warningMessage	ClickForward			1		4/19/2017 10:08:30 AM	264.5945
+PressFraction	NumberedLines	line_2		0/0	(1.3125, 1)	4/19/2017 10:08:36 AM	270.6975
+ReleaseFraction	NumberedLines	line_2		0/0	(1.7125, 5.2)	4/19/2017 10:08:37 AM	271.8815
+FractionChange	Denominator	line_2		1		4/19/2017 10:08:39 AM	273.6975
+FractionChange	Denominator	line_2		2		4/19/2017 10:08:40 AM	275.0016
+ClickButton	NumberedLines					4/19/2017 10:09:34 AM	328.8084
+FractionGenerated	NumberedLines	line_3				4/19/2017 10:09:34 AM	328.8084
+FractionChange	Denominator	line_3		1		4/19/2017 10:09:36 AM	330.9125
+FractionChange	Denominator	line_3		2		4/19/2017 10:09:37 AM	332.1996
+ClickButton	Shape/HRects					4/19/2017 10:09:40 AM	335.4717
+FractionGenerated	HRects	hrect_4				4/19/2017 10:09:40 AM	335.4717
+FractionChange	Denominator	hrect_4		1		4/19/2017 10:09:42 AM	336.8387
+FractionChange	Denominator	hrect_4		2		4/19/2017 10:09:42 AM	337.4947
+FractionChange	Denominator	hrect_4		3		4/19/2017 10:09:43 AM	337.9436
+FractionChange	Denominator	hrect_4		4		4/19/2017 10:09:44 AM	338.5907
+FractionChange	Denominator	hrect_4		5		4/19/2017 10:09:44 AM	339.2067
+PressFraction	NumberedLines	line_2		0/2	(1.7125, 5.2)	4/19/2017 10:10:04 AM	359.5739
+FractionTrashed	NumberedLines	line_2		0/2		4/19/2017 10:10:06 AM	360.782
+ReleaseFraction	NumberedLines	line_2		0/2	(-12.93333, 8.366667)	4/19/2017 10:10:06 AM	360.782
+PressFraction	HRects	hrect_4		0/5	(0.125008, 0)	4/19/2017 10:10:07 AM	362.1732
+FractionTrashed	HRects	hrect_4		0/5		4/19/2017 10:10:09 AM	363.7331
+ReleaseFraction	HRects	hrect_4		0/5	(-10.66666, 8.333333)	4/19/2017 10:10:09 AM	363.7331
+PressFraction	NumberedLines	line_3		0/2	(2.312508, 0)	4/19/2017 10:10:10 AM	365.2931
+FractionTrashed	NumberedLines	line_3		0/2		4/19/2017 10:10:11 AM	366.4941
+ReleaseFraction	NumberedLines	line_3		0/2	(-11.66666, 7.633333)	4/19/2017 10:10:11 AM	366.4941
+PressFraction	NumberedLines	line_1		0/1	(2.3125, 0)	4/19/2017 10:10:13 AM	367.9331
+FractionTrashed	NumberedLines	line_1		0/1		4/19/2017 10:10:14 AM	369.1341
+ReleaseFraction	NumberedLines	line_1		0/1	(-11.76666, 9.5)	4/19/2017 10:10:14 AM	369.1341
+ClickButton	Shape/HRects					4/19/2017 10:11:02 AM	417.2359
+FractionGenerated	HRects	hrect_5				4/19/2017 10:11:02 AM	417.2359
+PressFraction	HRects	hrect_5		0/0	(1.125008, 0)	4/19/2017 10:11:03 AM	418.4198
+ReleaseFraction	HRects	hrect_5		0/0	(1.125008, 0)	4/19/2017 10:11:04 AM	418.6588
+FractionChange	Denominator	hrect_5		1		4/19/2017 10:11:05 AM	420.0189
+FractionChange	Denominator	hrect_5		2		4/19/2017 10:11:06 AM	421.1069
+FractionChange	Denominator	hrect_5		3		4/19/2017 10:11:06 AM	421.5789
+FractionChange	Denominator	hrect_5		4		4/19/2017 10:11:07 AM	422.275
+FractionChange	Denominator	hrect_5		3		4/19/2017 10:11:08 AM	423.356
+PressFraction	HRects	hrect_5		0/3	(1.125008, 0)	4/19/2017 10:11:10 AM	424.986
+ReleaseFraction	HRects	hrect_5		0/3	(1.091675, 0)	4/19/2017 10:11:10 AM	425.194
+FractionChange	Numerator	hrect_5		1		4/19/2017 10:11:11 AM	426.5621
+FractionChange	Numerator	hrect_5		2		4/19/2017 10:11:12 AM	427.458
+FractionChange	Numerator	hrect_5		3		4/19/2017 10:11:13 AM	428.146
+FractionChange	Numerator	hrect_5		2		4/19/2017 10:11:14 AM	429.346
+FractionChange	Numerator	hrect_5		1		4/19/2017 10:11:15 AM	429.698
+FractionChange	Numerator	hrect_5		0		4/19/2017 10:11:15 AM	430.1311
+FractionChange	Numerator	hrect_5		0		4/19/2017 10:11:18 AM	432.5861
+FractionChange	Numerator	hrect_5		0		4/19/2017 10:11:18 AM	432.8741
+FractionChange	Numerator	hrect_5		0		4/19/2017 10:11:18 AM	433.1781
+FractionChange	Numerator	hrect_5		0		4/19/2017 10:11:18 AM	433.4661
+FractionChange	Numerator	hrect_5		1		4/19/2017 10:11:19 AM	434.1791
+FractionChange	Numerator	hrect_5		2		4/19/2017 10:11:20 AM	434.8342
+FractionChange	Numerator	hrect_5		3		4/19/2017 10:11:20 AM	435.2352
+FractionChange	Numerator	hrect_5		4		4/19/2017 10:11:20 AM	435.5312
+FractionChange	Numerator	hrect_5		5		4/19/2017 10:11:21 AM	436.3142
+FractionChange	Numerator	hrect_5		6		4/19/2017 10:11:21 AM	436.5782
+FractionChange	Numerator	hrect_5		7		4/19/2017 10:11:22 AM	436.8341
+FractionChange	Numerator	hrect_5		8		4/19/2017 10:11:22 AM	437.0582
+FractionChange	Numerator	hrect_5		9		4/19/2017 10:11:23 AM	438.3222
+PressFraction	HRects	hrect_5		9/3	(1.091675, 0)	4/19/2017 10:11:24 AM	439.0832
+FractionTrashed	HRects	hrect_5		9/3		4/19/2017 10:11:25 AM	440.1942
+ReleaseFraction	HRects	hrect_5		9/3	(-9.499992, 8.433333)	4/19/2017 10:11:25 AM	440.1942
+ClickButton	Set/Stars					4/19/2017 10:11:30 AM	444.9292
+FractionGenerated	StarSets	starset_6				4/19/2017 10:11:30 AM	444.9292
+FractionChange	Denominator	starset_6		1		4/19/2017 10:11:32 AM	446.874
+FractionChange	Denominator	starset_6		1		4/19/2017 10:11:33 AM	448.1864
+FractionChange	Denominator	starset_6		1		4/19/2017 10:11:34 AM	448.7384
+FractionChange	Denominator	starset_6		1		4/19/2017 10:11:35 AM	450.2093
+PressFraction	StarSets	starset_6		0/1	(0.281258, 1)	4/19/2017 10:11:36 AM	450.8014
+FractionTrashed	StarSets	starset_6		0/1		4/19/2017 10:11:37 AM	451.8654
+ReleaseFraction	StarSets	starset_6		0/1	(-11.03333, 8.833333)	4/19/2017 10:11:37 AM	451.8654
+ClickButton	Set/Stars					4/19/2017 10:11:39 AM	454.3694
+FractionGenerated	StarSets	starset_7				4/19/2017 10:11:39 AM	454.3694
+PressFraction	StarSets	starset_7		0/0	(0.281258, 0)	4/19/2017 10:11:47 AM	462.4165
+FractionTrashed	StarSets	starset_7		0/0		4/19/2017 10:11:48 AM	463.4496
+ReleaseFraction	StarSets	starset_7		0/0	(-12.96666, 8.733334)	4/19/2017 10:11:48 AM	463.4496
+ClickButton	LiquidMeasures					4/19/2017 10:13:10 AM	544.7419
+FractionGenerated	LiquidMeasures	liquid_8				4/19/2017 10:13:10 AM	544.7419
+FractionChange	Denominator	liquid_8		1		4/19/2017 10:13:12 AM	547.0289
+FractionChange	Denominator	liquid_8		2		4/19/2017 10:13:12 AM	547.4609
+FractionChange	Denominator	liquid_8		3		4/19/2017 10:13:13 AM	547.8289
+FractionChange	Denominator	liquid_8		4		4/19/2017 10:13:13 AM	548.285
+FractionChange	Denominator	liquid_8		5		4/19/2017 10:13:14 AM	548.7241
+PressFraction	LiquidMeasures	liquid_8		0/5	(0.937508, -1)	4/19/2017 10:13:22 AM	557.1571
+FractionTrashed	LiquidMeasures	liquid_8		0/5		4/19/2017 10:13:23 AM	557.7571
+ReleaseFraction	LiquidMeasures	liquid_8		0/5	(-13.23333, 9.966675)	4/19/2017 10:13:23 AM	557.7571
+ClickButton	LiquidMeasures					4/19/2017 10:13:24 AM	559.0451
+FractionGenerated	LiquidMeasures	liquid_9				4/19/2017 10:13:24 AM	559.0451
+FractionChange	Denominator	liquid_9		1		4/19/2017 10:13:25 AM	560.4451
+FractionChange	Denominator	liquid_9		2		4/19/2017 10:13:26 AM	560.7891
+FractionChange	Denominator	liquid_9		3		4/19/2017 10:13:26 AM	561.3492
+FractionChange	Denominator	liquid_9		4		4/19/2017 10:13:27 AM	561.7002
+FractionChange	Denominator	liquid_9		5		4/19/2017 10:13:27 AM	562.1492
+PressFraction	LiquidMeasures	liquid_9		0/5	(1.9375, 8.056661E-06)	4/19/2017 10:13:31 AM	565.7633
+ReleaseFraction	LiquidMeasures	liquid_9		0/5	(1.9375, 8.046627E-06)	4/19/2017 10:13:31 AM	565.9482
+FractionChange	Numerator	liquid_9		1		4/19/2017 10:13:32 AM	567.4272
+FractionChange	Numerator	liquid_9		2		4/19/2017 10:13:33 AM	567.7792
+FractionChange	Numerator	liquid_9		3		4/19/2017 10:13:33 AM	568.1723
+FractionChange	Numerator	liquid_9		4		4/19/2017 10:13:33 AM	568.5712
+PressFraction	LiquidMeasures	liquid_9		4/5	(1.9375, 8.046627E-06)	4/19/2017 10:13:37 AM	572.1873
+FractionChange	Numerator	liquid_9		3		4/19/2017 10:13:37 AM	572.3884
+ReleaseFraction	LiquidMeasures	liquid_9		3/5	(1.9375, 8.046627E-06)	4/19/2017 10:13:37 AM	572.3884
+PressFraction	LiquidMeasures	liquid_9		3/5	(1.9375, 8.046627E-06)	4/19/2017 10:13:39 AM	573.7324
+FractionChange	Numerator	liquid_9		4		4/19/2017 10:13:39 AM	573.9484
+ReleaseFraction	LiquidMeasures	liquid_9		4/5	(1.9375, 8.046627E-06)	4/19/2017 10:13:39 AM	573.9484
+PressFraction	LiquidMeasures	liquid_9		4/5	(1.9375, 8.046627E-06)	4/19/2017 10:13:40 AM	575.4274
+FractionChange	Numerator	liquid_9		5		4/19/2017 10:13:41 AM	575.6044
+ReleaseFraction	LiquidMeasures	liquid_9		5/5	(1.9375, 7.987022E-06)	4/19/2017 10:13:41 AM	575.6044
+PressFraction	LiquidMeasures	liquid_9		5/5	(1.9375, 7.987022E-06)	4/19/2017 10:13:42 AM	577.1655
+ReleaseFraction	LiquidMeasures	liquid_9		5/5	(1.904167, -0.03332531)	4/19/2017 10:13:42 AM	577.3644
+FractionChange	Numerator	liquid_9		4		4/19/2017 10:13:43 AM	578.2284
+PressFraction	LiquidMeasures	liquid_9		4/5	(1.904167, -0.03332531)	4/19/2017 10:13:50 AM	584.7235
+ReleaseFraction	LiquidMeasures	liquid_9		4/5	(1.904167, -0.03332531)	4/19/2017 10:13:50 AM	584.9155
+PressFraction	LiquidMeasures	liquid_9		4/5	(1.904167, -0.03332531)	4/19/2017 10:13:50 AM	585.2665
+ReleaseFraction	LiquidMeasures	liquid_9		4/5	(1.904167, -0.03332531)	4/19/2017 10:13:50 AM	585.4585
+PressFraction	LiquidMeasures	liquid_9		4/5	(1.904167, -0.03332531)	4/19/2017 10:13:51 AM	585.8585
+ReleaseFraction	LiquidMeasures	liquid_9		4/5	(-12.9625, 6.066674)	4/19/2017 10:13:52 AM	586.6826
+PressFraction	LiquidMeasures	liquid_9		4/5	(-12.9625, 6.066674)	4/19/2017 10:13:52 AM	587.5706
+FractionTrashed	LiquidMeasures	liquid_9		4/5		4/19/2017 10:13:53 AM	588.3226
+ReleaseFraction	LiquidMeasures	liquid_9		4/5	(-12.62917, 7.800007)	4/19/2017 10:13:53 AM	588.3226
+ClickButton	Lab					4/19/2017 10:14:28 AM	622.6171
+ClickButton	3OperandTab					4/19/2017 10:14:36 AM	630.7453
+ClickButton	2OperandTab					4/19/2017 10:14:37 AM	632.2723
+ClickButton	3OperandTab					4/19/2017 10:14:39 AM	634.2563
+ClickButton	Lab					4/19/2017 10:14:40 AM	635.1043
+ClickButton	LiquidMeasures					4/19/2017 10:14:55 AM	649.9435
+FractionGenerated	LiquidMeasures	liquid_10				4/19/2017 10:14:55 AM	649.9435
+FractionChange	Denominator	liquid_10		1		4/19/2017 10:14:56 AM	651.5374
+FractionChange	Denominator	liquid_10		2		4/19/2017 10:14:57 AM	651.8246
+FractionChange	Denominator	liquid_10		3		4/19/2017 10:14:57 AM	652.0796
+FractionChange	Denominator	liquid_10		4		4/19/2017 10:14:57 AM	652.3286
+FractionChange	Denominator	liquid_10		5		4/19/2017 10:14:57 AM	652.5276
+FractionChange	Denominator	liquid_10		6		4/19/2017 10:14:58 AM	652.7996
+FractionChange	Denominator	liquid_10		7		4/19/2017 10:14:58 AM	653.0876
+FractionChange	Denominator	liquid_10		8		4/19/2017 10:14:58 AM	653.3677
+FractionChange	Denominator	liquid_10		9		4/19/2017 10:14:59 AM	653.6157
+FractionChange	Denominator	liquid_10		10		4/19/2017 10:14:59 AM	653.8886
+FractionChange	Denominator	liquid_10		11		4/19/2017 10:14:59 AM	654.1195
+FractionChange	Denominator	liquid_10		12		4/19/2017 10:14:59 AM	654.3436
+FractionChange	Denominator	liquid_10		13		4/19/2017 10:15:00 AM	654.8557
+FractionChange	Denominator	liquid_10		14		4/19/2017 10:15:00 AM	655.1757
+FractionChange	Denominator	liquid_10		15		4/19/2017 10:15:00 AM	655.4555
+FractionChange	Denominator	liquid_10		16		4/19/2017 10:15:01 AM	655.7195
+FractionChange	Denominator	liquid_10		17		4/19/2017 10:15:01 AM	655.9998
+FractionChange	Denominator	liquid_10		18		4/19/2017 10:15:01 AM	656.3116
+FractionChange	Denominator	liquid_10		19		4/19/2017 10:15:02 AM	656.5997
+FractionChange	Denominator	liquid_10		20		4/19/2017 10:15:02 AM	656.8887
+FractionChange	Denominator	liquid_10		21		4/19/2017 10:15:02 AM	657.1508
+FractionChange	Denominator	liquid_10		22		4/19/2017 10:15:02 AM	657.3907
+FractionChange	Denominator	liquid_10		21		4/19/2017 10:15:04 AM	658.8718
+PressFraction	LiquidMeasures	liquid_10		0/21	(0.9375, 0)	4/19/2017 10:15:05 AM	659.7438
+ReleaseFraction	LiquidMeasures	liquid_10		0/21	(0.9375, 0)	4/19/2017 10:15:05 AM	659.9598
+PressFraction	LiquidMeasures	liquid_10		0/21	(0.9375, 0)	4/19/2017 10:15:05 AM	660.2387
+ReleaseFraction	LiquidMeasures	liquid_10		0/21	(0.9375, 0)	4/19/2017 10:15:05 AM	660.3758
+PressFraction	LiquidMeasures	liquid_10		0/21	(0.9375, 0)	4/19/2017 10:15:06 AM	660.7517
+ReleaseFraction	LiquidMeasures	liquid_10		0/21	(0.9375, -0.06666666)	4/19/2017 10:15:06 AM	660.9188
+FractionChange	Numerator	liquid_10		1		4/19/2017 10:15:07 AM	661.8707
+FractionChange	Numerator	liquid_10		2		4/19/2017 10:15:07 AM	662.3438
+FractionChange	Numerator	liquid_10		3		4/19/2017 10:15:08 AM	662.6877
+FractionChange	Numerator	liquid_10		4		4/19/2017 10:15:08 AM	662.9598
+FractionChange	Numerator	liquid_10		5		4/19/2017 10:15:08 AM	663.2798
+FractionChange	Numerator	liquid_10		6		4/19/2017 10:15:08 AM	663.5349
+FractionChange	Numerator	liquid_10		7		4/19/2017 10:15:09 AM	663.8228
+FractionChange	Numerator	liquid_10		8		4/19/2017 10:15:09 AM	664.1039
+FractionChange	Numerator	liquid_10		9		4/19/2017 10:15:09 AM	664.4158
+FractionChange	Numerator	liquid_10		10		4/19/2017 10:15:10 AM	664.9348
+FractionChange	Numerator	liquid_10		11		4/19/2017 10:15:10 AM	665.3508
+FractionChange	Numerator	liquid_10		12		4/19/2017 10:15:11 AM	665.7599
+FractionChange	Numerator	liquid_10		13		4/19/2017 10:15:11 AM	666.1028
+FractionChange	Numerator	liquid_10		14		4/19/2017 10:15:11 AM	666.3828
+FractionChange	Numerator	liquid_10		15		4/19/2017 10:15:12 AM	666.6719
+FractionChange	Numerator	liquid_10		16		4/19/2017 10:15:12 AM	666.9828
+FractionChange	Numerator	liquid_10		17		4/19/2017 10:15:12 AM	667.2707
+FractionChange	Numerator	liquid_10		18		4/19/2017 10:15:12 AM	667.5508
+FractionChange	Numerator	liquid_10		19		4/19/2017 10:15:13 AM	667.8549
+FractionChange	Numerator	liquid_10		20		4/19/2017 10:15:13 AM	668.1829
+FractionChange	Numerator	liquid_10		21		4/19/2017 10:15:13 AM	668.4469
+FractionChange	Numerator	liquid_10		22		4/19/2017 10:15:14 AM	668.6948
+FractionChange	Numerator	liquid_10		23		4/19/2017 10:15:14 AM	668.9439
+PressFraction	LiquidMeasures	liquid_10		23/21	(0.9375, -0.06666666)	4/19/2017 10:15:17 AM	672.0142
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(0.7375, -0.6)	4/19/2017 10:15:18 AM	673.1981
+ClickButton	Lab					4/19/2017 10:15:19 AM	674.174
+PressFraction	LiquidMeasures	liquid_10		23/21	(0.7375, -0.6)	4/19/2017 10:15:21 AM	676.3021
+FractionPlaced	EqOp1	liquid_10		23/21		4/19/2017 10:15:23 AM	678.055
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(0.7375, -0.6)	4/19/2017 10:15:23 AM	678.055
+PressFraction	LiquidMeasures	liquid_10		23/21	(0.7375, -0.6)	4/19/2017 10:15:24 AM	679.006
+OperationResult	Equivalence			=		4/19/2017 10:15:25 AM	679.766
+FractionPlaced	EqOp2	liquid_10		23/21		4/19/2017 10:15:25 AM	679.766
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(0.7375, -0.6)	4/19/2017 10:15:25 AM	679.766
+PressFraction	LiquidMeasures	liquid_10		23/21	(0.7375, -0.6)	4/19/2017 10:15:26 AM	680.606
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(0.1, -0.2333333)	4/19/2017 10:15:27 AM	682.4221
+ClickButton	3OperandTab					4/19/2017 10:15:40 AM	694.7094
+PressFraction	LiquidMeasures	liquid_10		23/21	(0.1, -0.2333333)	4/19/2017 10:15:41 AM	696.0693
+FractionPlaced	SumOp2	liquid_10		23/21		4/19/2017 10:15:42 AM	696.7893
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(0.1, -0.2333333)	4/19/2017 10:15:42 AM	696.7893
+PressFraction	LiquidMeasures	liquid_10		23/21	(0.1, -0.2333333)	4/19/2017 10:15:43 AM	697.8853
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(-1.8, 4.166667)	4/19/2017 10:15:44 AM	698.7574
+PressFraction	LiquidMeasures	liquid_10		23/21	(-1.8, 4.166667)	4/19/2017 10:15:44 AM	699.4774
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(3.166667, 2.333333)	4/19/2017 10:15:45 AM	700.2774
+ClickButton	 OperationSwitchMinus					4/19/2017 10:15:46 AM	701.4624
+ClickButton	OperationSwitchPlus					4/19/2017 10:15:48 AM	703.0305
+ClickButton	 OperationSwitchMinus					4/19/2017 10:15:48 AM	703.3494
+ClickButton	OperationSwitchPlus					4/19/2017 10:15:49 AM	703.6855
+ClickButton	 OperationSwitchMinus					4/19/2017 10:15:49 AM	703.9975
+PressFraction	LiquidMeasures	liquid_10		23/21	(3.166667, 2.333333)	4/19/2017 10:15:51 AM	705.7966
+FractionTrashed	LiquidMeasures	liquid_10		23/21		4/19/2017 10:15:52 AM	707.1656
+ReleaseFraction	LiquidMeasures	liquid_10		23/21	(-9.966667, 6.466666)	4/19/2017 10:15:52 AM	707.1656
+ClickButton	Lab					4/19/2017 10:15:56 AM	710.8205
+ClickButton	OpenTaskDescription					4/19/2017 10:16:37 AM	751.7952
+TaskChange_warningMessage	ClickForward			2		4/19/2017 10:16:40 AM	755.1622
+TaskReset						4/19/2017 10:16:43 AM	757.7313
+ClickButton	OpenTaskDescription					4/19/2017 10:16:47 AM	761.9464
+ClickButton	Set/Hearts					4/19/2017 10:16:52 AM	767.4976
+FractionGenerated	HeartSets	heartset_11				4/19/2017 10:16:52 AM	767.4976
+PressFraction	HeartSets	heartset_11		0/0	(-0.71875, 0)	4/19/2017 10:16:57 AM	772.4667
+ReleaseFraction	HeartSets	heartset_11		0/0	(-0.7187499, 0)	4/19/2017 10:16:58 AM	772.6579
+FractionChange	Denominator	heartset_11		1		4/19/2017 10:17:00 AM	775.0896
+FractionChange	Denominator	heartset_11		2		4/19/2017 10:17:00 AM	775.4266
+FractionChange	Denominator	heartset_11		3		4/19/2017 10:17:01 AM	775.7936
+FractionChange	Denominator	heartset_11		4		4/19/2017 10:17:01 AM	776.0986
+FractionChange	Denominator	heartset_11		5		4/19/2017 10:17:01 AM	776.4255
+FractionChange	Denominator	heartset_11		6		4/19/2017 10:17:02 AM	776.6575
+FractionChange	Denominator	heartset_11		7		4/19/2017 10:17:02 AM	776.9216
+FractionChange	Denominator	heartset_11		8		4/19/2017 10:17:02 AM	777.1716
+FractionChange	Denominator	heartset_11		9		4/19/2017 10:17:02 AM	777.4176
+FractionChange	Denominator	heartset_11		10		4/19/2017 10:17:03 AM	777.6576
+FractionChange	Denominator	heartset_11		9		4/19/2017 10:17:03 AM	778.4496
+FractionChange	Denominator	heartset_11		8		4/19/2017 10:17:04 AM	778.8106
+FractionChange	Denominator	heartset_11		7		4/19/2017 10:17:04 AM	779.1456
+FractionChange	Denominator	heartset_11		6		4/19/2017 10:17:04 AM	779.5386
+FractionChange	Denominator	heartset_11		5		4/19/2017 10:17:05 AM	779.9617
+PressFraction	HeartSets	heartset_11		0/5	(-0.7187499, 0)	4/19/2017 10:17:08 AM	783.3537
+ReleaseFraction	HeartSets	heartset_11		0/5	(-0.71875, 0)	4/19/2017 10:17:08 AM	783.5607
+FractionChange	Numerator	heartset_11		1		4/19/2017 10:17:10 AM	785.4257
+FractionChange	Numerator	heartset_11		2		4/19/2017 10:17:11 AM	785.9128
+FractionChange	Numerator	heartset_11		3		4/19/2017 10:17:11 AM	786.2338
+FractionChange	Numerator	heartset_11		4		4/19/2017 10:17:12 AM	786.7208
+FractionChange	Numerator	heartset_11		5		4/19/2017 10:17:13 AM	788.2738
+ClickButton	Lab					4/19/2017 10:17:17 AM	791.7378
+PressFraction	HeartSets	heartset_11		5/5	(-0.71875, 0)	4/19/2017 10:17:19 AM	793.6739
+FractionPlaced	EqOp1	heartset_11		5/5		4/19/2017 10:17:20 AM	794.6498
+ReleaseFraction	HeartSets	heartset_11		5/5	(-0.71875, 0)	4/19/2017 10:17:20 AM	794.6498
+ClickButton	3OperandTab					4/19/2017 10:17:21 AM	796.3859
+PressFraction	HeartSets	heartset_11		5/5	(-0.71875, 0)	4/19/2017 10:17:22 AM	797.5129
+ReleaseFraction	HeartSets	heartset_11		5/5	(-3.01875, 5.866667)	4/19/2017 10:17:23 AM	798.456
+ClickButton	Lab					4/19/2017 10:17:56 AM	831.1585
+ClickButton	Lab					4/19/2017 10:17:58 AM	832.6315
+ClickButton	Lab					4/19/2017 10:17:59 AM	834.0065
+PressFraction	HeartSets	heartset_11		5/5	(-3.01875, 5.866667)	4/19/2017 10:18:00 AM	834.8225
+FractionTrashed	HeartSets	heartset_11		5/5		4/19/2017 10:18:00 AM	835.3986
+ReleaseFraction	HeartSets	heartset_11		5/5	(-10.63333, 7.333333)	4/19/2017 10:18:00 AM	835.3986
+Feedback	FeedbackPresented			创造一个等值分数需要做些什么？		4/19/2017 10:18:02 AM	836.7195
+Feedback	FeedbackPresented			创造一个等值分数需要做些什么？		4/19/2017 10:18:04 AM	839.3986
+ClickButton	Shape/VRects					4/19/2017 10:18:14 AM	848.6537
+FractionGenerated	VRects	vrect_12				4/19/2017 10:18:14 AM	848.6537
+FractionChange	Denominator	vrect_12		1		4/19/2017 10:18:15 AM	849.9017
+FractionChange	Denominator	vrect_12		2		4/19/2017 10:18:16 AM	850.8148
+FractionChange	Denominator	vrect_12		3		4/19/2017 10:18:16 AM	851.1098
+FractionChange	Denominator	vrect_12		4		4/19/2017 10:18:16 AM	851.3258
+FractionChange	Denominator	vrect_12		5		4/19/2017 10:18:17 AM	851.5662
+FractionChange	Denominator	vrect_12		6		4/19/2017 10:18:17 AM	851.7748
+FractionChange	Denominator	vrect_12		7		4/19/2017 10:18:17 AM	851.9738
+FractionChange	Denominator	vrect_12		8		4/19/2017 10:18:17 AM	852.1898
+FractionChange	Denominator	vrect_12		9		4/19/2017 10:18:17 AM	852.4068
+FractionChange	Denominator	vrect_12		10		4/19/2017 10:18:18 AM	852.5977
+FractionChange	Denominator	vrect_12		11		4/19/2017 10:18:18 AM	852.7978
+PressFraction	VRects	vrect_12		0/11	(1.125, -1)	4/19/2017 10:18:20 AM	854.7018
+ReleaseFraction	VRects	vrect_12		0/11	(1.125, -1)	4/19/2017 10:18:20 AM	854.8308
+FractionChange	Numerator	vrect_12		1		4/19/2017 10:18:21 AM	856.1339
+FractionChange	Numerator	vrect_12		2		4/19/2017 10:18:22 AM	856.5909
+FractionChange	Numerator	vrect_12		3		4/19/2017 10:18:22 AM	856.9029
+FractionChange	Numerator	vrect_12		4		4/19/2017 10:18:22 AM	857.4539
+FractionChange	Numerator	vrect_12		5		4/19/2017 10:18:23 AM	857.7899
+FractionChange	Numerator	vrect_12		6		4/19/2017 10:18:23 AM	858.1418
+FractionChange	Numerator	vrect_12		7		4/19/2017 10:18:23 AM	858.4299
+FractionChange	Numerator	vrect_12		8		4/19/2017 10:18:24 AM	858.7669
+FractionChange	Numerator	vrect_12		9		4/19/2017 10:18:24 AM	859.0789
+PressFraction	VRects	vrect_12		9/11	(1.125, -1)	4/19/2017 10:18:26 AM	860.7411
+FractionChange	Numerator	vrect_12		8		4/19/2017 10:18:26 AM	861.134
+ReleaseFraction	VRects	vrect_12		8/11	(1.091667, -1)	4/19/2017 10:18:26 AM	861.134
+PressFraction	VRects	vrect_12		8/11	(1.091667, -1)	4/19/2017 10:18:43 AM	877.5656
+ReleaseFraction	VRects	vrect_12		8/11	(1.091667, -1)	4/19/2017 10:18:43 AM	877.7402

@@ -1,0 +1,57 @@
+{
+  "initial_model": [
+    
+  ],
+  "initial_configuration": [
+    {
+      "item": "lab",
+      "active": true
+    },
+    {
+      "item": "lines",
+      "active": true
+    },
+    {
+      "item": "rectangles",
+      "active": true
+    },
+    {
+      "item": "sets",
+      "active": true
+    },
+    {
+      "item": "liquids",
+      "active": true
+    },
+    {
+      "item": "change_color",
+      "active": true
+    },
+    {
+      "item": "copy",
+      "active": true
+    },
+    {
+      "item": "partition",
+      "active": true
+    },
+    {
+      "item": "add",
+      "active": true
+    },
+    {
+      "item": "subtract",
+      "active": true
+    }
+  ],
+  "extra_information": {
+  },
+  "task_description": {
+    "title": "",
+    "desctiption": "Using the same representation, work out which is bigger: 1/3 or 1/5?",
+    "endStateMessage": "Congratulations, you're awesome!",
+    "genericFeedback": "This is generic feedback.",
+    "feedbackDelayTime": 10,
+    "showAtStartup": "true"
+  }  
+}

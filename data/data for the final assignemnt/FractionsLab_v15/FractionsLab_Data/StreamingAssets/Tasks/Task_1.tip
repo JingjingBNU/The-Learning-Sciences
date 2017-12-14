@@ -1,0 +1,57 @@
+﻿{
+  "initial_model": [
+    
+  ],
+  "initial_configuration": [
+    {
+      "item": "lab",
+      "active": true
+    },
+    {
+      "item": "lines",
+      "active": true
+    },
+    {
+      "item": "rectangles",
+      "active": true
+    },
+    {
+      "item": "sets",
+      "active": true
+    },
+    {
+      "item": "liquids",
+      "active": true
+    },
+    {
+      "item": "change_color",
+      "active": true
+    },
+    {
+      "item": "copy",
+      "active": true
+    },
+    {
+      "item": "partition",
+      "active": true
+    },
+    {
+      "item": "add",
+      "active": true
+    },
+    {
+      "item": "subtract",
+      "active": true
+    }
+  ],
+  "extra_information": {
+  },
+  "task_description": {
+    "title": "",
+    "desctiption": "用右侧的图形表示等于1/2的分数（1/2本身除外）",
+    "endStateMessage": "恭喜！ 你创造了一个等于1/2的分数。",
+    "genericFeedback": "创造一个等值分数需要做些什么？",
+    "feedbackDelayTime": 10,
+    "showAtStartup": "true"
+  }  
+}

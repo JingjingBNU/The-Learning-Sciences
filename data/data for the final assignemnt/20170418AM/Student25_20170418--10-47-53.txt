@@ -1,0 +1,396 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		25	7092e576b8314e764ce4f1fbca0913e9c1c301b9	4/18/2017 10:47:53 AM		4/18/2017 10:48:11 AM	16.61088
+ClickButton	OpenTaskDescription					4/18/2017 10:48:18 AM	23.14455
+ClickButton	LiquidMeasures					4/18/2017 10:48:21 AM	26.13975
+FractionGenerated	LiquidMeasures	liquid_1				4/18/2017 10:48:21 AM	26.13975
+FractionChange	Denominator	liquid_1		1		4/18/2017 10:48:22 AM	27.85176
+FractionChange	Denominator	liquid_1		2		4/18/2017 10:48:23 AM	28.88188
+FractionChange	Denominator	liquid_1		3		4/18/2017 10:48:24 AM	29.06689
+FractionChange	Denominator	liquid_1		4		4/18/2017 10:48:24 AM	29.24691
+PressFraction	LiquidMeasures	liquid_1		0/4	(1.9375, 0)	4/18/2017 10:48:25 AM	30.23697
+ReleaseFraction	LiquidMeasures	liquid_1		0/4	(1.9375, 0)	4/18/2017 10:48:25 AM	30.30995
+FractionChange	Numerator	liquid_1		1		4/18/2017 10:48:26 AM	31.106
+FractionChange	Numerator	liquid_1		2		4/18/2017 10:48:26 AM	31.29601
+EndStateReached						4/18/2017 10:48:29 AM	34.30194
+PopupAfterTaskReflection						4/18/2017 10:48:30 AM	35.38034
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 10:48:32 AM		4/18/2017 10:48:32 AM	37.43244
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 10:48:33 AM		4/18/2017 10:48:33 AM	39.0044
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 10:48:34 AM		4/18/2017 10:48:34 AM	39.51057
+ClickButton	LiquidMeasures					4/18/2017 10:48:38 AM	43.3455
+FractionGenerated	LiquidMeasures	liquid_2				4/18/2017 10:48:38 AM	43.3455
+FractionChange	Denominator	liquid_2		1		4/18/2017 10:48:45 AM	50.43273
+FractionChange	Denominator	liquid_2		2		4/18/2017 10:48:45 AM	50.73574
+FractionChange	Denominator	liquid_2		1		4/18/2017 10:48:47 AM	52.44598
+FractionChange	Denominator	liquid_2		1		4/18/2017 10:48:47 AM	52.63411
+FractionChange	Denominator	liquid_2		1		4/18/2017 10:48:47 AM	52.86501
+FractionChange	Denominator	liquid_2		2		4/18/2017 10:48:53 AM	58.4782
+FractionChange	Denominator	liquid_2		3		4/18/2017 10:48:53 AM	58.9212
+FractionChange	Denominator	liquid_2		4		4/18/2017 10:49:14 AM	79.28117
+FractionChange	Denominator	liquid_2		5		4/18/2017 10:49:14 AM	79.46214
+FractionChange	Denominator	liquid_2		6		4/18/2017 10:49:14 AM	79.66428
+FractionChange	Denominator	liquid_2		7		4/18/2017 10:49:14 AM	79.84423
+FractionChange	Denominator	liquid_2		8		4/18/2017 10:49:15 AM	80.0612
+FractionChange	Denominator	liquid_2		9		4/18/2017 10:49:15 AM	80.24121
+FractionChange	Denominator	liquid_2		10		4/18/2017 10:49:15 AM	80.48624
+FractionChange	Denominator	liquid_2		11		4/18/2017 10:49:16 AM	81.0443
+FractionChange	Denominator	liquid_2		12		4/18/2017 10:49:16 AM	81.31728
+FractionChange	Denominator	liquid_2		13		4/18/2017 10:49:17 AM	82.1176
+FractionChange	Denominator	liquid_2		14		4/18/2017 10:49:17 AM	82.91541
+FractionChange	Denominator	liquid_2		15		4/18/2017 10:49:18 AM	83.23032
+FractionChange	Denominator	liquid_2		16		4/18/2017 10:49:18 AM	83.79038
+FractionChange	Denominator	liquid_2		17		4/18/2017 10:49:18 AM	84.02542
+FractionChange	Denominator	liquid_2		18		4/18/2017 10:49:19 AM	84.63433
+PressFraction	LiquidMeasures	liquid_2		0/18	(1.9375, 0)	4/18/2017 10:49:20 AM	85.22034
+ReleaseFraction	LiquidMeasures	liquid_2		0/18	(1.9375, 0)	4/18/2017 10:49:20 AM	85.36842
+FractionChange	Numerator	liquid_2		1		4/18/2017 10:49:22 AM	87.25957
+FractionChange	Numerator	liquid_2		2		4/18/2017 10:49:22 AM	87.59166
+FractionChange	Numerator	liquid_2		3		4/18/2017 10:49:23 AM	88.22263
+EndStateReached						4/18/2017 10:49:26 AM	91.25166
+PopupAfterTaskReflection						4/18/2017 10:49:27 AM	92.22404
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 10:49:29 AM		4/18/2017 10:49:29 AM	94.5281
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 10:49:30 AM		4/18/2017 10:49:30 AM	95.84814
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 10:49:32 AM		4/18/2017 10:49:32 AM	97.25397
+ClickButton	LiquidMeasures					4/18/2017 10:49:39 AM	104.5002
+FractionGenerated	LiquidMeasures	liquid_3				4/18/2017 10:49:39 AM	104.5002
+FractionChange	Denominator	liquid_3		1		4/18/2017 10:49:40 AM	105.5883
+FractionChange	Denominator	liquid_3		2		4/18/2017 10:49:41 AM	106.0513
+FractionChange	Denominator	liquid_3		3		4/18/2017 10:49:41 AM	106.2844
+FractionChange	Denominator	liquid_3		4		4/18/2017 10:49:41 AM	106.4514
+FractionChange	Denominator	liquid_3		3		4/18/2017 10:49:42 AM	107.5945
+PressFraction	LiquidMeasures	liquid_3		0/3	(0.9375, 1)	4/18/2017 10:49:43 AM	108.066
+ReleaseFraction	LiquidMeasures	liquid_3		0/3	(0.9375, 1)	4/18/2017 10:49:43 AM	108.1656
+FractionChange	Numerator	liquid_3		1		4/18/2017 10:49:43 AM	108.8974
+FractionChange	Numerator	liquid_3		2		4/18/2017 10:49:44 AM	109.1105
+FractionChange	Numerator	liquid_3		3		4/18/2017 10:49:44 AM	109.9796
+FractionChange	Numerator	liquid_3		4		4/18/2017 10:49:45 AM	110.4946
+PressFraction	LiquidMeasures	liquid_3		4/3	(0.9375, 1)	4/18/2017 10:49:46 AM	111.6607
+FractionChange	Numerator	liquid_3		5		4/18/2017 10:49:46 AM	111.7716
+ReleaseFraction	LiquidMeasures	liquid_3		5/3	(0.9375, 1)	4/18/2017 10:49:46 AM	111.7716
+FractionChange	Numerator	liquid_3		4		4/18/2017 10:49:47 AM	112.9167
+FractionChange	Numerator	liquid_3		3		4/18/2017 10:49:48 AM	113.2388
+FractionChange	Numerator	liquid_3		2		4/18/2017 10:49:50 AM	115.1778
+FractionChange	Numerator	liquid_3		3		4/18/2017 10:49:51 AM	116.6129
+FractionChange	Numerator	liquid_3		4		4/18/2017 10:49:51 AM	116.8619
+PressFraction	LiquidMeasures	liquid_3		4/3	(0.9375, 1)	4/18/2017 10:49:52 AM	117.844
+ReleaseFraction	LiquidMeasures	liquid_3		4/3	(0.9375, 1)	4/18/2017 10:49:52 AM	117.945
+FractionChange	Denominator	liquid_3		2		4/18/2017 10:49:53 AM	118.927
+FractionChange	Denominator	liquid_3		3		4/18/2017 10:49:55 AM	120.868
+Feedback	FeedbackPresented			当你改变分母但又要保证分数值不变的时候，你需要对分子做些什么？		4/18/2017 10:50:01 AM	126.2822
+PressFraction	LiquidMeasures	liquid_3		4/3	(0.9375, 1)	4/18/2017 10:50:03 AM	128.7514
+FractionTrashed	LiquidMeasures	liquid_3		4/3		4/18/2017 10:50:05 AM	130.9585
+ReleaseFraction	LiquidMeasures	liquid_3		4/3	(-11.66667, 7.833333)	4/18/2017 10:50:05 AM	130.9585
+ClickButton	Set/Stars					4/18/2017 10:50:19 AM	144.6701
+FractionGenerated	StarSets	starset_4				4/18/2017 10:50:19 AM	144.6701
+FractionChange	Denominator	starset_4		1		4/18/2017 10:50:21 AM	146.1012
+FractionChange	Denominator	starset_4		2		4/18/2017 10:50:21 AM	146.3501
+FractionChange	Denominator	starset_4		3		4/18/2017 10:50:22 AM	147.2782
+FractionChange	Denominator	starset_4		4		4/18/2017 10:50:25 AM	150.3183
+FractionChange	Denominator	starset_4		5		4/18/2017 10:50:26 AM	151.4965
+FractionChange	Denominator	starset_4		4		4/18/2017 10:50:27 AM	152.5066
+PressFraction	StarSets	starset_4		0/4	(1.28125, 0)	4/18/2017 10:50:28 AM	153.9576
+ReleaseFraction	StarSets	starset_4		0/4	(1.214583, -0.1)	4/18/2017 10:50:29 AM	154.0806
+FractionChange	Numerator	starset_4		1		4/18/2017 10:50:30 AM	155.1835
+FractionChange	Numerator	starset_4		2		4/18/2017 10:50:30 AM	155.6396
+FractionChange	Numerator	starset_4		3		4/18/2017 10:50:30 AM	156.0127
+PressFraction	StarSets	starset_4		3/4	(1.214583, -0.1)	4/18/2017 10:50:36 AM	161.4939
+ReleaseFraction	StarSets	starset_4		3/4	(1.214583, -0.1)	4/18/2017 10:50:36 AM	161.6309
+FractionChange	Numerator	starset_4		2		4/18/2017 10:50:40 AM	165.9501
+FractionChange	Numerator	starset_4		1		4/18/2017 10:50:41 AM	166.2131
+FractionChange	Numerator	starset_4		0		4/18/2017 10:50:41 AM	166.4661
+FractionChange	Numerator	starset_4		1		4/18/2017 10:50:42 AM	167.8872
+FractionChange	Numerator	starset_4		2		4/18/2017 10:50:43 AM	168.1002
+FractionChange	Numerator	starset_4		3		4/18/2017 10:50:43 AM	168.3362
+FractionChange	Numerator	starset_4		2		4/18/2017 10:50:44 AM	169.0502
+FractionChange	Numerator	starset_4		1		4/18/2017 10:50:44 AM	169.2703
+FractionChange	Numerator	starset_4		0		4/18/2017 10:50:44 AM	169.5613
+PressFraction	StarSets	starset_4		0/4	(1.214583, -0.1)	4/18/2017 10:50:45 AM	170.0663
+ReleaseFraction	StarSets	starset_4		0/4	(1.214583, -0.1)	4/18/2017 10:50:45 AM	170.2003
+FractionChange	Denominator	starset_4		5		4/18/2017 10:50:45 AM	170.9944
+FractionChange	Denominator	starset_4		6		4/18/2017 10:50:46 AM	171.2974
+FractionChange	Denominator	starset_4		7		4/18/2017 10:50:46 AM	171.4818
+FractionChange	Denominator	starset_4		8		4/18/2017 10:50:46 AM	171.7343
+FractionChange	Denominator	starset_4		9		4/18/2017 10:50:46 AM	171.9214
+FractionChange	Denominator	starset_4		10		4/18/2017 10:50:47 AM	172.6914
+FractionChange	Denominator	starset_4		11		4/18/2017 10:50:49 AM	174.2995
+PressFraction	StarSets	starset_4		0/11	(1.214583, -0.1)	4/18/2017 10:50:49 AM	174.7705
+ReleaseFraction	StarSets	starset_4		0/11	(1.214583, -0.1)	4/18/2017 10:50:49 AM	174.8796
+FractionChange	Numerator	starset_4		1		4/18/2017 10:50:51 AM	176.6906
+FractionChange	Numerator	starset_4		2		4/18/2017 10:50:51 AM	177.0097
+FractionChange	Numerator	starset_4		3		4/18/2017 10:50:52 AM	177.2495
+FractionChange	Numerator	starset_4		4		4/18/2017 10:50:52 AM	177.4996
+FractionChange	Numerator	starset_4		5		4/18/2017 10:50:52 AM	177.7277
+FractionChange	Numerator	starset_4		4		4/18/2017 10:50:53 AM	178.6776
+PressFraction	StarSets	starset_4		4/11	(1.214583, -0.1)	4/18/2017 10:50:57 AM	182.4679
+ReleaseFraction	StarSets	starset_4		4/11	(1.214583, -0.1)	4/18/2017 10:50:57 AM	182.5379
+FractionChange	Denominator	starset_4		12		4/18/2017 10:50:58 AM	183.319
+PressFraction	StarSets	starset_4		4/12	(1.214583, -0.1)	4/18/2017 10:50:58 AM	183.756
+ReleaseFraction	StarSets	starset_4		4/12	(1.214583, -0.1)	4/18/2017 10:50:58 AM	183.858
+FractionChange	Numerator	starset_4		3		4/18/2017 10:51:00 AM	185.3341
+PressFraction	StarSets	starset_4		3/12	(1.214583, -0.1)	4/18/2017 10:51:03 AM	188.8001
+ReleaseFraction	StarSets	starset_4		3/12	(1.214583, -0.1000001)	4/18/2017 10:51:03 AM	188.8652
+FractionChange	Numerator	starset_4		4		4/18/2017 10:51:04 AM	189.6243
+PressFraction	StarSets	starset_4		4/12	(1.214583, -0.1000001)	4/18/2017 10:51:06 AM	191.4763
+ReleaseFraction	StarSets	starset_4		4/12	(1.214583, -0.1000001)	4/18/2017 10:51:06 AM	191.5493
+FractionChange	Numerator	starset_4		3		4/18/2017 10:51:08 AM	193.5765
+FractionChange	Numerator	starset_4		2		4/18/2017 10:51:09 AM	194.5434
+PressFraction	StarSets	starset_4		2/12	(1.214583, -0.1000001)	4/18/2017 10:51:26 AM	211.9703
+ReleaseFraction	StarSets	starset_4		2/12	(1.18125, -0.1000001)	4/18/2017 10:51:27 AM	212.0759
+FractionChange	Numerator	starset_4		3		4/18/2017 10:51:27 AM	212.7193
+FractionChange	Numerator	starset_4		4		4/18/2017 10:51:27 AM	212.9113
+FractionChange	Numerator	starset_4		5		4/18/2017 10:51:28 AM	213.1683
+FractionChange	Numerator	starset_4		6		4/18/2017 10:51:28 AM	213.6883
+FractionChange	Numerator	starset_4		7		4/18/2017 10:51:28 AM	213.9094
+FractionChange	Numerator	starset_4		8		4/18/2017 10:51:29 AM	214.0944
+FractionChange	Numerator	starset_4		9		4/18/2017 10:51:29 AM	214.3544
+FractionChange	Numerator	starset_4		10		4/18/2017 10:51:30 AM	215.8414
+EndStateReached						4/18/2017 10:51:32 AM	217.3654
+TaskChange_warningMessage	ClickForward			1		4/18/2017 10:51:35 AM	220.8068
+PressFraction	StarSets	starset_4		10/12	(1.18125, -0.1000001)	4/18/2017 10:51:42 AM	227.659
+ReleaseFraction	StarSets	starset_4		10/12	(1.147917, -0.1666668)	4/18/2017 10:51:42 AM	227.7699
+FractionChange	Numerator	starset_4		9		4/18/2017 10:51:43 AM	228.56
+EndStateReached						4/18/2017 10:51:46 AM	231.566
+PopupAfterTaskReflection						4/18/2017 10:51:47 AM	232.7434
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 10:51:49 AM		4/18/2017 10:51:49 AM	234.4164
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 10:51:50 AM		4/18/2017 10:51:50 AM	235.5436
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我乐在其中	4/18/2017 10:51:52 AM		4/18/2017 10:51:52 AM	237.9395
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 10:51:53 AM		4/18/2017 10:51:53 AM	238.4247
+ClickButton	Lab					4/18/2017 10:51:59 AM	244.7997
+ClickButton	LiquidMeasures					4/18/2017 10:52:02 AM	247.6249
+FractionGenerated	LiquidMeasures	liquid_5				4/18/2017 10:52:02 AM	247.6249
+PressFraction	LiquidMeasures	liquid_5		0/0	(0.9375, 1)	4/18/2017 10:52:03 AM	248.6498
+ReleaseFraction	LiquidMeasures	liquid_5		0/0	(-0.3291667, -2.666667)	4/18/2017 10:52:04 AM	249.1029
+FractionChange	Denominator	liquid_5		1		4/18/2017 10:52:06 AM	251.0469
+FractionChange	Denominator	liquid_5		2		4/18/2017 10:52:06 AM	251.2271
+FractionChange	Denominator	liquid_5		3		4/18/2017 10:52:06 AM	251.659
+PressFraction	LiquidMeasures	liquid_5		0/3	(-0.3291667, -2.666667)	4/18/2017 10:52:07 AM	252.4131
+ReleaseFraction	LiquidMeasures	liquid_5		0/3	(-0.3291667, -2.666667)	4/18/2017 10:52:07 AM	252.5391
+FractionChange	Numerator	liquid_5		1		4/18/2017 10:52:08 AM	253.4512
+FractionChange	Numerator	liquid_5		2		4/18/2017 10:52:08 AM	253.649
+FractionChange	Numerator	liquid_5		3		4/18/2017 10:52:08 AM	253.8141
+FractionChange	Numerator	liquid_5		4		4/18/2017 10:52:09 AM	254.5632
+PressFraction	LiquidMeasures	liquid_5		4/3	(-0.3291667, -2.666667)	4/18/2017 10:52:10 AM	255.3215
+FractionPlaced	EqOp1	liquid_5		4/3		4/18/2017 10:52:11 AM	256.4312
+ReleaseFraction	LiquidMeasures	liquid_5		4/3	(-0.3291667, -2.666667)	4/18/2017 10:52:11 AM	256.4312
+PressFraction	LiquidMeasures	liquid_5		4/3	(-0.3291667, -2.666667)	4/18/2017 10:52:14 AM	259.3774
+ReleaseFraction	LiquidMeasures	liquid_5		4/3	(-2.2625, -2.133333)	4/18/2017 10:52:15 AM	260.3915
+PressFraction	LiquidMeasures	liquid_5		4/3	(-2.2625, -2.133333)	4/18/2017 10:52:15 AM	260.9164
+ReleaseFraction	LiquidMeasures	liquid_5		4/3	(-1.8625, -2.366667)	4/18/2017 10:52:19 AM	264.4077
+PressFraction	LiquidMeasures	liquid_5		4/3	(-1.8625, -2.366667)	4/18/2017 10:52:21 AM	266.7738
+ReleaseFraction	LiquidMeasures	liquid_5		4/3	(-1.8625, -2.4)	4/18/2017 10:52:21 AM	266.8777
+FractionChange	Numerator	liquid_5		3		4/18/2017 10:52:22 AM	267.6097
+PressFraction	LiquidMeasures	liquid_5		3/3	(-1.8625, -2.4)	4/18/2017 10:52:22 AM	267.9518
+ReleaseFraction	LiquidMeasures	liquid_5		3/3	(-1.8625, -2.4)	4/18/2017 10:52:23 AM	268.0828
+FractionChange	Denominator	liquid_5		4		4/18/2017 10:52:23 AM	269.0309
+PressFraction	LiquidMeasures	liquid_5		3/4	(-1.8625, -2.4)	4/18/2017 10:52:24 AM	269.3868
+FractionPlaced	EqOp1	liquid_5		3/4		4/18/2017 10:52:25 AM	270.1699
+ReleaseFraction	LiquidMeasures	liquid_5		3/4	(-1.8625, -2.4)	4/18/2017 10:52:25 AM	270.1699
+PressFraction	LiquidMeasures	liquid_5		3/4	(-1.8625, -2.4)	4/18/2017 10:52:28 AM	273.9261
+ReleaseFraction	LiquidMeasures	liquid_5		3/4	(-1.8625, -2.4)	4/18/2017 10:52:28 AM	274.0241
+FractionChange	Numerator	liquid_5		2		4/18/2017 10:52:30 AM	275.1803
+FractionChange	Numerator	liquid_5		1		4/18/2017 10:52:30 AM	275.4991
+PressFraction	LiquidMeasures	liquid_5		1/4	(-1.8625, -2.4)	4/18/2017 10:52:31 AM	276.4752
+ReleaseFraction	LiquidMeasures	liquid_5		1/4	(-1.8625, -2.4)	4/18/2017 10:52:31 AM	276.5732
+FractionChange	Denominator	liquid_5		5		4/18/2017 10:52:32 AM	277.3542
+FractionChange	Denominator	liquid_5		6		4/18/2017 10:52:32 AM	277.5763
+FractionChange	Denominator	liquid_5		7		4/18/2017 10:52:32 AM	277.7723
+FractionChange	Denominator	liquid_5		8		4/18/2017 10:52:32 AM	278.0332
+FractionChange	Denominator	liquid_5		9		4/18/2017 10:52:33 AM	278.8356
+FractionChange	Denominator	liquid_5		10		4/18/2017 10:52:34 AM	279.6273
+FractionChange	Denominator	liquid_5		11		4/18/2017 10:52:34 AM	279.9043
+FractionChange	Denominator	liquid_5		12		4/18/2017 10:52:35 AM	280.9493
+PressFraction	LiquidMeasures	liquid_5		1/12	(-1.8625, -2.4)	4/18/2017 10:52:36 AM	281.5724
+OperationResult	Equivalence			>		4/18/2017 10:52:37 AM	282.3755
+FractionPlaced	EqOp2	liquid_5		1/12		4/18/2017 10:52:37 AM	282.3755
+ReleaseFraction	LiquidMeasures	liquid_5		1/12	(-1.8625, -2.4)	4/18/2017 10:52:37 AM	282.3755
+EndStateReached						4/18/2017 10:52:40 AM	285.3835
+EndStateReached						4/18/2017 10:52:40 AM	285.3835
+EndStateReached						4/18/2017 10:52:40 AM	285.3835
+PopupAfterTaskReflection						4/18/2017 10:52:41 AM	286.7198
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 10:52:43 AM		4/18/2017 10:52:43 AM	288.5508
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 10:52:45 AM		4/18/2017 10:52:45 AM	290.3801
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 10:52:45 AM		4/18/2017 10:52:45 AM	291.009
+ClickButton	Lab					4/18/2017 10:52:45 AM	291.009
+ClickButton	LiquidMeasures					4/18/2017 10:52:52 AM	297.0991
+FractionGenerated	LiquidMeasures	liquid_6				4/18/2017 10:52:52 AM	297.0991
+FractionChange	Denominator	liquid_6		1		4/18/2017 10:52:53 AM	298.2151
+FractionChange	Denominator	liquid_6		2		4/18/2017 10:52:56 AM	301.2893
+FractionChange	Denominator	liquid_6		3		4/18/2017 10:52:56 AM	301.581
+PressFraction	LiquidMeasures	liquid_6		0/3	(0.9375, -1)	4/18/2017 10:52:57 AM	302.1933
+ReleaseFraction	LiquidMeasures	liquid_6		0/3	(0.9375, -1)	4/18/2017 10:52:57 AM	302.2973
+FractionChange	Numerator	liquid_6		1		4/18/2017 10:52:58 AM	303.0913
+ClickButton	Lab					4/18/2017 10:52:59 AM	304.5815
+PressFraction	LiquidMeasures	liquid_6		1/3	(0.9375, -1)	4/18/2017 10:53:00 AM	305.1474
+FractionPlaced	EqOp1	liquid_6		1/3		4/18/2017 10:53:00 AM	305.7575
+ReleaseFraction	LiquidMeasures	liquid_6		1/3	(0.9375, -1)	4/18/2017 10:53:00 AM	305.7575
+PressFraction	LiquidMeasures	liquid_6		1/3	(0.9375, -1)	4/18/2017 10:53:02 AM	307.9817
+ReleaseFraction	LiquidMeasures	liquid_6		1/3	(0.9375, -1)	4/18/2017 10:53:03 AM	308.0826
+FractionChange	Denominator	liquid_6		4		4/18/2017 10:53:03 AM	308.8326
+FractionChange	Denominator	liquid_6		5		4/18/2017 10:53:04 AM	309.0598
+PressFraction	LiquidMeasures	liquid_6		1/5	(0.9375, -1)	4/18/2017 10:53:05 AM	310.1156
+OperationResult	Equivalence			>		4/18/2017 10:53:05 AM	310.7338
+FractionPlaced	EqOp2	liquid_6		1/5		4/18/2017 10:53:05 AM	310.7338
+ReleaseFraction	LiquidMeasures	liquid_6		1/5	(0.9375, -1)	4/18/2017 10:53:05 AM	310.7338
+EndStateReached						4/18/2017 10:53:08 AM	313.7667
+EndStateReached						4/18/2017 10:53:08 AM	313.7667
+EndStateReached						4/18/2017 10:53:08 AM	313.7667
+PopupAfterTaskReflection						4/18/2017 10:53:11 AM	316.0852
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 10:53:12 AM		4/18/2017 10:53:12 AM	318.0264
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 10:53:13 AM		4/18/2017 10:53:13 AM	318.9423
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 10:53:14 AM		4/18/2017 10:53:14 AM	319.8473
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 10:53:15 AM		4/18/2017 10:53:15 AM	320.5424
+ClickButton	Lab					4/18/2017 10:53:15 AM	320.5424
+ClickButton	LiquidMeasures					4/18/2017 10:53:21 AM	326.5564
+FractionGenerated	LiquidMeasures	liquid_7				4/18/2017 10:53:21 AM	326.5564
+PressFraction	LiquidMeasures	liquid_7		0/0	(0.9375, 0)	4/18/2017 10:53:22 AM	327.6965
+ReleaseFraction	LiquidMeasures	liquid_7		0/0	(0.9375, 0)	4/18/2017 10:53:22 AM	327.7425
+PressFraction	LiquidMeasures	liquid_7		0/0	(0.9375, 0)	4/18/2017 10:53:23 AM	328.8855
+ReleaseFraction	LiquidMeasures	liquid_7		0/0	(0.9375, 0)	4/18/2017 10:53:23 AM	328.9896
+FractionChange	Denominator	liquid_7		1		4/18/2017 10:53:24 AM	329.7096
+FractionChange	Denominator	liquid_7		2		4/18/2017 10:53:24 AM	329.9296
+FractionChange	Denominator	liquid_7		3		4/18/2017 10:53:25 AM	330.1176
+FractionChange	Denominator	liquid_7		4		4/18/2017 10:53:25 AM	330.2986
+FractionChange	Denominator	liquid_7		5		4/18/2017 10:53:25 AM	330.4986
+FractionChange	Denominator	liquid_7		6		4/18/2017 10:53:25 AM	330.6807
+FractionChange	Denominator	liquid_7		7		4/18/2017 10:53:25 AM	331.0226
+FractionChange	Denominator	liquid_7		8		4/18/2017 10:53:26 AM	331.5452
+PressFraction	LiquidMeasures	liquid_7		0/8	(0.9375, 0)	4/18/2017 10:53:27 AM	332.2167
+ReleaseFraction	LiquidMeasures	liquid_7		0/8	(0.7708335, 0)	4/18/2017 10:53:27 AM	332.3437
+PressFraction	LiquidMeasures	liquid_7		0/8	(0.7708335, 0)	4/18/2017 10:53:27 AM	332.8598
+ReleaseFraction	LiquidMeasures	liquid_7		0/8	(0.7708335, 0)	4/18/2017 10:53:27 AM	332.9637
+FractionChange	Numerator	liquid_7		1		4/18/2017 10:53:28 AM	333.5797
+ClickButton	Lab					4/18/2017 10:53:30 AM	335.0867
+PressFraction	LiquidMeasures	liquid_7		1/8	(0.7708335, 0)	4/18/2017 10:53:30 AM	335.6999
+FractionPlaced	EqOp1	liquid_7		1/8		4/18/2017 10:53:31 AM	336.3488
+ReleaseFraction	LiquidMeasures	liquid_7		1/8	(0.7708335, 0)	4/18/2017 10:53:31 AM	336.3488
+ClickButton	NumberedLines					4/18/2017 10:53:34 AM	339.3721
+FractionGenerated	NumberedLines	line_8				4/18/2017 10:53:34 AM	339.3721
+PressFraction	NumberedLines	line_8		0/0	(0.3125, 0)	4/18/2017 10:53:35 AM	340.7261
+FractionTrashed	NumberedLines	line_8		0/0		4/18/2017 10:53:37 AM	342.9813
+ReleaseFraction	NumberedLines	line_8		0/0	(-11.43333, 8.333333)	4/18/2017 10:53:37 AM	342.9813
+PressFraction	LiquidMeasures	liquid_7		1/8	(0.7708335, 0)	4/18/2017 10:53:39 AM	344.1803
+ReleaseFraction	LiquidMeasures	liquid_7		1/8	(0.7708335, 0)	4/18/2017 10:53:39 AM	344.3481
+FractionChange	Denominator	liquid_7		7		4/18/2017 10:53:40 AM	345.2583
+FractionChange	Denominator	liquid_7		6		4/18/2017 10:53:40 AM	345.4534
+FractionChange	Denominator	liquid_7		5		4/18/2017 10:53:40 AM	345.6822
+FractionChange	Denominator	liquid_7		4		4/18/2017 10:53:40 AM	345.8744
+FractionChange	Denominator	liquid_7		3		4/18/2017 10:53:41 AM	346.6937
+PressFraction	LiquidMeasures	liquid_7		1/3	(0.7708335, 0)	4/18/2017 10:53:42 AM	347.0704
+OperationResult	Equivalence			<		4/18/2017 10:53:42 AM	347.5524
+FractionPlaced	EqOp2	liquid_7		1/3		4/18/2017 10:53:42 AM	347.5524
+ReleaseFraction	LiquidMeasures	liquid_7		1/3	(0.7708335, 0)	4/18/2017 10:53:42 AM	347.5524
+EndStateReached						4/18/2017 10:53:45 AM	350.5814
+EndStateReached						4/18/2017 10:53:45 AM	350.5814
+EndStateReached						4/18/2017 10:53:45 AM	350.5814
+PopupAfterTaskReflection						4/18/2017 10:53:47 AM	352.7998
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 10:53:49 AM		4/18/2017 10:53:49 AM	354.3509
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 10:53:51 AM		4/18/2017 10:53:51 AM	356.3599
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 10:53:51 AM		4/18/2017 10:53:51 AM	356.8068
+ClickButton	Lab					4/18/2017 10:53:51 AM	356.8068
+ClickButton	LiquidMeasures					4/18/2017 10:53:56 AM	361.1449
+FractionGenerated	LiquidMeasures	liquid_9				4/18/2017 10:53:56 AM	361.1449
+FractionChange	Denominator	liquid_9		1		4/18/2017 10:53:57 AM	363.0231
+FractionChange	Denominator	liquid_9		2		4/18/2017 10:53:58 AM	363.2441
+FractionChange	Denominator	liquid_9		3		4/18/2017 10:53:58 AM	363.4612
+FractionChange	Denominator	liquid_9		4		4/18/2017 10:53:58 AM	363.6732
+FractionChange	Denominator	liquid_9		5		4/18/2017 10:53:59 AM	364.7052
+FractionChange	Denominator	liquid_9		6		4/18/2017 10:54:00 AM	365.9242
+FractionChange	Denominator	liquid_9		7		4/18/2017 10:54:02 AM	367.9504
+FractionChange	Denominator	liquid_9		8		4/18/2017 10:54:03 AM	368.3284
+PressFraction	LiquidMeasures	liquid_9		0/8	(0.9375, 0)	4/18/2017 10:54:03 AM	368.8704
+ReleaseFraction	LiquidMeasures	liquid_9		0/8	(0.9375, 0)	4/18/2017 10:54:03 AM	368.9724
+FractionChange	Numerator	liquid_9		1		4/18/2017 10:54:04 AM	369.9413
+FractionChange	Numerator	liquid_9		2		4/18/2017 10:54:05 AM	370.1425
+FractionChange	Numerator	liquid_9		3		4/18/2017 10:54:05 AM	370.3413
+FractionChange	Numerator	liquid_9		4		4/18/2017 10:54:05 AM	370.5565
+FractionChange	Numerator	liquid_9		5		4/18/2017 10:54:05 AM	370.8014
+FractionChange	Numerator	liquid_9		6		4/18/2017 10:54:06 AM	371.5675
+ClickButton	Lab					4/18/2017 10:54:07 AM	372.8985
+PressFraction	LiquidMeasures	liquid_9		6/8	(0.9375, 0)	4/18/2017 10:54:08 AM	373.5716
+FractionPlaced	EqOp1	liquid_9		6/8		4/18/2017 10:54:09 AM	374.2196
+ReleaseFraction	LiquidMeasures	liquid_9		6/8	(0.9375, 0)	4/18/2017 10:54:09 AM	374.2196
+PressFraction	LiquidMeasures	liquid_9		6/8	(0.9375, 0)	4/18/2017 10:54:25 AM	390.8973
+FractionTrashed	LiquidMeasures	liquid_9		6/8		4/18/2017 10:54:26 AM	391.5534
+ReleaseFraction	LiquidMeasures	liquid_9		6/8	(-13.16667, 8.733334)	4/18/2017 10:54:26 AM	391.5534
+ClickButton	LiquidMeasures					4/18/2017 10:54:28 AM	393.7244
+FractionGenerated	LiquidMeasures	liquid_10				4/18/2017 10:54:28 AM	393.7244
+FractionChange	Denominator	liquid_10		1		4/18/2017 10:54:29 AM	394.9474
+FractionChange	Denominator	liquid_10		2		4/18/2017 10:54:30 AM	395.1726
+PressFraction	LiquidMeasures	liquid_10		0/2	(1.9375, 0)	4/18/2017 10:54:32 AM	397.1807
+FractionTrashed	LiquidMeasures	liquid_10		0/2		4/18/2017 10:54:33 AM	398.4607
+ReleaseFraction	LiquidMeasures	liquid_10		0/2	(-10.7, 7.866667)	4/18/2017 10:54:33 AM	398.4607
+ClickButton	LiquidMeasures					4/18/2017 10:55:39 AM	464.7967
+FractionGenerated	LiquidMeasures	liquid_11				4/18/2017 10:55:39 AM	464.7967
+FractionChange	Denominator	liquid_11		1		4/18/2017 10:55:42 AM	467.8738
+FractionChange	Denominator	liquid_11		2		4/18/2017 10:55:43 AM	468.0689
+FractionChange	Denominator	liquid_11		3		4/18/2017 10:55:43 AM	468.2719
+FractionChange	Denominator	liquid_11		4		4/18/2017 10:55:43 AM	468.4989
+FractionChange	Denominator	liquid_11		5		4/18/2017 10:55:43 AM	468.6958
+FractionChange	Denominator	liquid_11		6		4/18/2017 10:55:43 AM	468.8679
+FractionChange	Denominator	liquid_11		7		4/18/2017 10:55:44 AM	469.097
+FractionChange	Denominator	liquid_11		8		4/18/2017 10:55:44 AM	469.356
+FractionChange	Denominator	liquid_11		9		4/18/2017 10:55:44 AM	469.8799
+FractionChange	Denominator	liquid_11		10		4/18/2017 10:55:45 AM	470.2065
+FractionChange	Denominator	liquid_11		11		4/18/2017 10:55:45 AM	470.92
+FractionChange	Denominator	liquid_11		12		4/18/2017 10:55:47 AM	472.0651
+PressFraction	LiquidMeasures	liquid_11		0/12	(0.9375, 1)	4/18/2017 10:55:47 AM	472.3621
+ReleaseFraction	LiquidMeasures	liquid_11		0/12	(0.9375, 1)	4/18/2017 10:55:47 AM	472.4951
+FractionChange	Numerator	liquid_11		1		4/18/2017 10:55:50 AM	475.7621
+FractionChange	Numerator	liquid_11		2		4/18/2017 10:55:50 AM	475.9523
+FractionChange	Numerator	liquid_11		3		4/18/2017 10:55:51 AM	476.1643
+PressFraction	LiquidMeasures	liquid_11		3/12	(0.9375, 1)	4/18/2017 10:55:52 AM	477.6833
+FractionPlaced	EqOp1	liquid_11		3/12		4/18/2017 10:55:54 AM	479.6199
+ReleaseFraction	LiquidMeasures	liquid_11		3/12	(0.9375, 1)	4/18/2017 10:55:54 AM	479.6199
+PressFraction	LiquidMeasures	liquid_11		3/12	(0.9375, 1)	4/18/2017 10:55:56 AM	481.6366
+ReleaseFraction	LiquidMeasures	liquid_11		3/12	(0.9375, 1)	4/18/2017 10:55:56 AM	481.7075
+FractionChange	Numerator	liquid_11		4		4/18/2017 10:55:58 AM	483.0967
+FractionChange	Numerator	liquid_11		5		4/18/2017 10:55:58 AM	483.2906
+FractionChange	Numerator	liquid_11		6		4/18/2017 10:55:58 AM	483.5195
+FractionChange	Numerator	liquid_11		7		4/18/2017 10:55:58 AM	483.7716
+FractionChange	Numerator	liquid_11		8		4/18/2017 10:55:59 AM	484.1686
+FractionChange	Numerator	liquid_11		9		4/18/2017 10:55:59 AM	484.5256
+FractionChange	Numerator	liquid_11		10		4/18/2017 10:55:59 AM	484.8656
+FractionChange	Numerator	liquid_11		11		4/18/2017 10:56:00 AM	485.2287
+FractionChange	Numerator	liquid_11		12		4/18/2017 10:56:00 AM	485.5387
+FractionChange	Numerator	liquid_11		13		4/18/2017 10:56:00 AM	485.7717
+FractionChange	Numerator	liquid_11		14		4/18/2017 10:56:01 AM	486.1038
+FractionChange	Numerator	liquid_11		15		4/18/2017 10:56:01 AM	486.6688
+FractionChange	Numerator	liquid_11		16		4/18/2017 10:56:01 AM	486.8969
+FractionChange	Numerator	liquid_11		17		4/18/2017 10:56:02 AM	487.1208
+FractionChange	Numerator	liquid_11		18		4/18/2017 10:56:08 AM	493.9781
+PressFraction	LiquidMeasures	liquid_11		18/12	(0.9375, 1)	4/18/2017 10:56:09 AM	494.9163
+ReleaseFraction	LiquidMeasures	liquid_11		18/12	(0.9375, 0.9)	4/18/2017 10:56:10 AM	495.0472
+FractionChange	Denominator	liquid_11		11		4/18/2017 10:56:12 AM	497.5622
+FractionChange	Denominator	liquid_11		10		4/18/2017 10:56:12 AM	497.7864
+FractionChange	Denominator	liquid_11		9		4/18/2017 10:56:12 AM	498.0143
+FractionChange	Denominator	liquid_11		8		4/18/2017 10:56:13 AM	498.2118
+FractionChange	Denominator	liquid_11		7		4/18/2017 10:56:13 AM	498.5987
+FractionChange	Denominator	liquid_11		6		4/18/2017 10:56:13 AM	498.7979
+FractionChange	Denominator	liquid_11		7		4/18/2017 10:56:15 AM	500.8447
+PressFraction	LiquidMeasures	liquid_11		18/7	(0.9375, 0.9)	4/18/2017 10:56:16 AM	501.7676
+FractionTrashed	LiquidMeasures	liquid_11		18/7		4/18/2017 10:56:18 AM	503.3678
+ReleaseFraction	LiquidMeasures	liquid_11		18/7	(-10.4, 8)	4/18/2017 10:56:18 AM	503.3678
+ClickButton	OpenTaskDescription					4/18/2017 10:56:24 AM	509.7521
+ClickButton	OpenTaskDescription					4/18/2017 10:57:17 AM	562.0162
+ClickButton	LiquidMeasures					4/18/2017 10:57:49 AM	594.2499
+FractionGenerated	LiquidMeasures	liquid_12				4/18/2017 10:57:49 AM	594.2499
+FractionChange	Denominator	liquid_12		1		4/18/2017 10:57:55 AM	600.249
+FractionChange	Denominator	liquid_12		2		4/18/2017 10:57:55 AM	600.5013
+FractionChange	Denominator	liquid_12		3		4/18/2017 10:57:55 AM	600.7312
+FractionChange	Denominator	liquid_12		4		4/18/2017 10:57:58 AM	603.6223
+FractionChange	Denominator	liquid_12		5		4/18/2017 10:57:58 AM	603.9153
+FractionChange	Denominator	liquid_12		6		4/18/2017 10:57:59 AM	604.1812
+FractionChange	Denominator	liquid_12		7		4/18/2017 10:57:59 AM	604.5323
+PressFraction	LiquidMeasures	liquid_12		0/7	(0.9375, -1)	4/18/2017 10:58:14 AM	619.498
+FractionTrashed	LiquidMeasures	liquid_12		0/7		4/18/2017 10:58:17 AM	622.1522
+ReleaseFraction	LiquidMeasures	liquid_12		0/7	(-11.63333, 8.566667)	4/18/2017 10:58:17 AM	622.1522
+ClickButton	3OperandTab					4/18/2017 11:04:49 AM	1013.967
+ClickButton	 OperationSwitchMinus					4/18/2017 11:04:50 AM	1015.096
+ClickButton	OperationSwitchPlus					4/18/2017 11:04:50 AM	1015.296
+ClickButton	 OperationSwitchMinus					4/18/2017 11:04:50 AM	1015.498
+ClickButton	OperationSwitchPlus					4/18/2017 11:04:51 AM	1016.013
+ClickButton	 OperationSwitchMinus					4/18/2017 11:04:51 AM	1016.334
+ClickButton	OperationSwitchPlus					4/18/2017 11:04:51 AM	1016.615
+ClickButton	 OperationSwitchMinus					4/18/2017 11:04:51 AM	1016.91
+ClickButton	OperationSwitchPlus					4/18/2017 11:04:52 AM	1017.166
+ClickButton	 OperationSwitchMinus					4/18/2017 11:04:53 AM	1018.03
+ClickButton	OperationSwitchPlus					4/18/2017 11:04:55 AM	1020.243

@@ -1,0 +1,11 @@
+10/03/2017 - Dougi
+
+I have created external .tip files for the task definitions.  They are in "FractionsLab_Data\StreamingAssets\Tasks\".
+
+The software checks this folder and loads all the .tip files in there.  It then creates a list of these and sequences them on taskId, so the lowest taskIds will come first and all other taskIds will be displayed in numeric sequence from that point.  The tasks don't have to be in sequential order.
+
+The filenames are in the form of "Task_x" where x is the taskId that is listed in the google doc.
+
+For tasks 1-18, the end state checking logic applies.  So it is important that tasks 1-18 are not modified.
+
+You can add as many other tasks as you like.  Manolis and I discussed starting at taskId 100 for any extra tasks added.  You could then just remove all the other task files from the folder if you only wish the newly created task to display.  

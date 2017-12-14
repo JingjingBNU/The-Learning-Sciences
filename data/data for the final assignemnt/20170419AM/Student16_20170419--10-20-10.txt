@@ -1,0 +1,33 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		16	831f1edfec87ff067435cfbf3b1a2e54503077a4	4/19/2017 10:20:10 AM		4/19/2017 10:20:18 AM	6.539632
+TaskChange_warningMessage	ClickForward			1		4/19/2017 10:20:27 AM	16.26359
+ClickButton	NumberedLines					4/19/2017 10:20:32 AM	20.96771
+FractionGenerated	NumberedLines	line_1				4/19/2017 10:20:32 AM	20.96771
+FractionChange	Denominator	line_1		1		4/19/2017 10:20:33 AM	22.40668
+PressFraction	NumberedLines	line_1		0/1	(2.3125, 0)	4/19/2017 10:20:36 AM	25.17564
+ReleaseFraction	NumberedLines	line_1		0/1	(2.3125, 0)	4/19/2017 10:20:36 AM	25.33468
+FractionChange	Numerator	line_1		1		4/19/2017 10:20:37 AM	26.40874
+FractionChange	Numerator	line_1		2		4/19/2017 10:20:38 AM	27.31976
+PressFraction	NumberedLines	line_1		2/1	(2.3125, 0)	4/19/2017 10:20:56 AM	45.01387
+FractionTrashed	NumberedLines	line_1		2/1		4/19/2017 10:20:57 AM	45.95793
+ReleaseFraction	NumberedLines	line_1		2/1	(-9.966667, 8.533334)	4/19/2017 10:20:57 AM	45.95793
+ClickButton	NumberedLines					4/19/2017 10:21:00 AM	48.59801
+FractionGenerated	NumberedLines	line_2				4/19/2017 10:21:00 AM	48.59801
+PressFraction	NumberedLines	line_2		0/0	(1.3125, 0)	4/19/2017 10:21:22 AM	70.64512
+FractionTrashed	NumberedLines	line_2		0/0		4/19/2017 10:21:23 AM	72.24419
+ReleaseFraction	NumberedLines	line_2		0/0	(-11.06667, 8.233334)	4/19/2017 10:21:23 AM	72.24419
+ClickButton	OpenTaskDescription					4/19/2017 10:21:26 AM	75.2372
+ClickButton	Shape/VRects					4/19/2017 10:21:35 AM	83.73135
+FractionGenerated	VRects	vrect_3				4/19/2017 10:21:35 AM	83.73135
+FractionChange	Denominator	vrect_3		1		4/19/2017 10:21:36 AM	85.14738
+PressFraction	VRects	vrect_3		0/1	(1.125, -1)	4/19/2017 10:21:38 AM	86.54717
+ReleaseFraction	VRects	vrect_3		0/1	(1.058333, -1)	4/19/2017 10:21:38 AM	86.70723
+FractionChange	Numerator	vrect_3		1		4/19/2017 10:21:39 AM	87.9483
+FractionChange	Numerator	vrect_3		2		4/19/2017 10:21:40 AM	89.06837
+ClickButton	OpenTaskDescription					4/19/2017 10:21:42 AM	91.05534
+PressFraction	VRects	vrect_3		2/1	(1.058333, -1)	4/19/2017 10:21:44 AM	93.30827
+ReleaseFraction	VRects	vrect_3		2/1	(1.058333, -1)	4/19/2017 10:21:45 AM	93.5084
+ClickButton	LiquidMeasures					4/19/2017 10:21:52 AM	100.6525
+FractionGenerated	LiquidMeasures	liquid_4				4/19/2017 10:21:52 AM	100.6525
+PressFraction	LiquidMeasures	liquid_4		0/0	(0.9375, -1)	4/19/2017 10:22:00 AM	108.6935
+ReleaseFraction	LiquidMeasures	liquid_4		0/0	(0.9375, -1)	4/19/2017 10:22:00 AM	108.8115

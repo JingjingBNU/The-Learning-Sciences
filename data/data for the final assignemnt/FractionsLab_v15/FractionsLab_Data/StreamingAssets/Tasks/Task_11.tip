@@ -1,0 +1,57 @@
+﻿{
+  "initial_model": [
+    
+  ],
+  "initial_configuration": [
+    {
+      "item": "lab",
+      "active": true
+    },
+    {
+      "item": "lines",
+      "active": true
+    },
+    {
+      "item": "rectangles",
+      "active": true
+    },
+    {
+      "item": "sets",
+      "active": true
+    },
+    {
+      "item": "liquids",
+      "active": true
+    },
+    {
+      "item": "change_color",
+      "active": true
+    },
+    {
+      "item": "copy",
+      "active": true
+    },
+    {
+      "item": "partition",
+      "active": true
+    },
+    {
+      "item": "add",
+      "active": true
+    },
+    {
+      "item": "subtract",
+      "active": true
+    }
+  ],
+  "extra_information": {
+  },
+  "task_description": {
+    "title": "",
+    "desctiption": "使用具有相同分母的两个分数，表示一个和为9/12的加法",
+    "endStateMessage": "恭喜！ 你成功使用具有相同分母的两个分数创造了一个和为9/12的加法。",
+    "genericFeedback": "你是如何把两个分数相加的？",
+    "feedbackDelayTime": 10,
+    "showAtStartup": "true"
+  }  
+}

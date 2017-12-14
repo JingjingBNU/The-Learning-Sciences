@@ -1,0 +1,57 @@
+﻿{
+  "initial_model": [
+    
+  ],
+  "initial_configuration": [
+    {
+      "item": "lab",
+      "active": true
+    },
+    {
+      "item": "lines",
+      "active": true
+    },
+    {
+      "item": "rectangles",
+      "active": true
+    },
+    {
+      "item": "sets",
+      "active": true
+    },
+    {
+      "item": "liquids",
+      "active": true
+    },
+    {
+      "item": "change_color",
+      "active": true
+    },
+    {
+      "item": "copy",
+      "active": true
+    },
+    {
+      "item": "partition",
+      "active": true
+    },
+    {
+      "item": "add",
+      "active": true
+    },
+    {
+      "item": "subtract",
+      "active": true
+    }
+  ],
+  "extra_information": {
+  },
+  "task_description": {
+    "title": "",
+    "desctiption": "你是否同意以下说法：6/8大于2/3，因为6比2大。将你的想法表示出来。",
+    "endStateMessage": "恭喜！ 你证明了6/8小于2/3。",
+    "genericFeedback": "你需要对分子和分母做些什么？",
+    "feedbackDelayTime": 10,
+    "showAtStartup": "true"
+  }  
+}

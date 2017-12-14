@@ -1,0 +1,919 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		5	17db90e1a1c3f968d7a284ffa6a72ab07f5df188	4/18/2017 1:08:19 PM		4/18/2017 1:09:26 PM	65.76916
+ClickButton	Shape/HRects					4/18/2017 1:11:00 PM	159.759
+FractionGenerated	HRects	hrect_1				4/18/2017 1:11:00 PM	159.759
+PressFraction	HRects	hrect_1		0/0	(1.125, 1)	4/18/2017 1:11:01 PM	161.3051
+ReleaseFraction	HRects	hrect_1		0/0	(1.125, 1)	4/18/2017 1:11:01 PM	161.4602
+FractionChange	Denominator	hrect_1		1		4/18/2017 1:11:03 PM	162.9484
+FractionChange	Denominator	hrect_1		2		4/18/2017 1:11:03 PM	163.5693
+FractionChange	Denominator	hrect_1		3		4/18/2017 1:11:04 PM	164.3263
+FractionChange	Denominator	hrect_1		4		4/18/2017 1:11:05 PM	164.9943
+PressFraction	HRects	hrect_1		0/4	(1.125, 1)	4/18/2017 1:11:06 PM	165.8423
+ReleaseFraction	HRects	hrect_1		0/4	(1.125, 1)	4/18/2017 1:11:06 PM	165.9653
+FractionChange	Numerator	hrect_1		1		4/18/2017 1:11:07 PM	166.9744
+FractionChange	Numerator	hrect_1		2		4/18/2017 1:11:07 PM	167.1534
+EndStateReached						4/18/2017 1:11:10 PM	170.1574
+PopupAfterTaskReflection						4/18/2017 1:11:13 PM	173.6237
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:11:32 PM		4/18/2017 1:11:32 PM	192.3716
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:11:34 PM		4/18/2017 1:11:34 PM	193.7967
+ClickButton	Set/Hearts					4/18/2017 1:11:58 PM	218.0016
+FractionGenerated	HeartSets	heartset_2				4/18/2017 1:11:58 PM	218.0016
+PressFraction	HeartSets	heartset_2		0/0	(-0.71875, 0)	4/18/2017 1:12:00 PM	220.3508
+EndStateReached						4/18/2017 1:12:01 PM	221.0067
+EndStateReached						4/18/2017 1:12:01 PM	221.0067
+EndStateReached						4/18/2017 1:12:03 PM	223.3518
+PopupAfterTaskReflection						4/18/2017 1:12:58 PM	278.4343
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:13:00 PM		4/18/2017 1:13:00 PM	279.6945
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我搞不明白	4/18/2017 1:13:00 PM		4/18/2017 1:13:00 PM	280.3954
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:13:02 PM		4/18/2017 1:13:02 PM	281.7446
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:13:02 PM		4/18/2017 1:13:02 PM	282.4005
+ClickButton	LiquidMeasures					4/18/2017 1:15:18 PM	418.427
+FractionGenerated	LiquidMeasures	liquid_3				4/18/2017 1:15:18 PM	418.427
+PressFraction	LiquidMeasures	liquid_3		0/0	(1.9375, 0)	4/18/2017 1:15:19 PM	419.4421
+ReleaseFraction	LiquidMeasures	liquid_3		0/0	(0.1708333, 0.8)	4/18/2017 1:15:23 PM	422.8123
+PressFraction	LiquidMeasures	liquid_3		0/0	(0.1708333, 0.8)	4/18/2017 1:15:24 PM	423.8693
+ReleaseFraction	LiquidMeasures	liquid_3		0/0	(0.1708333, 0.8000001)	4/18/2017 1:15:24 PM	423.9792
+FractionChange	Denominator	liquid_3		1		4/18/2017 1:15:28 PM	428.1206
+FractionChange	Denominator	liquid_3		2		4/18/2017 1:15:29 PM	429.2055
+FractionChange	Denominator	liquid_3		3		4/18/2017 1:15:30 PM	430.0196
+FractionChange	Denominator	liquid_3		4		4/18/2017 1:15:30 PM	430.2986
+FractionChange	Denominator	liquid_3		5		4/18/2017 1:15:30 PM	430.4796
+FractionChange	Denominator	liquid_3		6		4/18/2017 1:15:31 PM	431.0316
+FractionChange	Denominator	liquid_3		7		4/18/2017 1:15:31 PM	431.2289
+FractionChange	Denominator	liquid_3		8		4/18/2017 1:15:31 PM	431.3786
+FractionChange	Denominator	liquid_3		9		4/18/2017 1:15:31 PM	431.5437
+FractionChange	Denominator	liquid_3		10		4/18/2017 1:15:32 PM	431.6986
+FractionChange	Denominator	liquid_3		11		4/18/2017 1:15:32 PM	431.8807
+FractionChange	Denominator	liquid_3		12		4/18/2017 1:15:32 PM	432.0867
+FractionChange	Denominator	liquid_3		13		4/18/2017 1:15:32 PM	432.2737
+FractionChange	Denominator	liquid_3		14		4/18/2017 1:15:32 PM	432.4677
+FractionChange	Denominator	liquid_3		15		4/18/2017 1:15:33 PM	432.6429
+FractionChange	Denominator	liquid_3		16		4/18/2017 1:15:33 PM	433.0058
+FractionChange	Denominator	liquid_3		17		4/18/2017 1:15:33 PM	433.1878
+FractionChange	Denominator	liquid_3		18		4/18/2017 1:15:33 PM	433.5238
+PressFraction	LiquidMeasures	liquid_3		0/18	(0.1708333, 0.8000001)	4/18/2017 1:15:36 PM	436.4149
+ReleaseFraction	LiquidMeasures	liquid_3		0/18	(0.1708333, 0.8000001)	4/18/2017 1:15:36 PM	436.5189
+FractionChange	Numerator	liquid_3		1		4/18/2017 1:16:16 PM	475.8395
+FractionChange	Numerator	liquid_3		2		4/18/2017 1:16:16 PM	476.4475
+FractionChange	Numerator	liquid_3		3		4/18/2017 1:16:17 PM	476.9386
+EndStateReached						4/18/2017 1:16:20 PM	479.9396
+PopupAfterTaskReflection						4/18/2017 1:17:27 PM	547.6188
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:17:33 PM		4/18/2017 1:17:33 PM	553.5501
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 1:17:36 PM		4/18/2017 1:17:36 PM	555.8192
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:17:36 PM		4/18/2017 1:17:36 PM	556.5004
+ClickButton	Set/Moons					4/18/2017 1:18:28 PM	608.07
+FractionGenerated	MoonSets	moonset_4				4/18/2017 1:18:28 PM	608.07
+PressFraction	MoonSets	moonset_4		0/0	(0.28125, 1)	4/18/2017 1:18:29 PM	609.6382
+ReleaseFraction	MoonSets	moonset_4		0/0	(0.28125, 1)	4/18/2017 1:18:30 PM	609.7662
+PressFraction	MoonSets	moonset_4		0/0	(0.28125, 1)	4/18/2017 1:18:30 PM	610.5252
+ReleaseFraction	MoonSets	moonset_4		0/0	(0.28125, 1)	4/18/2017 1:18:30 PM	610.6013
+FractionChange	Denominator	moonset_4		1		4/18/2017 1:18:30 PM	610.6013
+PressFraction	MoonSets	moonset_4		0/1	(0.28125, 1)	4/18/2017 1:18:31 PM	610.6812
+ReleaseFraction	MoonSets	moonset_4		0/1	(0.28125, 1)	4/18/2017 1:18:31 PM	610.7653
+FractionChange	Denominator	moonset_4		2		4/18/2017 1:18:31 PM	610.7653
+PressFraction	MoonSets	moonset_4		0/2	(0.28125, 1)	4/18/2017 1:18:31 PM	610.8372
+ReleaseFraction	MoonSets	moonset_4		0/2	(0.28125, 1)	4/18/2017 1:18:31 PM	610.9253
+FractionChange	Denominator	moonset_4		3		4/18/2017 1:18:31 PM	610.9253
+PressFraction	MoonSets	moonset_4		0/3	(0.28125, 1)	4/18/2017 1:18:31 PM	611.0043
+ReleaseFraction	MoonSets	moonset_4		0/3	(0.28125, 1)	4/18/2017 1:18:31 PM	611.0823
+FractionChange	Denominator	moonset_4		4		4/18/2017 1:18:31 PM	611.0823
+PressFraction	MoonSets	moonset_4		0/4	(0.28125, 1)	4/18/2017 1:18:31 PM	611.1663
+ReleaseFraction	MoonSets	moonset_4		0/4	(0.28125, 1)	4/18/2017 1:18:31 PM	611.2543
+FractionChange	Denominator	moonset_4		5		4/18/2017 1:18:31 PM	611.2543
+PressFraction	MoonSets	moonset_4		0/5	(0.28125, 1)	4/18/2017 1:18:31 PM	611.3333
+ReleaseFraction	MoonSets	moonset_4		0/5	(0.28125, 1)	4/18/2017 1:18:31 PM	611.4103
+FractionChange	Denominator	moonset_4		6		4/18/2017 1:18:31 PM	611.4103
+PressFraction	MoonSets	moonset_4		0/6	(0.28125, 1)	4/18/2017 1:18:34 PM	614.0264
+ReleaseFraction	MoonSets	moonset_4		0/6	(0.28125, 1)	4/18/2017 1:18:34 PM	614.1334
+FractionChange	Denominator	moonset_4		7		4/18/2017 1:18:34 PM	614.1334
+PressFraction	MoonSets	moonset_4		0/7	(0.28125, 1)	4/18/2017 1:18:35 PM	614.6827
+ReleaseFraction	MoonSets	moonset_4		0/7	(0.28125, 1)	4/18/2017 1:18:35 PM	614.7544
+FractionChange	Denominator	moonset_4		8		4/18/2017 1:18:35 PM	614.7544
+PressFraction	MoonSets	moonset_4		0/8	(0.28125, 1)	4/18/2017 1:18:36 PM	615.9639
+ReleaseFraction	MoonSets	moonset_4		0/8	(0.28125, 1)	4/18/2017 1:18:36 PM	616.0576
+FractionChange	Denominator	moonset_4		9		4/18/2017 1:18:36 PM	616.0576
+PressFraction	MoonSets	moonset_4		0/9	(0.28125, 1)	4/18/2017 1:18:36 PM	616.3865
+ReleaseFraction	MoonSets	moonset_4		0/9	(0.28125, 1)	4/18/2017 1:18:36 PM	616.5065
+FractionChange	Denominator	moonset_4		10		4/18/2017 1:18:36 PM	616.5065
+PressFraction	MoonSets	moonset_4		0/10	(0.28125, 1)	4/18/2017 1:18:37 PM	616.8416
+ReleaseFraction	MoonSets	moonset_4		0/10	(0.28125, 1)	4/18/2017 1:18:37 PM	616.9565
+FractionChange	Denominator	moonset_4		11		4/18/2017 1:18:37 PM	616.9565
+PressFraction	MoonSets	moonset_4		0/11	(0.28125, 1)	4/18/2017 1:18:37 PM	617.4156
+ReleaseFraction	MoonSets	moonset_4		0/11	(0.28125, 1)	4/18/2017 1:18:37 PM	617.5246
+FractionChange	Denominator	moonset_4		12		4/18/2017 1:18:37 PM	617.5246
+PressFraction	MoonSets	moonset_4		0/12	(0.28125, 1)	4/18/2017 1:18:38 PM	618.4137
+ReleaseFraction	MoonSets	moonset_4		0/12	(0.28125, 1)	4/18/2017 1:18:38 PM	618.5046
+PressFraction	MoonSets	moonset_4		0/12	(0.28125, 1)	4/18/2017 1:18:40 PM	619.9747
+ReleaseFraction	MoonSets	moonset_4		0/12	(0.2479167, 1)	4/18/2017 1:18:40 PM	620.0837
+PressFraction	MoonSets	moonset_4		0/12	(0.2479167, 1)	4/18/2017 1:18:41 PM	621.4338
+ReleaseFraction	MoonSets	moonset_4		0/12	(0.2145832, 1)	4/18/2017 1:18:41 PM	621.5328
+ClickButton	OpenTaskDescription					4/18/2017 1:18:48 PM	628.292
+Feedback	FeedbackPresented			当你改变分母但又要保证分数值不变的时候，你需要对分子做些什么？		4/18/2017 1:18:56 PM	636.3743
+PressFraction	MoonSets	moonset_4		0/12	(0.2145832, 1)	4/18/2017 1:18:59 PM	639.1715
+ReleaseFraction	MoonSets	moonset_4		0/12	(0.2145832, 1)	4/18/2017 1:18:59 PM	639.2745
+Feedback	FeedbackPresented			当你改变分母但又要保证分数值不变的时候，你需要对分子做些什么？		4/18/2017 1:19:03 PM	642.8506
+PressFraction	MoonSets	moonset_4		0/12	(0.2145832, 1)	4/18/2017 1:19:12 PM	652.0552
+ReleaseFraction	MoonSets	moonset_4		0/12	(0.2145832, 1)	4/18/2017 1:19:12 PM	652.116
+PressFraction	MoonSets	moonset_4		0/12	(0.2145832, 1)	4/18/2017 1:19:13 PM	652.9001
+ReleaseFraction	MoonSets	moonset_4		0/12	(0.2145832, 1)	4/18/2017 1:19:13 PM	652.9921
+FractionChange	Numerator	moonset_4		1		4/18/2017 1:19:13 PM	652.9921
+PressFraction	MoonSets	moonset_4		1/12	(0.2145832, 1)	4/18/2017 1:19:14 PM	653.9904
+ReleaseFraction	MoonSets	moonset_4		1/12	(0.2145832, 1)	4/18/2017 1:19:14 PM	654.0793
+FractionChange	Numerator	moonset_4		2		4/18/2017 1:19:14 PM	654.0793
+PressFraction	MoonSets	moonset_4		2/12	(0.2145832, 1)	4/18/2017 1:19:15 PM	655.0422
+ReleaseFraction	MoonSets	moonset_4		2/12	(0.2145832, 1)	4/18/2017 1:19:15 PM	655.1292
+FractionChange	Numerator	moonset_4		3		4/18/2017 1:19:15 PM	655.1292
+PressFraction	MoonSets	moonset_4		3/12	(0.2145832, 1)	4/18/2017 1:19:16 PM	655.8762
+ReleaseFraction	MoonSets	moonset_4		3/12	(0.2145832, 1)	4/18/2017 1:19:16 PM	655.9893
+FractionChange	Numerator	moonset_4		4		4/18/2017 1:19:16 PM	655.9893
+PressFraction	MoonSets	moonset_4		4/12	(0.2145832, 1)	4/18/2017 1:19:17 PM	656.7462
+ReleaseFraction	MoonSets	moonset_4		4/12	(0.2145832, 1)	4/18/2017 1:19:17 PM	656.9142
+FractionChange	Numerator	moonset_4		5		4/18/2017 1:19:17 PM	656.9142
+PressFraction	MoonSets	moonset_4		5/12	(0.2145832, 1)	4/18/2017 1:19:18 PM	657.7206
+ReleaseFraction	MoonSets	moonset_4		5/12	(0.2145832, 1)	4/18/2017 1:19:18 PM	657.8423
+FractionChange	Numerator	moonset_4		6		4/18/2017 1:19:18 PM	657.8423
+PressFraction	MoonSets	moonset_4		6/12	(0.2145832, 1)	4/18/2017 1:19:19 PM	658.6703
+ReleaseFraction	MoonSets	moonset_4		6/12	(0.2145832, 1)	4/18/2017 1:19:19 PM	658.7823
+FractionChange	Numerator	moonset_4		7		4/18/2017 1:19:19 PM	658.7823
+PressFraction	MoonSets	moonset_4		7/12	(0.2145832, 1)	4/18/2017 1:19:19 PM	659.5714
+ReleaseFraction	MoonSets	moonset_4		7/12	(0.2145832, 1)	4/18/2017 1:19:20 PM	659.6763
+FractionChange	Numerator	moonset_4		8		4/18/2017 1:19:20 PM	659.6763
+PressFraction	MoonSets	moonset_4		8/12	(0.2145832, 1)	4/18/2017 1:19:20 PM	660.0024
+ReleaseFraction	MoonSets	moonset_4		8/12	(0.2145832, 1)	4/18/2017 1:19:20 PM	660.1324
+FractionChange	Numerator	moonset_4		9		4/18/2017 1:19:20 PM	660.1324
+PressFraction	MoonSets	moonset_4		9/12	(0.2145832, 1)	4/18/2017 1:19:20 PM	660.3024
+ReleaseFraction	MoonSets	moonset_4		9/12	(0.2145832, 1)	4/18/2017 1:19:20 PM	660.4034
+FractionChange	Numerator	moonset_4		10		4/18/2017 1:19:20 PM	660.4034
+PressFraction	MoonSets	moonset_4		10/12	(0.2145832, 1)	4/18/2017 1:19:20 PM	660.5604
+ReleaseFraction	MoonSets	moonset_4		10/12	(0.2145832, 1)	4/18/2017 1:19:21 PM	660.6805
+FractionChange	Numerator	moonset_4		11		4/18/2017 1:19:21 PM	660.6805
+PressFraction	MoonSets	moonset_4		11/12	(0.2145832, 1)	4/18/2017 1:19:21 PM	660.8254
+ReleaseFraction	MoonSets	moonset_4		11/12	(0.2145832, 1)	4/18/2017 1:19:21 PM	660.9272
+FractionChange	Numerator	moonset_4		12		4/18/2017 1:19:21 PM	660.9272
+PressFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:21 PM	661.1744
+ReleaseFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:21 PM	661.2495
+FractionChange	Numerator	moonset_4		13		4/18/2017 1:19:21 PM	661.2495
+PressFraction	MoonSets	moonset_4		13/12	(0.2145832, 1)	4/18/2017 1:19:23 PM	662.7745
+ReleaseFraction	MoonSets	moonset_4		13/12	(0.2145832, 1)	4/18/2017 1:19:23 PM	662.8936
+FractionChange	Numerator	moonset_4		12		4/18/2017 1:19:23 PM	662.8936
+PressFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:23 PM	663.0145
+ReleaseFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:23 PM	663.0815
+FractionChange	Numerator	moonset_4		11		4/18/2017 1:19:23 PM	663.0815
+EndStateReached						4/18/2017 1:19:23 PM	663.1324
+EndStateReached						4/18/2017 1:19:23 PM	663.3027
+EndStateReached						4/18/2017 1:19:23 PM	663.4075
+PressFraction	MoonSets	moonset_4		11/12	(0.2145832, 1)	4/18/2017 1:19:27 PM	667.4317
+ReleaseFraction	MoonSets	moonset_4		11/12	(0.2145832, 1)	4/18/2017 1:19:27 PM	667.5267
+FractionChange	Numerator	moonset_4		12		4/18/2017 1:19:27 PM	667.5267
+PressFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:28 PM	667.8246
+ReleaseFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:28 PM	667.9037
+FractionChange	Numerator	moonset_4		13		4/18/2017 1:19:28 PM	667.9037
+PressFraction	MoonSets	moonset_4		13/12	(0.2145832, 1)	4/18/2017 1:19:29 PM	669.0178
+ReleaseFraction	MoonSets	moonset_4		13/12	(0.2145832, 1)	4/18/2017 1:19:29 PM	669.1089
+FractionChange	Numerator	moonset_4		12		4/18/2017 1:19:29 PM	669.1089
+PressFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:29 PM	669.1968
+ReleaseFraction	MoonSets	moonset_4		12/12	(0.2145832, 1)	4/18/2017 1:19:29 PM	669.2919
+FractionChange	Numerator	moonset_4		11		4/18/2017 1:19:29 PM	669.2919
+PressFraction	MoonSets	moonset_4		11/12	(0.2145832, 1)	4/18/2017 1:19:29 PM	669.3668
+ReleaseFraction	MoonSets	moonset_4		11/12	(0.2145832, 1)	4/18/2017 1:19:29 PM	669.4567
+FractionChange	Numerator	moonset_4		10		4/18/2017 1:19:29 PM	669.4567
+PressFraction	MoonSets	moonset_4		10/12	(0.2145832, 1)	4/18/2017 1:19:30 PM	669.7828
+ReleaseFraction	MoonSets	moonset_4		10/12	(0.2145832, 1)	4/18/2017 1:19:30 PM	669.8959
+FractionChange	Numerator	moonset_4		9		4/18/2017 1:19:30 PM	669.8959
+PressFraction	MoonSets	moonset_4		9/12	(0.2145832, 1)	4/18/2017 1:19:30 PM	670.1418
+ReleaseFraction	MoonSets	moonset_4		9/12	(0.2145832, 1)	4/18/2017 1:19:30 PM	670.2379
+FractionChange	Numerator	moonset_4		8		4/18/2017 1:19:30 PM	670.2379
+PressFraction	MoonSets	moonset_4		8/12	(0.2145832, 1)	4/18/2017 1:19:30 PM	670.3129
+ReleaseFraction	MoonSets	moonset_4		8/12	(0.2145832, 0.9666667)	4/18/2017 1:19:30 PM	670.4398
+FractionChange	Numerator	moonset_4		7		4/18/2017 1:19:30 PM	670.4398
+PressFraction	MoonSets	moonset_4		7/12	(0.2145832, 0.9666667)	4/18/2017 1:19:30 PM	670.5358
+ReleaseFraction	MoonSets	moonset_4		7/12	(0.2145832, 0.9666667)	4/18/2017 1:19:30 PM	670.6259
+FractionChange	Numerator	moonset_4		6		4/18/2017 1:19:30 PM	670.6259
+PressFraction	MoonSets	moonset_4		6/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	670.7458
+ReleaseFraction	MoonSets	moonset_4		6/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	670.8299
+FractionChange	Numerator	moonset_4		5		4/18/2017 1:19:31 PM	670.8299
+PressFraction	MoonSets	moonset_4		5/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	670.9308
+ReleaseFraction	MoonSets	moonset_4		5/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	671.0258
+FractionChange	Numerator	moonset_4		4		4/18/2017 1:19:31 PM	671.0258
+PressFraction	MoonSets	moonset_4		4/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	671.1389
+ReleaseFraction	MoonSets	moonset_4		4/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	671.2239
+FractionChange	Numerator	moonset_4		3		4/18/2017 1:19:31 PM	671.2239
+PressFraction	MoonSets	moonset_4		3/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	671.3538
+ReleaseFraction	MoonSets	moonset_4		3/12	(0.2145832, 0.9666667)	4/18/2017 1:19:31 PM	671.4429
+FractionChange	Numerator	moonset_4		2		4/18/2017 1:19:31 PM	671.4429
+EndStateReached						4/18/2017 1:19:33 PM	672.8969
+EndStateReached						4/18/2017 1:19:33 PM	673.1469
+EndStateReached						4/18/2017 1:19:33 PM	673.2419
+PressFraction	MoonSets	moonset_4		2/12	(0.2145832, 0.9666667)	4/18/2017 1:19:37 PM	676.8761
+ReleaseFraction	MoonSets	moonset_4		2/12	(0.2145832, 0.9666667)	4/18/2017 1:19:37 PM	676.9631
+FractionChange	Numerator	moonset_4		3		4/18/2017 1:19:37 PM	676.9631
+PressFraction	MoonSets	moonset_4		3/12	(0.2145832, 0.9666667)	4/18/2017 1:19:37 PM	677.1821
+ReleaseFraction	MoonSets	moonset_4		3/12	(0.2145832, 0.9666667)	4/18/2017 1:19:37 PM	677.2711
+FractionChange	Numerator	moonset_4		4		4/18/2017 1:19:37 PM	677.2711
+PressFraction	MoonSets	moonset_4		4/12	(0.2145832, 0.9666667)	4/18/2017 1:19:38 PM	677.8998
+ReleaseFraction	MoonSets	moonset_4		4/12	(0.2145832, 0.9666667)	4/18/2017 1:19:38 PM	677.9952
+FractionChange	Numerator	moonset_4		5		4/18/2017 1:19:38 PM	677.9952
+PressFraction	MoonSets	moonset_4		5/12	(0.2145832, 0.9666667)	4/18/2017 1:19:38 PM	678.0801
+ReleaseFraction	MoonSets	moonset_4		5/12	(0.2145832, 0.9666667)	4/18/2017 1:19:38 PM	678.1751
+FractionChange	Numerator	moonset_4		6		4/18/2017 1:19:38 PM	678.1751
+PressFraction	MoonSets	moonset_4		6/12	(0.2145832, 0.9666667)	4/18/2017 1:19:38 PM	678.2682
+ReleaseFraction	MoonSets	moonset_4		6/12	(0.2145832, 0.9666667)	4/18/2017 1:19:38 PM	678.3391
+FractionChange	Numerator	moonset_4		7		4/18/2017 1:19:38 PM	678.3391
+PressFraction	MoonSets	moonset_4		7/12	(0.2145832, 0.9666667)	4/18/2017 1:19:39 PM	679.4313
+ReleaseFraction	MoonSets	moonset_4		7/12	(0.2145832, 0.9666667)	4/18/2017 1:19:39 PM	679.5202
+FractionChange	Numerator	moonset_4		6		4/18/2017 1:19:39 PM	679.5202
+PressFraction	MoonSets	moonset_4		6/12	(0.2145832, 0.9666667)	4/18/2017 1:19:59 PM	699.034
+ReleaseFraction	MoonSets	moonset_4		6/12	(0.2145832, 0.9666667)	4/18/2017 1:19:59 PM	699.12
+FractionChange	Numerator	moonset_4		7		4/18/2017 1:19:59 PM	699.12
+PressFraction	MoonSets	moonset_4		7/12	(0.2145832, 0.9666667)	4/18/2017 1:19:59 PM	699.1881
+ReleaseFraction	MoonSets	moonset_4		7/12	(0.2145832, 0.9666667)	4/18/2017 1:19:59 PM	699.285
+FractionChange	Numerator	moonset_4		8		4/18/2017 1:19:59 PM	699.285
+PressFraction	MoonSets	moonset_4		8/12	(0.2145832, 0.9666667)	4/18/2017 1:19:59 PM	699.3651
+ReleaseFraction	MoonSets	moonset_4		8/12	(0.2145832, 0.9666667)	4/18/2017 1:19:59 PM	699.4491
+FractionChange	Numerator	moonset_4		9		4/18/2017 1:19:59 PM	699.4491
+EndStateReached						4/18/2017 1:20:02 PM	702.4522
+PopupAfterTaskReflection						4/18/2017 1:20:07 PM	707.4076
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:20:13 PM		4/18/2017 1:20:13 PM	713.0198
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 1:20:14 PM		4/18/2017 1:20:14 PM	714.2869
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:20:15 PM		4/18/2017 1:20:15 PM	714.8659
+ClickButton	LiquidMeasures					4/18/2017 1:20:40 PM	740.0847
+FractionGenerated	LiquidMeasures	liquid_5				4/18/2017 1:20:40 PM	740.0847
+PressFraction	LiquidMeasures	liquid_5		0/0	(0.9375, 1)	4/18/2017 1:20:41 PM	740.9359
+ReleaseFraction	LiquidMeasures	liquid_5		0/0	(3.670833, -0.2333333)	4/18/2017 1:20:42 PM	741.9969
+PressFraction	LiquidMeasures	liquid_5		0/0	(3.670833, -0.2333333)	4/18/2017 1:20:51 PM	751.6313
+FractionTrashed	LiquidMeasures	liquid_5		0/0		4/18/2017 1:20:53 PM	752.9143
+ReleaseFraction	LiquidMeasures	liquid_5		0/0	(-11.9, 8.3)	4/18/2017 1:20:53 PM	752.9143
+ClickButton	Lab					4/18/2017 1:20:55 PM	755.3083
+ClickButton	Set/Moons					4/18/2017 1:21:04 PM	763.6718
+FractionGenerated	MoonSets	moonset_6				4/18/2017 1:21:04 PM	763.6718
+PressFraction	MoonSets	moonset_6		0/0	(1.28125, 0)	4/18/2017 1:21:05 PM	764.8418
+ReleaseFraction	MoonSets	moonset_6		0/0	(5.28125, -3.5)	4/18/2017 1:21:06 PM	766.404
+PressFraction	MoonSets	moonset_6		0/0	(5.28125, -3.5)	4/18/2017 1:21:09 PM	768.671
+ReleaseFraction	MoonSets	moonset_6		0/0	(5.28125, -3.5)	4/18/2017 1:21:09 PM	768.765
+FractionChange	Denominator	moonset_6		1		4/18/2017 1:21:09 PM	768.765
+PressFraction	MoonSets	moonset_6		0/1	(5.28125, -3.5)	4/18/2017 1:21:09 PM	768.8181
+ReleaseFraction	MoonSets	moonset_6		0/1	(5.28125, -3.5)	4/18/2017 1:21:09 PM	768.897
+FractionChange	Denominator	moonset_6		2		4/18/2017 1:21:09 PM	768.897
+PressFraction	MoonSets	moonset_6		0/2	(5.28125, -3.5)	4/18/2017 1:21:09 PM	769.4191
+ReleaseFraction	MoonSets	moonset_6		0/2	(5.28125, -3.5)	4/18/2017 1:21:09 PM	769.486
+FractionChange	Denominator	moonset_6		3		4/18/2017 1:21:09 PM	769.486
+PressFraction	MoonSets	moonset_6		0/3	(5.28125, -3.5)	4/18/2017 1:21:10 PM	769.9622
+ReleaseFraction	MoonSets	moonset_6		0/3	(5.28125, -3.5)	4/18/2017 1:21:10 PM	770.025
+FractionChange	Denominator	moonset_6		4		4/18/2017 1:21:10 PM	770.025
+PressFraction	MoonSets	moonset_6		0/4	(5.28125, -3.5)	4/18/2017 1:21:11 PM	770.6551
+ReleaseFraction	MoonSets	moonset_6		0/4	(5.28125, -3.466667)	4/18/2017 1:21:11 PM	770.7331
+PressFraction	MoonSets	moonset_6		0/4	(5.28125, -3.466667)	4/18/2017 1:21:13 PM	773.2174
+ReleaseFraction	MoonSets	moonset_6		0/4	(5.28125, -3.466667)	4/18/2017 1:21:13 PM	773.2952
+FractionChange	Numerator	moonset_6		1		4/18/2017 1:21:13 PM	773.2952
+PressFraction	MoonSets	moonset_6		1/4	(5.28125, -3.466667)	4/18/2017 1:21:13 PM	773.4113
+ReleaseFraction	MoonSets	moonset_6		1/4	(5.28125, -3.466667)	4/18/2017 1:21:13 PM	773.4813
+FractionChange	Numerator	moonset_6		2		4/18/2017 1:21:13 PM	773.4813
+PressFraction	MoonSets	moonset_6		2/4	(5.28125, -3.466667)	4/18/2017 1:21:14 PM	773.7652
+ReleaseFraction	MoonSets	moonset_6		2/4	(5.28125, -3.466667)	4/18/2017 1:21:14 PM	773.8542
+FractionChange	Numerator	moonset_6		3		4/18/2017 1:21:14 PM	773.8542
+PressFraction	MoonSets	moonset_6		3/4	(5.28125, -3.466667)	4/18/2017 1:21:15 PM	774.9482
+FractionPlaced	EqOp1	moonset_6		3/4		4/18/2017 1:21:16 PM	776.6033
+ReleaseFraction	MoonSets	moonset_6		3/4	(5.28125, -3.466667)	4/18/2017 1:21:16 PM	776.6033
+PressFraction	MoonSets	moonset_6		3/4	(5.28125, -3.466667)	4/18/2017 1:21:20 PM	780.1855
+ReleaseFraction	MoonSets	moonset_6		3/4	(5.28125, -3.5)	4/18/2017 1:21:20 PM	780.2955
+PressFraction	MoonSets	moonset_6		3/4	(5.28125, -3.5)	4/18/2017 1:21:21 PM	781.6025
+ReleaseFraction	MoonSets	moonset_6		3/4	(5.28125, -3.5)	4/18/2017 1:21:22 PM	781.6996
+FractionChange	Denominator	moonset_6		5		4/18/2017 1:21:22 PM	781.6996
+PressFraction	MoonSets	moonset_6		3/5	(5.28125, -3.5)	4/18/2017 1:21:22 PM	781.7715
+ReleaseFraction	MoonSets	moonset_6		3/5	(5.28125, -3.5)	4/18/2017 1:21:22 PM	781.8696
+FractionChange	Denominator	moonset_6		6		4/18/2017 1:21:22 PM	781.8696
+PressFraction	MoonSets	moonset_6		3/6	(5.28125, -3.5)	4/18/2017 1:21:22 PM	781.9346
+ReleaseFraction	MoonSets	moonset_6		3/6	(5.28125, -3.5)	4/18/2017 1:21:22 PM	782.0186
+FractionChange	Denominator	moonset_6		7		4/18/2017 1:21:22 PM	782.0186
+PressFraction	MoonSets	moonset_6		3/7	(5.28125, -3.5)	4/18/2017 1:21:22 PM	782.0966
+ReleaseFraction	MoonSets	moonset_6		3/7	(5.28125, -3.5)	4/18/2017 1:21:22 PM	782.1807
+FractionChange	Denominator	moonset_6		8		4/18/2017 1:21:22 PM	782.1807
+PressFraction	MoonSets	moonset_6		3/8	(5.28125, -3.5)	4/18/2017 1:21:22 PM	782.2515
+ReleaseFraction	MoonSets	moonset_6		3/8	(5.28125, -3.5)	4/18/2017 1:21:22 PM	782.3486
+FractionChange	Denominator	moonset_6		9		4/18/2017 1:21:22 PM	782.3486
+PressFraction	MoonSets	moonset_6		3/9	(5.28125, -3.5)	4/18/2017 1:21:23 PM	782.7296
+ReleaseFraction	MoonSets	moonset_6		3/9	(5.28125, -3.5)	4/18/2017 1:21:23 PM	782.8326
+FractionChange	Denominator	moonset_6		10		4/18/2017 1:21:23 PM	782.8326
+PressFraction	MoonSets	moonset_6		3/10	(5.28125, -3.5)	4/18/2017 1:21:23 PM	783.0347
+ReleaseFraction	MoonSets	moonset_6		3/10	(5.28125, -3.5)	4/18/2017 1:21:23 PM	783.1006
+FractionChange	Denominator	moonset_6		11		4/18/2017 1:21:23 PM	783.1006
+PressFraction	MoonSets	moonset_6		3/11	(5.28125, -3.5)	4/18/2017 1:21:23 PM	783.4967
+ReleaseFraction	MoonSets	moonset_6		3/11	(5.28125, -3.5)	4/18/2017 1:21:23 PM	783.5937
+FractionChange	Denominator	moonset_6		12		4/18/2017 1:21:23 PM	783.5937
+PressFraction	MoonSets	moonset_6		3/12	(5.28125, -3.5)	4/18/2017 1:21:24 PM	783.9547
+ReleaseFraction	MoonSets	moonset_6		3/12	(5.28125, -3.5)	4/18/2017 1:21:24 PM	784.0336
+FractionChange	Denominator	moonset_6		13		4/18/2017 1:21:24 PM	784.0336
+PressFraction	MoonSets	moonset_6		3/13	(5.28125, -3.5)	4/18/2017 1:21:25 PM	784.6627
+ReleaseFraction	MoonSets	moonset_6		3/13	(5.28125, -3.5)	4/18/2017 1:21:25 PM	784.7337
+FractionChange	Denominator	moonset_6		12		4/18/2017 1:21:25 PM	784.7337
+PressFraction	MoonSets	moonset_6		3/12	(5.28125, -3.5)	4/18/2017 1:21:25 PM	785.1368
+ReleaseFraction	MoonSets	moonset_6		3/12	(5.28125, -3.5)	4/18/2017 1:21:25 PM	785.2158
+PressFraction	MoonSets	moonset_6		3/12	(5.28125, -3.5)	4/18/2017 1:21:26 PM	786.3438
+ReleaseFraction	MoonSets	moonset_6		3/12	(5.28125, -3.5)	4/18/2017 1:21:26 PM	786.4398
+FractionChange	Numerator	moonset_6		2		4/18/2017 1:21:26 PM	786.4398
+PressFraction	MoonSets	moonset_6		2/12	(5.28125, -3.5)	4/18/2017 1:21:26 PM	786.6338
+ReleaseFraction	MoonSets	moonset_6		2/12	(5.28125, -3.5)	4/18/2017 1:21:27 PM	786.7308
+FractionChange	Numerator	moonset_6		1		4/18/2017 1:21:27 PM	786.7308
+PressFraction	MoonSets	moonset_6		1/12	(5.28125, -3.5)	4/18/2017 1:21:28 PM	788.215
+OperationResult	Equivalence			>		4/18/2017 1:21:29 PM	789.0309
+FractionPlaced	EqOp2	moonset_6		1/12		4/18/2017 1:21:29 PM	789.0309
+ReleaseFraction	MoonSets	moonset_6		1/12	(5.28125, -3.5)	4/18/2017 1:21:29 PM	789.0309
+EndStateReached						4/18/2017 1:21:32 PM	792.033
+EndStateReached						4/18/2017 1:21:32 PM	792.033
+EndStateReached						4/18/2017 1:21:32 PM	792.033
+PopupAfterTaskReflection						4/18/2017 1:21:36 PM	796.0084
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:21:37 PM		4/18/2017 1:21:37 PM	797.3734
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 1:21:38 PM		4/18/2017 1:21:38 PM	798.5825
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:21:39 PM		4/18/2017 1:21:39 PM	799.1665
+ClickButton	Lab					4/18/2017 1:21:39 PM	799.1665
+ClickButton	Lab					4/18/2017 1:21:47 PM	807.2116
+ClickButton	Set/Moons					4/18/2017 1:21:51 PM	810.6547
+FractionGenerated	MoonSets	moonset_7				4/18/2017 1:21:51 PM	810.6547
+PressFraction	MoonSets	moonset_7		0/0	(0.28125, 1)	4/18/2017 1:21:51 PM	811.3648
+ReleaseFraction	MoonSets	moonset_7		0/0	(5.047917, -5.033333)	4/18/2017 1:21:52 PM	812.1938
+PressFraction	MoonSets	moonset_7		0/0	(5.047917, -5.033333)	4/18/2017 1:22:03 PM	822.8803
+ReleaseFraction	MoonSets	moonset_7		0/0	(5.047917, -5.033333)	4/18/2017 1:22:03 PM	822.9663
+FractionChange	Denominator	moonset_7		1		4/18/2017 1:22:03 PM	822.9663
+PressFraction	MoonSets	moonset_7		0/1	(5.047917, -5.033333)	4/18/2017 1:22:03 PM	823.5303
+ReleaseFraction	MoonSets	moonset_7		0/1	(5.047917, -5.033333)	4/18/2017 1:22:03 PM	823.6202
+PressFraction	MoonSets	moonset_7		0/1	(5.047917, -5.033333)	4/18/2017 1:22:04 PM	824.2524
+ReleaseFraction	MoonSets	moonset_7		0/1	(5.047917, -5.033333)	4/18/2017 1:22:04 PM	824.3484
+FractionChange	Numerator	moonset_7		1		4/18/2017 1:22:04 PM	824.3484
+PressFraction	MoonSets	moonset_7		1/1	(5.047917, -5.033333)	4/18/2017 1:22:04 PM	824.4783
+ReleaseFraction	MoonSets	moonset_7		1/1	(5.047917, -5.033333)	4/18/2017 1:22:04 PM	824.5934
+FractionChange	Numerator	moonset_7		2		4/18/2017 1:22:04 PM	824.5934
+PressFraction	MoonSets	moonset_7		2/1	(5.047917, -5.033333)	4/18/2017 1:22:05 PM	824.7974
+ReleaseFraction	MoonSets	moonset_7		2/1	(5.047917, -5.033333)	4/18/2017 1:22:05 PM	824.8614
+FractionChange	Numerator	moonset_7		3		4/18/2017 1:22:05 PM	824.8614
+PressFraction	MoonSets	moonset_7		3/1	(5.047917, -5.033333)	4/18/2017 1:22:05 PM	825.4664
+ReleaseFraction	MoonSets	moonset_7		3/1	(5.466667, -3.933333)	4/18/2017 1:22:08 PM	828.1335
+PressFraction	MoonSets	moonset_7		3/1	(5.466667, -3.933333)	4/18/2017 1:22:09 PM	829.0106
+ReleaseFraction	MoonSets	moonset_7		3/1	(5.466667, -3.933333)	4/18/2017 1:22:09 PM	829.1316
+FractionChange	Numerator	moonset_7		2		4/18/2017 1:22:09 PM	829.1316
+PressFraction	MoonSets	moonset_7		2/1	(5.466667, -3.933333)	4/18/2017 1:22:09 PM	829.1905
+ReleaseFraction	MoonSets	moonset_7		2/1	(5.466667, -3.933333)	4/18/2017 1:22:09 PM	829.3005
+FractionChange	Numerator	moonset_7		1		4/18/2017 1:22:09 PM	829.3005
+PressFraction	MoonSets	moonset_7		1/1	(5.466667, -3.933333)	4/18/2017 1:22:09 PM	829.3896
+ReleaseFraction	MoonSets	moonset_7		1/1	(5.466667, -3.933333)	4/18/2017 1:22:09 PM	829.4616
+FractionChange	Numerator	moonset_7		0		4/18/2017 1:22:09 PM	829.4616
+PressFraction	MoonSets	moonset_7		0/1	(5.466667, -3.933333)	4/18/2017 1:22:10 PM	829.9536
+ReleaseFraction	MoonSets	moonset_7		0/1	(5.466667, -3.933333)	4/18/2017 1:22:10 PM	830.0555
+PressFraction	MoonSets	moonset_7		0/1	(5.466667, -3.933333)	4/18/2017 1:22:10 PM	830.5536
+ReleaseFraction	MoonSets	moonset_7		0/1	(5.466667, -3.933333)	4/18/2017 1:22:11 PM	830.6696
+FractionChange	Denominator	moonset_7		2		4/18/2017 1:22:11 PM	830.6696
+PressFraction	MoonSets	moonset_7		0/2	(5.466667, -3.933333)	4/18/2017 1:22:11 PM	830.7476
+ReleaseFraction	MoonSets	moonset_7		0/2	(5.466667, -3.933333)	4/18/2017 1:22:11 PM	830.8126
+FractionChange	Denominator	moonset_7		3		4/18/2017 1:22:11 PM	830.8126
+PressFraction	MoonSets	moonset_7		0/3	(5.466667, -3.933333)	4/18/2017 1:22:11 PM	831.4377
+FractionPlaced	EqOp1	moonset_7		0/3		4/18/2017 1:22:12 PM	832.4548
+ReleaseFraction	MoonSets	moonset_7		0/3	(5.466667, -3.933333)	4/18/2017 1:22:12 PM	832.4548
+ClickButton	3OperandTab					4/18/2017 1:22:17 PM	837.1431
+ClickButton	2OperandTab					4/18/2017 1:22:19 PM	839.5511
+ClickButton	Lab					4/18/2017 1:22:21 PM	841.1072
+ClickButton	Lab					4/18/2017 1:22:22 PM	842.0491
+PressFraction	MoonSets	moonset_7		0/3	(5.466667, -3.933333)	4/18/2017 1:22:24 PM	844.4122
+ReleaseFraction	MoonSets	moonset_7		0/3	(5.466667, -3.933333)	4/18/2017 1:22:24 PM	844.5092
+PressFraction	MoonSets	moonset_7		0/3	(5.466667, -3.933333)	4/18/2017 1:22:25 PM	845.2453
+ReleaseFraction	MoonSets	moonset_7		0/3	(5.466667, -3.933333)	4/18/2017 1:22:25 PM	845.3533
+FractionChange	Numerator	moonset_7		1		4/18/2017 1:22:25 PM	845.3533
+PressFraction	MoonSets	moonset_7		1/3	(5.466667, -3.933333)	4/18/2017 1:22:26 PM	845.8293
+FractionPlaced	EqOp1	moonset_7		1/3		4/18/2017 1:22:27 PM	846.9144
+ReleaseFraction	MoonSets	moonset_7		1/3	(5.466667, -3.933333)	4/18/2017 1:22:27 PM	846.9144
+PressFraction	MoonSets	moonset_7		1/3	(5.466667, -3.933333)	4/18/2017 1:22:29 PM	849.4705
+ReleaseFraction	MoonSets	moonset_7		1/3	(5.466667, -3.933333)	4/18/2017 1:22:29 PM	849.5814
+PressFraction	MoonSets	moonset_7		1/3	(5.466667, -3.933333)	4/18/2017 1:22:30 PM	850.1465
+ReleaseFraction	MoonSets	moonset_7		1/3	(5.533333, -3.933333)	4/18/2017 1:22:30 PM	850.2495
+FractionChange	Denominator	moonset_7		4		4/18/2017 1:22:30 PM	850.2495
+PressFraction	MoonSets	moonset_7		1/4	(5.533333, -3.933333)	4/18/2017 1:22:30 PM	850.3934
+ReleaseFraction	MoonSets	moonset_7		1/4	(5.533333, -3.933333)	4/18/2017 1:22:30 PM	850.4894
+FractionChange	Denominator	moonset_7		5		4/18/2017 1:22:30 PM	850.4894
+PressFraction	MoonSets	moonset_7		1/5	(5.533333, -3.933333)	4/18/2017 1:22:31 PM	850.9925
+ReleaseFraction	MoonSets	moonset_7		1/5	(5.533333, -3.933333)	4/18/2017 1:22:31 PM	851.0625
+PressFraction	MoonSets	moonset_7		1/5	(5.533333, -3.933333)	4/18/2017 1:22:32 PM	852.0547
+OperationResult	Equivalence			>		4/18/2017 1:22:33 PM	852.8646
+FractionPlaced	EqOp2	moonset_7		1/5		4/18/2017 1:22:33 PM	852.8646
+ReleaseFraction	MoonSets	moonset_7		1/5	(5.533333, -3.933333)	4/18/2017 1:22:33 PM	852.8646
+EndStateReached						4/18/2017 1:22:36 PM	855.8677
+EndStateReached						4/18/2017 1:22:36 PM	855.8677
+EndStateReached						4/18/2017 1:22:36 PM	855.8677
+PopupAfterTaskReflection						4/18/2017 1:22:37 PM	856.9779
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:22:41 PM		4/18/2017 1:22:41 PM	860.6821
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:22:44 PM		4/18/2017 1:22:44 PM	864.5512
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 1:22:45 PM		4/18/2017 1:22:45 PM	865.3544
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:22:47 PM		4/18/2017 1:22:47 PM	866.7189
+ClickButton	Lab					4/18/2017 1:22:47 PM	866.7189
+ClickButton	Lab					4/18/2017 1:22:51 PM	871.1823
+ClickButton	Set/Stars					4/18/2017 1:22:55 PM	874.6664
+FractionGenerated	StarSets	starset_8				4/18/2017 1:22:55 PM	874.6664
+PressFraction	StarSets	starset_8		0/0	(-0.71875, 0)	4/18/2017 1:22:55 PM	875.4995
+ReleaseFraction	StarSets	starset_8		0/0	(5.347917, -4.8)	4/18/2017 1:22:56 PM	876.6211
+FractionChange	Denominator	starset_8		1		4/18/2017 1:23:05 PM	884.764
+FractionChange	Denominator	starset_8		2		4/18/2017 1:23:05 PM	884.9249
+FractionChange	Denominator	starset_8		3		4/18/2017 1:23:05 PM	885.088
+FractionChange	Denominator	starset_8		4		4/18/2017 1:23:05 PM	885.4199
+FractionChange	Denominator	starset_8		5		4/18/2017 1:23:06 PM	885.764
+FractionChange	Denominator	starset_8		6		4/18/2017 1:23:06 PM	886.184
+FractionChange	Denominator	starset_8		7		4/18/2017 1:23:06 PM	886.5761
+FractionChange	Denominator	starset_8		8		4/18/2017 1:23:07 PM	887.2111
+PressFraction	StarSets	starset_8		0/8	(5.347917, -4.8)	4/18/2017 1:23:08 PM	887.8421
+ReleaseFraction	StarSets	starset_8		0/8	(5.347917, -4.8)	4/18/2017 1:23:08 PM	887.9361
+FractionChange	Numerator	starset_8		1		4/18/2017 1:23:09 PM	889.3651
+PressFraction	StarSets	starset_8		1/8	(5.347917, -4.8)	4/18/2017 1:23:10 PM	889.8192
+FractionPlaced	EqOp1	starset_8		1/8		4/18/2017 1:23:11 PM	891.0692
+ReleaseFraction	StarSets	starset_8		1/8	(5.347917, -4.8)	4/18/2017 1:23:11 PM	891.0692
+PressFraction	StarSets	starset_8		1/8	(5.347917, -4.8)	4/18/2017 1:23:12 PM	892.6122
+ReleaseFraction	StarSets	starset_8		1/8	(5.347917, -4.8)	4/18/2017 1:23:13 PM	892.6963
+FractionChange	Denominator	starset_8		9		4/18/2017 1:23:13 PM	893.3343
+FractionChange	Denominator	starset_8		8		4/18/2017 1:23:14 PM	893.8793
+FractionChange	Denominator	starset_8		7		4/18/2017 1:23:14 PM	894.1173
+FractionChange	Denominator	starset_8		6		4/18/2017 1:23:14 PM	894.4644
+FractionChange	Denominator	starset_8		5		4/18/2017 1:23:15 PM	894.6494
+FractionChange	Denominator	starset_8		4		4/18/2017 1:23:15 PM	894.9213
+FractionChange	Denominator	starset_8		3		4/18/2017 1:23:15 PM	895.3104
+PressFraction	StarSets	starset_8		1/3	(5.347917, -4.8)	4/18/2017 1:23:18 PM	897.8944
+OperationResult	Equivalence			<		4/18/2017 1:23:19 PM	899.2855
+FractionPlaced	EqOp2	starset_8		1/3		4/18/2017 1:23:19 PM	899.2855
+ReleaseFraction	StarSets	starset_8		1/3	(5.347917, -4.8)	4/18/2017 1:23:19 PM	899.2855
+EndStateReached						4/18/2017 1:23:22 PM	902.2877
+EndStateReached						4/18/2017 1:23:22 PM	902.2877
+EndStateReached						4/18/2017 1:23:22 PM	902.2877
+PopupAfterTaskReflection						4/18/2017 1:23:23 PM	903.2149
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:23:28 PM		4/18/2017 1:23:28 PM	908.3099
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:23:30 PM		4/18/2017 1:23:30 PM	910.2122
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	困难	4/18/2017 1:23:31 PM		4/18/2017 1:23:31 PM	910.6842
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:23:31 PM		4/18/2017 1:23:31 PM	911.3212
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	困难	4/18/2017 1:23:32 PM		4/18/2017 1:23:32 PM	911.8492
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:23:38 PM		4/18/2017 1:23:38 PM	917.6984
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:23:41 PM		4/18/2017 1:23:41 PM	920.7296
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:23:41 PM		4/18/2017 1:23:41 PM	921.0995
+ClickButton	Lab					4/18/2017 1:23:41 PM	921.0995
+ClickButton	Lab					4/18/2017 1:23:47 PM	927.0296
+ClickButton	NumberedLines					4/18/2017 1:23:50 PM	929.9387
+FractionGenerated	NumberedLines	line_9				4/18/2017 1:23:50 PM	929.9387
+PressFraction	NumberedLines	line_9		0/0	(1.3125, -1)	4/18/2017 1:23:51 PM	930.9409
+ReleaseFraction	NumberedLines	line_9		0/0	(4.379167, -5.733334)	4/18/2017 1:23:52 PM	932.326
+FractionChange	Denominator	line_9		1		4/18/2017 1:23:57 PM	937.3422
+FractionChange	Denominator	line_9		2		4/18/2017 1:23:57 PM	937.5341
+FractionChange	Denominator	line_9		3		4/18/2017 1:23:58 PM	937.6991
+FractionChange	Denominator	line_9		4		4/18/2017 1:23:58 PM	937.8772
+FractionChange	Denominator	line_9		5		4/18/2017 1:23:58 PM	938.0621
+FractionChange	Denominator	line_9		6		4/18/2017 1:23:58 PM	938.2412
+FractionChange	Denominator	line_9		7		4/18/2017 1:23:58 PM	938.6011
+FractionChange	Denominator	line_9		8		4/18/2017 1:23:59 PM	939.2072
+PressFraction	NumberedLines	line_9		0/8	(4.379167, -5.733334)	4/18/2017 1:24:00 PM	939.9922
+ReleaseFraction	NumberedLines	line_9		0/8	(4.379167, -5.733334)	4/18/2017 1:24:00 PM	940.0612
+ClickButton	HideRepresentaionToolbar					4/18/2017 1:24:03 PM	943.3084
+PressFraction	NumberedLines	line_9		0/8	(4.379167, -5.733334)	4/18/2017 1:24:04 PM	944.2094
+ReleaseFraction	NumberedLines	line_9		0/8	(4.345834, -5.666667)	4/18/2017 1:24:04 PM	944.2964
+FractionChange	Numerator	line_9		1		4/18/2017 1:24:05 PM	945.1645
+FractionChange	Numerator	line_9		2		4/18/2017 1:24:05 PM	945.4875
+FractionChange	Numerator	line_9		3		4/18/2017 1:24:06 PM	945.8466
+FractionChange	Numerator	line_9		4		4/18/2017 1:24:06 PM	946.2445
+FractionChange	Numerator	line_9		5		4/18/2017 1:24:07 PM	946.7526
+FractionChange	Numerator	line_9		6		4/18/2017 1:24:08 PM	948.2856
+PressFraction	NumberedLines	line_9		6/8	(4.345834, -5.666667)	4/18/2017 1:24:10 PM	950.0737
+FractionPlaced	EqOp1	line_9		6/8		4/18/2017 1:24:11 PM	950.8438
+ReleaseFraction	NumberedLines	line_9		6/8	(4.345834, -5.666667)	4/18/2017 1:24:11 PM	950.8438
+PressFraction	NumberedLines	line_9		6/8	(4.345834, -5.666667)	4/18/2017 1:24:13 PM	952.9619
+ReleaseFraction	NumberedLines	line_9		6/8	(4.345834, -5.666667)	4/18/2017 1:24:13 PM	953.0748
+FractionChange	Denominator	line_9		7		4/18/2017 1:24:15 PM	954.7929
+FractionChange	Denominator	line_9		6		4/18/2017 1:24:15 PM	954.9759
+FractionChange	Denominator	line_9		5		4/18/2017 1:24:15 PM	955.1259
+FractionChange	Denominator	line_9		4		4/18/2017 1:24:15 PM	955.2849
+FractionChange	Denominator	line_9		3		4/18/2017 1:24:15 PM	955.463
+FractionChange	Denominator	line_9		2		4/18/2017 1:24:16 PM	955.8469
+FractionChange	Denominator	line_9		3		4/18/2017 1:24:22 PM	962.4243
+PressFraction	NumberedLines	line_9		6/3	(4.345834, -5.666667)	4/18/2017 1:24:23 PM	962.9243
+ReleaseFraction	NumberedLines	line_9		6/3	(4.345834, -5.666667)	4/18/2017 1:24:23 PM	962.9932
+FractionChange	Numerator	line_9		5		4/18/2017 1:24:24 PM	964.1593
+FractionChange	Numerator	line_9		4		4/18/2017 1:24:24 PM	964.4103
+FractionChange	Numerator	line_9		3		4/18/2017 1:24:25 PM	964.6734
+FractionChange	Numerator	line_9		2		4/18/2017 1:24:25 PM	964.8513
+FractionChange	Numerator	line_9		1		4/18/2017 1:24:25 PM	965.2433
+FractionChange	Numerator	line_9		2		4/18/2017 1:24:26 PM	966.1173
+PressFraction	NumberedLines	line_9		2/3	(4.345834, -5.666667)	4/18/2017 1:24:26 PM	966.5654
+OperationResult	Equivalence			>		4/18/2017 1:24:27 PM	967.3927
+FractionPlaced	EqOp2	line_9		2/3		4/18/2017 1:24:27 PM	967.3927
+ReleaseFraction	NumberedLines	line_9		2/3	(4.345834, -5.666667)	4/18/2017 1:24:27 PM	967.3927
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:24:34 PM	973.8087
+ClickButton	OpenTaskDescription					4/18/2017 1:24:56 PM	995.9236
+ClickButton	OpenTaskDescription					4/18/2017 1:25:01 PM	1000.679
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:25:01 PM	1001.426
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:25:02 PM	1002.413
+PopupAfterTaskReflection						4/18/2017 1:25:02 PM	1002.62
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:25:07 PM		4/18/2017 1:25:07 PM	1006.848
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:25:08 PM		4/18/2017 1:25:08 PM	1008.051
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:25:09 PM		4/18/2017 1:25:09 PM	1008.786
+ClickButton	Lab					4/18/2017 1:25:09 PM	1008.786
+ClickButton	ShowRepresentaionToolbar					4/18/2017 1:25:09 PM	1008.786
+ClickButton	Lab					4/18/2017 1:25:14 PM	1013.794
+ClickButton	3OperandTab					4/18/2017 1:25:15 PM	1014.781
+ClickButton	Set/Hearts					4/18/2017 1:25:19 PM	1018.703
+FractionGenerated	HeartSets	heartset_10				4/18/2017 1:25:19 PM	1018.703
+PressFraction	HeartSets	heartset_10		0/0	(0.28125, 0)	4/18/2017 1:25:19 PM	1019.486
+ReleaseFraction	HeartSets	heartset_10		0/0	(4.847918, -4.733333)	4/18/2017 1:25:20 PM	1020.516
+PressFraction	HeartSets	heartset_10		0/0	(4.847918, -4.733333)	4/18/2017 1:25:23 PM	1023.143
+ReleaseFraction	HeartSets	heartset_10		0/0	(4.847918, -4.733333)	4/18/2017 1:25:23 PM	1023.26
+FractionChange	Denominator	heartset_10		1		4/18/2017 1:25:24 PM	1023.792
+FractionChange	Denominator	heartset_10		2		4/18/2017 1:25:24 PM	1024.078
+FractionChange	Denominator	heartset_10		3		4/18/2017 1:25:24 PM	1024.486
+FractionChange	Denominator	heartset_10		4		4/18/2017 1:25:25 PM	1024.867
+FractionChange	Denominator	heartset_10		5		4/18/2017 1:25:25 PM	1025.236
+PressFraction	HeartSets	heartset_10		0/5	(4.847918, -4.733333)	4/18/2017 1:25:26 PM	1025.898
+ReleaseFraction	HeartSets	heartset_10		0/5	(4.847918, -4.733333)	4/18/2017 1:25:26 PM	1026.01
+FractionChange	Numerator	heartset_10		1		4/18/2017 1:25:27 PM	1027.034
+PressFraction	HeartSets	heartset_10		1/5	(4.847918, -4.733333)	4/18/2017 1:25:27 PM	1027.564
+FractionPlaced	SumOp1	heartset_10		1/5		4/18/2017 1:25:29 PM	1028.706
+ReleaseFraction	HeartSets	heartset_10		1/5	(4.847918, -4.733333)	4/18/2017 1:25:29 PM	1028.706
+FractionChange	Numerator	heartset_10		2		4/18/2017 1:25:31 PM	1031.162
+PressFraction	HeartSets	heartset_10		2/5	(4.847918, -4.733333)	4/18/2017 1:25:31 PM	1031.54
+FractionPlaced	SumOp2	heartset_10		2/5		4/18/2017 1:25:32 PM	1032.444
+ReleaseFraction	HeartSets	heartset_10		2/5	(4.847918, -4.733333)	4/18/2017 1:25:32 PM	1032.444
+FractionChange	Numerator	heartset_10		3		4/18/2017 1:25:34 PM	1034.129
+PressFraction	HeartSets	heartset_10		3/5	(4.847918, -4.733333)	4/18/2017 1:25:34 PM	1034.541
+OperationResult	Sum			=		4/18/2017 1:25:35 PM	1035.183
+FractionPlaced	SumRes	heartset_10		3/5		4/18/2017 1:25:35 PM	1035.183
+ReleaseFraction	HeartSets	heartset_10		3/5	(4.847918, -4.733333)	4/18/2017 1:25:35 PM	1035.183
+EndStateReached						4/18/2017 1:25:38 PM	1038.185
+EndStateReached						4/18/2017 1:25:38 PM	1038.185
+EndStateReached						4/18/2017 1:25:38 PM	1038.185
+TaskReset						4/18/2017 1:25:38 PM	1038.42
+ClickButton	Lab					4/18/2017 1:25:38 PM	1038.42
+PopupAfterTaskReflection						4/18/2017 1:25:41 PM	1041.053
+EndStateReached						4/18/2017 1:25:41 PM	1041.426
+EndStateReached						4/18/2017 1:25:41 PM	1041.426
+PopupAfterTaskReflection						4/18/2017 1:25:42 PM	1042.598
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:25:44 PM		4/18/2017 1:25:44 PM	1044.241
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 1:25:45 PM		4/18/2017 1:25:45 PM	1045.567
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:25:46 PM		4/18/2017 1:25:46 PM	1046.266
+ClickButton	Lab					4/18/2017 1:25:50 PM	1049.855
+ClickButton	3OperandTab					4/18/2017 1:25:51 PM	1050.926
+ClickButton	LiquidMeasures					4/18/2017 1:25:52 PM	1052.61
+FractionGenerated	LiquidMeasures	liquid_11				4/18/2017 1:25:52 PM	1052.61
+PressFraction	LiquidMeasures	liquid_11		0/0	(0.9375, 0)	4/18/2017 1:25:53 PM	1053.365
+ReleaseFraction	LiquidMeasures	liquid_11		0/0	(4.070834, -4.466667)	4/18/2017 1:25:55 PM	1054.695
+FractionChange	Denominator	liquid_11		1		4/18/2017 1:25:56 PM	1056.322
+FractionChange	Denominator	liquid_11		2		4/18/2017 1:25:56 PM	1056.51
+FractionChange	Denominator	liquid_11		3		4/18/2017 1:25:57 PM	1056.658
+FractionChange	Denominator	liquid_11		4		4/18/2017 1:25:57 PM	1056.792
+FractionChange	Denominator	liquid_11		5		4/18/2017 1:25:57 PM	1056.956
+FractionChange	Denominator	liquid_11		6		4/18/2017 1:25:57 PM	1057.124
+FractionChange	Denominator	liquid_11		7		4/18/2017 1:25:57 PM	1057.278
+FractionChange	Denominator	liquid_11		6		4/18/2017 1:25:58 PM	1058.262
+PressFraction	LiquidMeasures	liquid_11		0/6	(4.070834, -4.466667)	4/18/2017 1:25:59 PM	1058.813
+ReleaseFraction	LiquidMeasures	liquid_11		0/6	(4.070834, -4.433333)	4/18/2017 1:25:59 PM	1058.898
+FractionChange	Numerator	liquid_11		1		4/18/2017 1:26:00 PM	1059.802
+PressFraction	LiquidMeasures	liquid_11		1/6	(4.070834, -4.433333)	4/18/2017 1:26:00 PM	1060.185
+FractionPlaced	SumOp1	liquid_11		1/6		4/18/2017 1:26:01 PM	1060.908
+ReleaseFraction	LiquidMeasures	liquid_11		1/6	(4.070834, -4.433333)	4/18/2017 1:26:01 PM	1060.908
+FractionChange	Numerator	liquid_11		2		4/18/2017 1:26:03 PM	1062.939
+PressFraction	LiquidMeasures	liquid_11		2/6	(4.070834, -4.433333)	4/18/2017 1:26:03 PM	1063.272
+FractionPlaced	SumOp2	liquid_11		2/6		4/18/2017 1:26:04 PM	1063.944
+ReleaseFraction	LiquidMeasures	liquid_11		2/6	(4.070834, -4.433333)	4/18/2017 1:26:04 PM	1063.944
+PressFraction	LiquidMeasures	liquid_11		2/6	(4.070834, -4.433333)	4/18/2017 1:26:07 PM	1067.024
+ReleaseFraction	LiquidMeasures	liquid_11		2/6	(4.070834, -4.433333)	4/18/2017 1:26:07 PM	1067.134
+FractionChange	Denominator	liquid_11		5		4/18/2017 1:26:08 PM	1068.066
+FractionChange	Denominator	liquid_11		4		4/18/2017 1:26:08 PM	1068.463
+FractionChange	Denominator	liquid_11		3		4/18/2017 1:26:09 PM	1068.78
+FractionChange	Denominator	liquid_11		4		4/18/2017 1:26:10 PM	1069.765
+FractionChange	Denominator	liquid_11		5		4/18/2017 1:26:10 PM	1069.919
+FractionChange	Denominator	liquid_11		6		4/18/2017 1:26:10 PM	1070.066
+FractionChange	Denominator	liquid_11		7		4/18/2017 1:26:10 PM	1070.234
+FractionChange	Denominator	liquid_11		8		4/18/2017 1:26:10 PM	1070.395
+FractionChange	Denominator	liquid_11		9		4/18/2017 1:26:10 PM	1070.556
+FractionChange	Denominator	liquid_11		10		4/18/2017 1:26:11 PM	1070.702
+FractionChange	Denominator	liquid_11		11		4/18/2017 1:26:11 PM	1070.867
+FractionChange	Denominator	liquid_11		12		4/18/2017 1:26:11 PM	1071.023
+PressFraction	LiquidMeasures	liquid_11		2/12	(4.070834, -4.433333)	4/18/2017 1:26:12 PM	1071.78
+ReleaseFraction	LiquidMeasures	liquid_11		2/12	(4.070834, -4.366667)	4/18/2017 1:26:12 PM	1071.845
+FractionChange	Numerator	liquid_11		3		4/18/2017 1:26:13 PM	1073.262
+PressFraction	LiquidMeasures	liquid_11		3/12	(4.070834, -4.366667)	4/18/2017 1:26:14 PM	1073.917
+OperationResult	Sum			>		4/18/2017 1:26:14 PM	1074.403
+FractionPlaced	SumRes	liquid_11		3/12		4/18/2017 1:26:14 PM	1074.403
+ReleaseFraction	LiquidMeasures	liquid_11		3/12	(4.070834, -4.366667)	4/18/2017 1:26:14 PM	1074.403
+PopupAfterTaskReflection						4/18/2017 1:26:16 PM	1076.242
+EndStateReached						4/18/2017 1:26:17 PM	1077.408
+EndStateReached						4/18/2017 1:26:17 PM	1077.408
+EndStateReached						4/18/2017 1:26:17 PM	1077.408
+PopupAfterTaskReflection						4/18/2017 1:26:18 PM	1078.631
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/18/2017 1:26:19 PM		4/18/2017 1:26:19 PM	1079.625
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 1:26:22 PM		4/18/2017 1:26:22 PM	1081.751
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:26:22 PM		4/18/2017 1:26:22 PM	1082.526
+ClickButton	Lab					4/18/2017 1:26:22 PM	1082.526
+ClickButton	Lab					4/18/2017 1:26:35 PM	1095.557
+ClickButton	3OperandTab					4/18/2017 1:26:44 PM	1103.734
+ClickButton	LiquidMeasures					4/18/2017 1:26:54 PM	1114.202
+FractionGenerated	LiquidMeasures	liquid_12				4/18/2017 1:26:54 PM	1114.202
+PressFraction	LiquidMeasures	liquid_12		0/0	(-0.0625, 0)	4/18/2017 1:26:55 PM	1115.249
+ReleaseFraction	LiquidMeasures	liquid_12		0/0	(3.870833, -3.866667)	4/18/2017 1:26:56 PM	1116.28
+FractionChange	Denominator	liquid_12		1		4/18/2017 1:27:00 PM	1120.274
+FractionChange	Denominator	liquid_12		2		4/18/2017 1:27:00 PM	1120.435
+FractionChange	Denominator	liquid_12		3		4/18/2017 1:27:00 PM	1120.582
+FractionChange	Denominator	liquid_12		4		4/18/2017 1:27:01 PM	1120.743
+FractionChange	Denominator	liquid_12		5		4/18/2017 1:27:01 PM	1120.896
+FractionChange	Denominator	liquid_12		6		4/18/2017 1:27:01 PM	1121.064
+FractionChange	Denominator	liquid_12		7		4/18/2017 1:27:01 PM	1121.251
+FractionChange	Denominator	liquid_12		8		4/18/2017 1:27:01 PM	1121.432
+FractionChange	Denominator	liquid_12		9		4/18/2017 1:27:01 PM	1121.615
+FractionChange	Denominator	liquid_12		10		4/18/2017 1:27:02 PM	1122.054
+FractionChange	Denominator	liquid_12		11		4/18/2017 1:27:02 PM	1122.345
+FractionChange	Denominator	liquid_12		12		4/18/2017 1:27:03 PM	1122.889
+PressFraction	LiquidMeasures	liquid_12		0/12	(3.870833, -3.866667)	4/18/2017 1:27:03 PM	1123.535
+ReleaseFraction	LiquidMeasures	liquid_12		0/12	(3.870833, -3.866667)	4/18/2017 1:27:03 PM	1123.614
+FractionChange	Numerator	liquid_12		1		4/18/2017 1:27:05 PM	1124.783
+FractionChange	Numerator	liquid_12		2		4/18/2017 1:27:05 PM	1124.956
+FractionChange	Numerator	liquid_12		3		4/18/2017 1:27:05 PM	1125.109
+FractionChange	Numerator	liquid_12		4		4/18/2017 1:27:05 PM	1125.277
+FractionChange	Numerator	liquid_12		5		4/18/2017 1:27:05 PM	1125.43
+FractionChange	Numerator	liquid_12		6		4/18/2017 1:27:05 PM	1125.606
+FractionChange	Numerator	liquid_12		7		4/18/2017 1:27:06 PM	1125.775
+FractionChange	Numerator	liquid_12		8		4/18/2017 1:27:06 PM	1125.914
+FractionChange	Numerator	liquid_12		9		4/18/2017 1:27:06 PM	1126.366
+PressFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:08 PM	1127.649
+FractionPlaced	SumOp1	liquid_12		9/12		4/18/2017 1:27:08 PM	1128.329
+ReleaseFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:08 PM	1128.329
+ClickButton	 OperationSwitchMinus					4/18/2017 1:27:09 PM	1129.056
+PressFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:14 PM	1133.75
+ReleaseFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:14 PM	1133.845
+PressFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:14 PM	1134.391
+ReleaseFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:14 PM	1134.523
+PressFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:16 PM	1136.016
+ReleaseFraction	LiquidMeasures	liquid_12		9/12	(3.870833, -3.866667)	4/18/2017 1:27:16 PM	1136.121
+FractionChange	Denominator	liquid_12		11		4/18/2017 1:27:19 PM	1139.118
+FractionChange	Denominator	liquid_12		10		4/18/2017 1:27:19 PM	1139.342
+FractionChange	Denominator	liquid_12		9		4/18/2017 1:27:19 PM	1139.51
+FractionChange	Denominator	liquid_12		8		4/18/2017 1:27:20 PM	1139.692
+FractionChange	Denominator	liquid_12		7		4/18/2017 1:27:20 PM	1139.854
+FractionChange	Denominator	liquid_12		6		4/18/2017 1:27:21 PM	1140.858
+PressFraction	LiquidMeasures	liquid_12		9/6	(3.870833, -3.866667)	4/18/2017 1:27:22 PM	1142.367
+ReleaseFraction	LiquidMeasures	liquid_12		9/6	(5.870833, -3.833333)	4/18/2017 1:27:23 PM	1142.906
+PressFraction	LiquidMeasures	liquid_12		9/6	(5.870833, -3.833333)	4/18/2017 1:27:24 PM	1143.638
+ReleaseFraction	LiquidMeasures	liquid_12		9/6	(1.5375, -3.733333)	4/18/2017 1:27:24 PM	1144.092
+FractionChange	Denominator	liquid_12		7		4/18/2017 1:27:25 PM	1144.791
+FractionChange	Denominator	liquid_12		8		4/18/2017 1:27:25 PM	1145.243
+FractionChange	Denominator	liquid_12		7		4/18/2017 1:27:26 PM	1146.275
+FractionChange	Denominator	liquid_12		6		4/18/2017 1:27:27 PM	1146.701
+PressFraction	LiquidMeasures	liquid_12		9/6	(1.5375, -3.733333)	4/18/2017 1:27:28 PM	1147.904
+ReleaseFraction	LiquidMeasures	liquid_12		9/6	(1.5375, -3.733333)	4/18/2017 1:27:28 PM	1148.003
+FractionChange	Numerator	liquid_12		8		4/18/2017 1:27:30 PM	1149.632
+FractionChange	Numerator	liquid_12		7		4/18/2017 1:27:30 PM	1149.79
+FractionChange	Numerator	liquid_12		6		4/18/2017 1:27:30 PM	1149.955
+FractionChange	Numerator	liquid_12		5		4/18/2017 1:27:30 PM	1150.106
+FractionChange	Numerator	liquid_12		4		4/18/2017 1:27:36 PM	1156.006
+FractionChange	Numerator	liquid_12		3		4/18/2017 1:27:36 PM	1156.508
+PressFraction	LiquidMeasures	liquid_12		3/6	(1.5375, -3.733333)	4/18/2017 1:27:37 PM	1157.416
+FractionPlaced	SubOp2	liquid_12		3/6		4/18/2017 1:27:38 PM	1158.318
+ReleaseFraction	LiquidMeasures	liquid_12		3/6	(1.5375, -3.733333)	4/18/2017 1:27:38 PM	1158.318
+PressFraction	LiquidMeasures	liquid_12		3/6	(1.5375, -3.733333)	4/18/2017 1:27:40 PM	1160.116
+OperationResult	Substraction			<		4/18/2017 1:27:41 PM	1160.667
+FractionPlaced	SubRes	liquid_12		3/6		4/18/2017 1:27:41 PM	1160.667
+ReleaseFraction	LiquidMeasures	liquid_12		3/6	(1.5375, -3.733333)	4/18/2017 1:27:41 PM	1160.667
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	困难	4/18/2017 1:27:45 PM		4/18/2017 1:27:45 PM	1165.577
+PressFraction	LiquidMeasures	liquid_12		3/6	(1.5375, -3.733333)	4/18/2017 1:27:46 PM	1166.513
+ReleaseFraction	LiquidMeasures	liquid_12		3/6	(1.570833, -4.066667)	4/18/2017 1:27:47 PM	1166.638
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 1:27:47 PM		4/18/2017 1:27:47 PM	1166.638
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:27:48 PM		4/18/2017 1:27:48 PM	1167.899
+ClickButton	Lab					4/18/2017 1:27:48 PM	1167.899
+ClickButton	Lab					4/18/2017 1:27:53 PM	1173.05
+ClickButton	Set/Hearts					4/18/2017 1:27:56 PM	1175.823
+FractionGenerated	HeartSets	heartset_13				4/18/2017 1:27:56 PM	1175.823
+PressFraction	HeartSets	heartset_13		0/0	(0.28125, -1)	4/18/2017 1:27:56 PM	1176.56
+ReleaseFraction	HeartSets	heartset_13		0/0	(0.28125, -1)	4/18/2017 1:27:57 PM	1177.27
+FractionChange	Denominator	heartset_13		1		4/18/2017 1:27:58 PM	1178.589
+FractionChange	Denominator	heartset_13		1		4/18/2017 1:27:59 PM	1179.021
+FractionChange	Denominator	heartset_13		2		4/18/2017 1:27:59 PM	1179.373
+FractionChange	Denominator	heartset_13		3		4/18/2017 1:27:59 PM	1179.556
+FractionChange	Denominator	heartset_13		4		4/18/2017 1:28:00 PM	1179.873
+FractionChange	Denominator	heartset_13		5		4/18/2017 1:28:00 PM	1180.042
+FractionChange	Denominator	heartset_13		6		4/18/2017 1:28:00 PM	1180.193
+FractionChange	Denominator	heartset_13		7		4/18/2017 1:28:00 PM	1180.364
+FractionChange	Denominator	heartset_13		8		4/18/2017 1:28:00 PM	1180.523
+FractionChange	Denominator	heartset_13		9		4/18/2017 1:28:01 PM	1180.694
+FractionChange	Denominator	heartset_13		10		4/18/2017 1:28:01 PM	1180.865
+FractionChange	Denominator	heartset_13		11		4/18/2017 1:28:01 PM	1181.016
+PressFraction	HeartSets	heartset_13		0/11	(0.28125, -1)	4/18/2017 1:28:02 PM	1181.932
+ReleaseFraction	HeartSets	heartset_13		0/11	(0.2479167, -1)	4/18/2017 1:28:02 PM	1182.059
+FractionChange	Numerator	heartset_13		1		4/18/2017 1:28:03 PM	1182.665
+FractionChange	Numerator	heartset_13		2		4/18/2017 1:28:03 PM	1182.844
+FractionChange	Numerator	heartset_13		3		4/18/2017 1:28:03 PM	1183.009
+FractionChange	Numerator	heartset_13		4		4/18/2017 1:28:03 PM	1183.181
+FractionChange	Numerator	heartset_13		5		4/18/2017 1:28:03 PM	1183.346
+FractionChange	Numerator	heartset_13		6		4/18/2017 1:28:03 PM	1183.506
+PressFraction	HeartSets	heartset_13		6/11	(0.2479167, -1)	4/18/2017 1:28:04 PM	1184.27
+FractionPlaced	EqOp1	heartset_13		6/11		4/18/2017 1:28:05 PM	1184.797
+ReleaseFraction	HeartSets	heartset_13		6/11	(0.2479167, -1)	4/18/2017 1:28:05 PM	1184.797
+FractionChange	Numerator	heartset_13		5		4/18/2017 1:28:06 PM	1186.469
+PressFraction	HeartSets	heartset_13		5/11	(0.2479167, -1)	4/18/2017 1:28:07 PM	1186.947
+OperationResult	Equivalence			>		4/18/2017 1:28:07 PM	1187.582
+FractionPlaced	EqOp2	heartset_13		5/11		4/18/2017 1:28:07 PM	1187.582
+ReleaseFraction	HeartSets	heartset_13		5/11	(0.2479167, -1)	4/18/2017 1:28:07 PM	1187.582
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:28:11 PM		4/18/2017 1:28:11 PM	1190.746
+ClickButton	Lab					4/18/2017 1:28:11 PM	1190.746
+ClickButton	OpenTaskDescription					4/18/2017 1:28:14 PM	1193.636
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:28:14 PM	1194.585
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:28:15 PM	1195.362
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:28:15 PM	1195.573
+ClickButton	Lab					4/18/2017 1:28:17 PM	1197.119
+ClickButton	NumberedLines					4/18/2017 1:28:22 PM	1201.815
+FractionGenerated	NumberedLines	line_14				4/18/2017 1:28:22 PM	1201.815
+FractionChange	Denominator	line_14		1		4/18/2017 1:28:24 PM	1204.071
+FractionChange	Denominator	line_14		2		4/18/2017 1:28:26 PM	1205.73
+FractionChange	Denominator	line_14		3		4/18/2017 1:28:26 PM	1205.911
+FractionChange	Denominator	line_14		4		4/18/2017 1:28:26 PM	1206.165
+PressFraction	NumberedLines	line_14		0/4	(1.3125, 1)	4/18/2017 1:28:27 PM	1206.732
+ReleaseFraction	NumberedLines	line_14		0/4	(1.3125, 1)	4/18/2017 1:28:27 PM	1206.806
+FractionChange	Numerator	line_14		1		4/18/2017 1:28:27 PM	1207.477
+PressFraction	NumberedLines	line_14		1/4	(1.3125, 1)	4/18/2017 1:28:28 PM	1207.928
+ReleaseFraction	NumberedLines	line_14		1/4	(4.966667, -3.6)	4/18/2017 1:28:31 PM	1210.879
+ClickButton	3OperandTab					4/18/2017 1:28:32 PM	1212.02
+PressFraction	NumberedLines	line_14		1/4	(4.966667, -3.6)	4/18/2017 1:28:33 PM	1212.692
+FractionPlaced	SumOp1	line_14		1/4		4/18/2017 1:28:34 PM	1213.789
+ReleaseFraction	NumberedLines	line_14		1/4	(4.966667, -3.6)	4/18/2017 1:28:34 PM	1213.789
+PressFraction	NumberedLines	line_14		1/4	(4.966667, -3.6)	4/18/2017 1:28:35 PM	1215.369
+ReleaseFraction	NumberedLines	line_14		1/4	(4.833333, -3.533334)	4/18/2017 1:28:35 PM	1215.493
+PressFraction	NumberedLines	line_14		1/4	(4.833333, -3.533334)	4/18/2017 1:28:36 PM	1215.929
+ReleaseFraction	NumberedLines	line_14		1/4	(2.699999, -3.633333)	4/18/2017 1:28:37 PM	1216.818
+PressFraction	NumberedLines	line_14		1/4	(2.699999, -3.633333)	4/18/2017 1:28:38 PM	1218.069
+ReleaseFraction	NumberedLines	line_14		1/4	(2.699999, -3.5)	4/18/2017 1:28:38 PM	1218.195
+FractionChange	Denominator	line_14		3		4/18/2017 1:28:39 PM	1219.119
+PressFraction	NumberedLines	line_14		1/3	(2.699999, -3.5)	4/18/2017 1:28:39 PM	1219.587
+FractionPlaced	SumOp2	line_14		1/3		4/18/2017 1:28:40 PM	1220.404
+ReleaseFraction	NumberedLines	line_14		1/3	(2.699999, -3.5)	4/18/2017 1:28:40 PM	1220.404
+FractionChange	Denominator	line_14		2		4/18/2017 1:28:52 PM	1232.063
+FractionChange	Denominator	line_14		3		4/18/2017 1:28:53 PM	1232.644
+FractionChange	Denominator	line_14		4		4/18/2017 1:28:53 PM	1232.801
+FractionChange	Denominator	line_14		5		4/18/2017 1:28:53 PM	1232.972
+FractionChange	Denominator	line_14		6		4/18/2017 1:28:53 PM	1233.129
+FractionChange	Denominator	line_14		7		4/18/2017 1:28:53 PM	1233.268
+PressFraction	NumberedLines	line_14		1/7	(2.699999, -3.5)	4/18/2017 1:28:54 PM	1234.121
+ReleaseFraction	NumberedLines	line_14		1/7	(2.699999, -3.5)	4/18/2017 1:28:54 PM	1234.187
+FractionChange	Numerator	line_14		2		4/18/2017 1:28:55 PM	1234.736
+PressFraction	NumberedLines	line_14		2/7	(2.699999, -3.5)	4/18/2017 1:28:55 PM	1235.029
+OperationResult	Sum			>		4/18/2017 1:28:55 PM	1235.602
+FractionPlaced	SumRes	line_14		2/7		4/18/2017 1:28:55 PM	1235.602
+ReleaseFraction	NumberedLines	line_14		2/7	(2.699999, -3.5)	4/18/2017 1:28:55 PM	1235.602
+ClickButton	OpenTaskDescription					4/18/2017 1:28:58 PM	1238.068
+PopupAfterTaskReflection						4/18/2017 1:28:59 PM	1238.721
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:29:02 PM		4/18/2017 1:29:02 PM	1242.391
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:29:02 PM		4/18/2017 1:29:02 PM	1242.552
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:29:03 PM		4/18/2017 1:29:03 PM	1242.72
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:04 PM		4/18/2017 1:29:04 PM	1244.316
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:04 PM		4/18/2017 1:29:04 PM	1244.507
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:05 PM		4/18/2017 1:29:05 PM	1245.422
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:29:06 PM		4/18/2017 1:29:06 PM	1245.997
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:07 PM		4/18/2017 1:29:07 PM	1247.453
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/18/2017 1:29:09 PM		4/18/2017 1:29:09 PM	1249.235
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:29:10 PM		4/18/2017 1:29:10 PM	1250.277
+ClickButton	Lab					4/18/2017 1:29:10 PM	1250.277
+ClickButton	Shape/VRects					4/18/2017 1:29:20 PM	1260.453
+FractionGenerated	VRects	vrect_15				4/18/2017 1:29:20 PM	1260.453
+FractionChange	Denominator	vrect_15		1		4/18/2017 1:29:21 PM	1261.356
+FractionChange	Denominator	vrect_15		2		4/18/2017 1:29:21 PM	1261.527
+FractionChange	Denominator	vrect_15		3		4/18/2017 1:29:22 PM	1261.643
+PressFraction	VRects	vrect_15		0/3	(2.125, 0)	4/18/2017 1:29:22 PM	1262.252
+ReleaseFraction	VRects	vrect_15		0/3	(2.125, 0)	4/18/2017 1:29:22 PM	1262.325
+FractionChange	Numerator	vrect_15		0		4/18/2017 1:29:23 PM	1263.169
+FractionChange	Numerator	vrect_15		0		4/18/2017 1:29:23 PM	1263.334
+FractionChange	Numerator	vrect_15		0		4/18/2017 1:29:23 PM	1263.487
+FractionChange	Numerator	vrect_15		0		4/18/2017 1:29:24 PM	1263.645
+FractionChange	Numerator	vrect_15		0		4/18/2017 1:29:24 PM	1263.81
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:29:24 PM	1264.468
+ClickButton	Lab					4/18/2017 1:29:25 PM	1265.614
+PressFraction	VRects	vrect_15		0/3	(2.125, 0)	4/18/2017 1:29:26 PM	1266.467
+ReleaseFraction	VRects	vrect_15		0/3	(3.158334, -2.9)	4/18/2017 1:29:27 PM	1267.158
+ClickButton	3OperandTab					4/18/2017 1:29:28 PM	1267.891
+PressFraction	VRects	vrect_15		0/3	(3.158334, -2.9)	4/18/2017 1:29:29 PM	1269.008
+ReleaseFraction	VRects	vrect_15		0/3	(3.158334, -2.9)	4/18/2017 1:29:29 PM	1269.103
+FractionChange	Numerator	vrect_15		1		4/18/2017 1:29:30 PM	1269.63
+FractionChange	Numerator	vrect_15		2		4/18/2017 1:29:30 PM	1269.898
+PressFraction	VRects	vrect_15		2/3	(3.158334, -2.9)	4/18/2017 1:29:30 PM	1270.27
+FractionPlaced	SumOp1	vrect_15		2/3		4/18/2017 1:29:31 PM	1271.145
+ReleaseFraction	VRects	vrect_15		2/3	(3.158334, -2.9)	4/18/2017 1:29:31 PM	1271.145
+PressFraction	VRects	vrect_15		2/3	(3.158334, -2.9)	4/18/2017 1:29:32 PM	1272.507
+ReleaseFraction	VRects	vrect_15		2/3	(3.158334, -2.9)	4/18/2017 1:29:32 PM	1272.605
+FractionChange	Numerator	vrect_15		3		4/18/2017 1:29:33 PM	1273.146
+FractionChange	Numerator	vrect_15		4		4/18/2017 1:29:33 PM	1273.304
+FractionChange	Numerator	vrect_15		5		4/18/2017 1:29:33 PM	1273.416
+PressFraction	VRects	vrect_15		5/3	(3.158334, -2.9)	4/18/2017 1:29:34 PM	1273.653
+FractionPlaced	SumOp2	vrect_15		5/3		4/18/2017 1:29:34 PM	1274.562
+ReleaseFraction	VRects	vrect_15		5/3	(3.158334, -2.9)	4/18/2017 1:29:34 PM	1274.562
+PressFraction	VRects	vrect_15		5/3	(3.158334, -2.9)	4/18/2017 1:29:36 PM	1275.68
+OperationResult	Sum			>		4/18/2017 1:29:36 PM	1276.17
+FractionPlaced	SumRes	vrect_15		5/3		4/18/2017 1:29:36 PM	1276.17
+ReleaseFraction	VRects	vrect_15		5/3	(3.158334, -2.9)	4/18/2017 1:29:36 PM	1276.17
+ClickButton	OpenTaskDescription					4/18/2017 1:29:38 PM	1278.173
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:29:39 PM	1278.813
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:29:40 PM	1279.779
+PopupAfterTaskReflection						4/18/2017 1:29:40 PM	1279.939
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:29:43 PM		4/18/2017 1:29:43 PM	1282.839
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:45 PM		4/18/2017 1:29:45 PM	1284.729
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:45 PM		4/18/2017 1:29:45 PM	1284.914
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:46 PM		4/18/2017 1:29:46 PM	1286.481
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:47 PM		4/18/2017 1:29:47 PM	1286.647
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	（我不知道）	4/18/2017 1:29:48 PM		4/18/2017 1:29:48 PM	1287.661
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:29:48 PM		4/18/2017 1:29:48 PM	1288.323
+ClickButton	Lab					4/18/2017 1:29:48 PM	1288.323
+ClickButton	NumberedLines					4/18/2017 1:29:59 PM	1299.105
+FractionGenerated	NumberedLines	line_16				4/18/2017 1:29:59 PM	1299.105
+PressFraction	NumberedLines	line_16		0/0	(1.3125, -1)	4/18/2017 1:30:00 PM	1299.895
+ReleaseFraction	NumberedLines	line_16		0/0	(2.979167, -2.2)	4/18/2017 1:30:00 PM	1300.386
+FractionChange	Denominator	line_16		1		4/18/2017 1:30:01 PM	1300.784
+FractionChange	Denominator	line_16		2		4/18/2017 1:30:01 PM	1300.967
+FractionChange	Denominator	line_16		3		4/18/2017 1:30:01 PM	1301.108
+PressFraction	NumberedLines	line_16		0/3	(2.979167, -2.2)	4/18/2017 1:30:02 PM	1301.657
+ReleaseFraction	NumberedLines	line_16		0/3	(2.979167, -2.2)	4/18/2017 1:30:02 PM	1301.75
+FractionChange	Numerator	line_16		0		4/18/2017 1:30:02 PM	1302.429
+FractionChange	Numerator	line_16		1		4/18/2017 1:30:03 PM	1302.972
+ClickButton	Lab					4/18/2017 1:30:05 PM	1305.183
+ClickButton	3OperandTab					4/18/2017 1:30:06 PM	1306.204
+PressFraction	NumberedLines	line_16		1/3	(2.979167, -2.2)	4/18/2017 1:30:07 PM	1306.772
+FractionPlaced	SumOp1	line_16		1/3		4/18/2017 1:30:08 PM	1307.659
+ReleaseFraction	NumberedLines	line_16		1/3	(2.979167, -2.2)	4/18/2017 1:30:08 PM	1307.659
+PressFraction	NumberedLines	line_16		1/3	(2.979167, -2.2)	4/18/2017 1:30:08 PM	1308.419
+FractionPlaced	SumOp2	line_16		1/3		4/18/2017 1:30:09 PM	1308.936
+ReleaseFraction	NumberedLines	line_16		1/3	(2.979167, -2.2)	4/18/2017 1:30:09 PM	1308.936
+PressFraction	NumberedLines	line_16		1/3	(2.979167, -2.2)	4/18/2017 1:30:10 PM	1309.72
+OperationResult	Sum			>		4/18/2017 1:30:10 PM	1310.197
+FractionPlaced	SumRes	line_16		1/3		4/18/2017 1:30:10 PM	1310.197
+ReleaseFraction	NumberedLines	line_16		1/3	(2.979167, -2.2)	4/18/2017 1:30:10 PM	1310.197
+ClickButton	OpenTaskDescription					4/18/2017 1:30:13 PM	1313.022
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:30:13 PM	1313.592
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:30:14 PM	1314.503
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:30:15 PM	1314.702
+PopupAfterTaskReflection						4/18/2017 1:30:15 PM	1314.888
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/18/2017 1:30:16 PM		4/18/2017 1:30:16 PM	1316.268
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/18/2017 1:30:17 PM		4/18/2017 1:30:17 PM	1317.414
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:30:18 PM		4/18/2017 1:30:18 PM	1318.23
+ClickButton	Lab					4/18/2017 1:30:18 PM	1318.23
+ClickButton	Shape/VRects					4/18/2017 1:30:35 PM	1334.721
+FractionGenerated	VRects	vrect_17				4/18/2017 1:30:35 PM	1334.721
+PressFraction	VRects	vrect_17		0/0	(0.125, 0)	4/18/2017 1:30:35 PM	1335.39
+ReleaseFraction	VRects	vrect_17		0/0	(4.358334, -1.2)	4/18/2017 1:30:36 PM	1335.884
+PressFraction	VRects	vrect_17		0/0	(4.358334, -1.2)	4/18/2017 1:30:37 PM	1337.387
+ReleaseFraction	VRects	vrect_17		0/0	(4.358334, -1.2)	4/18/2017 1:30:37 PM	1337.481
+FractionChange	Denominator	vrect_17		1		4/18/2017 1:30:39 PM	1338.869
+PressFraction	VRects	vrect_17		0/1	(4.358334, -1.2)	4/18/2017 1:30:39 PM	1339.589
+ReleaseFraction	VRects	vrect_17		0/1	(4.358334, -1.166667)	4/18/2017 1:30:40 PM	1339.662
+PressFraction	VRects	vrect_17		0/1	(4.358334, -1.166667)	4/18/2017 1:30:40 PM	1339.917
+ReleaseFraction	VRects	vrect_17		0/1	(4.358334, -1.166667)	4/18/2017 1:30:40 PM	1339.995
+FractionChange	Numerator	vrect_17		1		4/18/2017 1:30:41 PM	1340.919
+FractionChange	Numerator	vrect_17		2		4/18/2017 1:30:41 PM	1341.071
+FractionChange	Numerator	vrect_17		3		4/18/2017 1:30:41 PM	1341.219
+ClickButton	Lab					4/18/2017 1:30:44 PM	1343.938
+ClickButton	3OperandTab					4/18/2017 1:30:45 PM	1345.413
+PressFraction	VRects	vrect_17		3/1	(4.358334, -1.166667)	4/18/2017 1:30:46 PM	1345.854
+FractionPlaced	SumOp1	vrect_17		3/1		4/18/2017 1:30:46 PM	1346.514
+ReleaseFraction	VRects	vrect_17		3/1	(4.358334, -1.166667)	4/18/2017 1:30:46 PM	1346.514
+PressFraction	VRects	vrect_17		3/1	(4.358334, -1.166667)	4/18/2017 1:30:47 PM	1346.989
+FractionPlaced	SumOp2	vrect_17		3/1		4/18/2017 1:30:47 PM	1347.455
+ReleaseFraction	VRects	vrect_17		3/1	(4.358334, -1.166667)	4/18/2017 1:30:47 PM	1347.455
+PressFraction	VRects	vrect_17		3/1	(4.358334, -1.166667)	4/18/2017 1:30:48 PM	1347.921
+OperationResult	Sum			>		4/18/2017 1:30:48 PM	1348.367
+FractionPlaced	SumRes	vrect_17		3/1		4/18/2017 1:30:48 PM	1348.367
+ReleaseFraction	VRects	vrect_17		3/1	(4.358334, -1.166667)	4/18/2017 1:30:48 PM	1348.367
+ClickButton	OpenTaskDescription					4/18/2017 1:30:50 PM	1350.204
+TaskChange_warningMessage	ClickForward			1		4/18/2017 1:30:51 PM	1350.904
+TaskChange_warningMessage	ClickForward			2		4/18/2017 1:30:51 PM	1351.072
+TaskChange_warningMessage	ClickForward			3		4/18/2017 1:30:51 PM	1351.225
+PopupAfterTaskReflection						4/18/2017 1:30:51 PM	1351.379
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	困难	4/18/2017 1:30:55 PM		4/18/2017 1:30:55 PM	1355.438
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我头疼	4/18/2017 1:30:57 PM		4/18/2017 1:30:57 PM	1357.19
+PopupAfterTaskReflection_Response	ContinueSelected			4/18/2017 1:31:01 PM		4/18/2017 1:31:01 PM	1361.357
+ClickButton	Lab					4/18/2017 1:31:01 PM	1361.357
+ClickButton	Lab					4/18/2017 1:31:08 PM	1368.117
+ClickButton	3OperandTab					4/18/2017 1:31:10 PM	1369.705
+ClickButton	Shape/VRects					4/18/2017 1:31:13 PM	1373.32
+FractionGenerated	VRects	vrect_18				4/18/2017 1:31:13 PM	1373.32
+PressFraction	VRects	vrect_18		0/0	(1.125, 0)	4/18/2017 1:31:14 PM	1373.921
+ReleaseFraction	VRects	vrect_18		0/0	(3.358334, -3.666667)	4/18/2017 1:31:15 PM	1374.818
+FractionChange	Denominator	vrect_18		1		4/18/2017 1:31:16 PM	1376.433
+FractionChange	Denominator	vrect_18		2		4/18/2017 1:31:16 PM	1376.628
+FractionChange	Denominator	vrect_18		3		4/18/2017 1:31:17 PM	1376.809
+FractionChange	Denominator	vrect_18		4		4/18/2017 1:31:17 PM	1376.972
+FractionChange	Denominator	vrect_18		5		4/18/2017 1:31:17 PM	1377.135
+FractionChange	Denominator	vrect_18		6		4/18/2017 1:31:17 PM	1377.309
+FractionChange	Denominator	vrect_18		5		4/18/2017 1:31:18 PM	1378.401
+PressFraction	VRects	vrect_18		0/5	(3.358334, -3.666667)	4/18/2017 1:31:19 PM	1378.817
+ReleaseFraction	VRects	vrect_18		0/5	(3.358334, -3.666667)	4/18/2017 1:31:19 PM	1378.915
+FractionChange	Numerator	vrect_18		1		4/18/2017 1:31:19 PM	1379.531
+PressFraction	VRects	vrect_18		1/5	(3.358334, -3.666667)	4/18/2017 1:31:20 PM	1380.305
+FractionPlaced	SumOp1	vrect_18		1/5		4/18/2017 1:31:21 PM	1381.459
+ReleaseFraction	VRects	vrect_18		1/5	(3.358334, -3.666667)	4/18/2017 1:31:21 PM	1381.459
+FractionChange	Numerator	vrect_18		2		4/18/2017 1:31:22 PM	1382.495
+PressFraction	VRects	vrect_18		2/5	(3.358334, -3.666667)	4/18/2017 1:31:23 PM	1382.806
+FractionPlaced	SumOp2	vrect_18		2/5		4/18/2017 1:31:23 PM	1383.474
+ReleaseFraction	VRects	vrect_18		2/5	(3.358334, -3.666667)	4/18/2017 1:31:23 PM	1383.474
+FractionChange	Numerator	vrect_18		3		4/18/2017 1:31:25 PM	1384.716
+PressFraction	VRects	vrect_18		3/5	(3.358334, -3.666667)	4/18/2017 1:31:25 PM	1384.993
+OperationResult	Sum			=		4/18/2017 1:31:25 PM	1385.609
+FractionPlaced	SumRes	vrect_18		3/5		4/18/2017 1:31:25 PM	1385.609
+ReleaseFraction	VRects	vrect_18		3/5	(3.358334, -3.666667)	4/18/2017 1:31:25 PM	1385.609
+EndStateReached						4/18/2017 1:31:28 PM	1388.615
+EndStateReached						4/18/2017 1:31:28 PM	1388.615
+EndStateReached						4/18/2017 1:31:28 PM	1388.615
+TaskReset						4/18/2017 1:32:23 PM	1443.539
+ClickButton	Lab					4/18/2017 1:32:23 PM	1443.539
+EndStateReached						4/18/2017 1:32:26 PM	1446.54
+EndStateReached						4/18/2017 1:32:26 PM	1446.54
+ClickButton	HideRepresentaionToolbar					4/18/2017 1:38:34 PM	1813.858
+EndStateReached						4/18/2017 1:38:37 PM	1816.859

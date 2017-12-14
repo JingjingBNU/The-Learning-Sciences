@@ -1,0 +1,57 @@
+﻿{
+  "initial_model": [
+    
+  ],
+  "initial_configuration": [
+    {
+      "item": "lab",
+      "active": true
+    },
+    {
+      "item": "lines",
+      "active": true
+    },
+    {
+      "item": "rectangles",
+      "active": true
+    },
+    {
+      "item": "sets",
+      "active": true
+    },
+    {
+      "item": "liquids",
+      "active": true
+    },
+    {
+      "item": "change_color",
+      "active": true
+    },
+    {
+      "item": "copy",
+      "active": true
+    },
+    {
+      "item": "partition",
+      "active": true
+    },
+    {
+      "item": "add",
+      "active": true
+    },
+    {
+      "item": "subtract",
+      "active": true
+    }
+  ],
+  "extra_information": {
+  },
+  "task_description": {
+    "title": "",
+    "desctiption": "你是否同意以下说法：3/4等于1/12，因为3 x 4 = 12（可用右侧的图形和上部天平里的“对比”）",
+    "endStateMessage": "恭喜！ 你证明了3/4不等于1/12。",
+    "genericFeedback": "你需要对分子和分母做些什么？",
+    "feedbackDelayTime": 10,
+    "showAtStartup": "true"
+  }  
+}

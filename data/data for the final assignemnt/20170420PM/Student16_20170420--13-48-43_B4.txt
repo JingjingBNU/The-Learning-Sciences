@@ -1,0 +1,38 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		16	0ad6f5902531d29105251c10dc2d4b3ed36216f4	4/20/2017 1:48:43 PM		4/20/2017 1:50:32 PM	105.1717
+ClickButton	LiquidMeasures					4/20/2017 1:53:00 PM	253.1975
+FractionGenerated	LiquidMeasures	liquid_1				4/20/2017 1:53:00 PM	253.1975
+PressFraction	LiquidMeasures	liquid_1		0/0	(-0.0625, 0)	4/20/2017 1:53:20 PM	273.4141
+ReleaseFraction	LiquidMeasures	liquid_1		0/0	(-0.02916646, -0.03333333)	4/20/2017 1:53:20 PM	273.5731
+PressFraction	LiquidMeasures	liquid_1		0/0	(-0.02916646, -0.03333333)	4/20/2017 1:53:21 PM	274.3412
+ReleaseFraction	LiquidMeasures	liquid_1		0/0	(-0.02916646, -0.03333333)	4/20/2017 1:53:21 PM	274.4692
+FractionChange	Denominator	liquid_1		1		4/20/2017 1:53:22 PM	275.5663
+FractionChange	Denominator	liquid_1		2		4/20/2017 1:53:23 PM	275.8372
+FractionChange	Denominator	liquid_1		3		4/20/2017 1:53:23 PM	276.0634
+FractionChange	Denominator	liquid_1		4		4/20/2017 1:53:23 PM	276.2873
+FractionChange	Denominator	liquid_1		5		4/20/2017 1:53:23 PM	276.4933
+FractionChange	Denominator	liquid_1		6		4/20/2017 1:53:23 PM	276.7094
+FractionChange	Denominator	liquid_1		7		4/20/2017 1:53:24 PM	276.9092
+FractionChange	Denominator	liquid_1		8		4/20/2017 1:53:24 PM	277.1262
+PressFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333333)	4/20/2017 1:53:29 PM	281.8306
+ReleaseFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333336)	4/20/2017 1:53:29 PM	281.9415
+PressFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333336)	4/20/2017 1:53:31 PM	284.4945
+ReleaseFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333336)	4/20/2017 1:53:31 PM	284.6378
+PressFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333336)	4/20/2017 1:53:32 PM	285.2936
+ReleaseFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333336)	4/20/2017 1:53:32 PM	285.4127
+PressFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333336)	4/20/2017 1:53:42 PM	295.621
+ReleaseFraction	LiquidMeasures	liquid_1		0/8	(-0.02916646, -0.03333336)	4/20/2017 1:53:42 PM	295.773
+FractionChange	Numerator	liquid_1		1		4/20/2017 1:53:44 PM	297.6762
+FractionChange	Numerator	liquid_1		2		4/20/2017 1:53:45 PM	297.885
+FractionChange	Numerator	liquid_1		3		4/20/2017 1:53:45 PM	298.0861
+FractionChange	Numerator	liquid_1		4		4/20/2017 1:53:45 PM	298.327
+EndStateReached						4/20/2017 1:53:48 PM	301.3282
+PopupAfterTaskReflection						4/20/2017 1:54:16 PM	329.3235
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/20/2017 1:54:44 PM		4/20/2017 1:54:44 PM	357.0108
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	困难	4/20/2017 1:54:46 PM		4/20/2017 1:54:46 PM	358.779
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/20/2017 1:54:46 PM		4/20/2017 1:54:46 PM	359.3472
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我乐在其中	4/20/2017 1:54:58 PM		4/20/2017 1:54:58 PM	371.1165
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/20/2017 1:54:58 PM		4/20/2017 1:54:58 PM	371.7465
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	让我乐在其中	4/20/2017 1:55:00 PM		4/20/2017 1:55:00 PM	372.8776
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/20/2017 1:55:05 PM		4/20/2017 1:55:05 PM	378.4037
+PopupAfterTaskReflection_Response	ContinueSelected			4/20/2017 1:55:25 PM		4/20/2017 1:55:25 PM	398.3463

@@ -1,0 +1,202 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		28	b343ddeabe69b59d1d89f4538fbcdec15bcb5eb5	4/19/2017 2:26:01 PM		4/19/2017 2:26:19 PM	16.68708
+ClickButton	LiquidMeasures					4/19/2017 2:26:24 PM	21.99207
+FractionGenerated	LiquidMeasures	liquid_1				4/19/2017 2:26:24 PM	21.99207
+FractionChange	Denominator	liquid_1		1		4/19/2017 2:26:25 PM	23.03215
+FractionChange	Denominator	liquid_1		2		4/19/2017 2:26:25 PM	23.24811
+FractionChange	Denominator	liquid_1		3		4/19/2017 2:26:25 PM	23.47308
+FractionChange	Denominator	liquid_1		4		4/19/2017 2:26:26 PM	23.70409
+FractionChange	Denominator	liquid_1		5		4/19/2017 2:26:26 PM	23.9522
+FractionChange	Denominator	liquid_1		6		4/19/2017 2:26:26 PM	24.22397
+FractionChange	Denominator	liquid_1		7		4/19/2017 2:26:26 PM	24.47213
+FractionChange	Denominator	liquid_1		8		4/19/2017 2:26:27 PM	24.71219
+FractionChange	Denominator	liquid_1		9		4/19/2017 2:26:27 PM	24.96006
+FractionChange	Denominator	liquid_1		10		4/19/2017 2:26:27 PM	25.21712
+FractionChange	Denominator	liquid_1		11		4/19/2017 2:26:27 PM	25.45609
+FractionChange	Denominator	liquid_1		12		4/19/2017 2:26:28 PM	25.72915
+FractionChange	Denominator	liquid_1		13		4/19/2017 2:26:28 PM	25.9771
+FractionChange	Denominator	liquid_1		14		4/19/2017 2:26:28 PM	26.22518
+FractionChange	Denominator	liquid_1		15		4/19/2017 2:26:28 PM	26.47206
+FractionChange	Denominator	liquid_1		16		4/19/2017 2:26:29 PM	26.70516
+FractionChange	Denominator	liquid_1		17		4/19/2017 2:26:29 PM	26.95222
+FractionChange	Denominator	liquid_1		18		4/19/2017 2:26:29 PM	27.19209
+FractionChange	Denominator	liquid_1		19		4/19/2017 2:26:29 PM	27.42413
+FractionChange	Denominator	liquid_1		20		4/19/2017 2:26:30 PM	27.67214
+FractionChange	Denominator	liquid_1		21		4/19/2017 2:26:30 PM	27.9201
+PressFraction	LiquidMeasures	liquid_1		0/21	(1.9375, 0)	4/19/2017 2:26:31 PM	28.80925
+FractionChange	Numerator	liquid_1		1		4/19/2017 2:26:31 PM	28.9611
+ReleaseFraction	LiquidMeasures	liquid_1		1/21	(1.970833, 0)	4/19/2017 2:26:31 PM	28.9611
+ClickButton	Tool/Copy					4/19/2017 2:26:33 PM	30.70323
+FractionGenerated	LiquidMeasures	liquid_2				4/19/2017 2:26:33 PM	30.70323
+PressFraction	LiquidMeasures	liquid_2		1/21	(0.9708333, 1)	4/19/2017 2:26:33 PM	31.48018
+ReleaseFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:34 PM	31.88726
+PressFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:34 PM	32.38315
+ReleaseFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:34 PM	32.52821
+SecActionFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:35 PM	33.07114
+ClickButton	Tool/ChangeColour					4/19/2017 2:26:36 PM	34.42427
+ClickButton	Tool/ChangeColour					4/19/2017 2:26:38 PM	36.08025
+PressFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:39 PM	36.86316
+ReleaseFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:39 PM	36.95918
+SecActionFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:40 PM	37.71909
+ClickButton	Tool/Highlight					4/19/2017 2:26:41 PM	39.10308
+HighlightFraction	LiquidMeasures	liquid_2				4/19/2017 2:26:41 PM	39.10308
+PressFraction	LiquidMeasures	liquid_2		1/21	(-3.995834, 2.133333)	4/19/2017 2:26:42 PM	39.81721
+ReleaseFraction	LiquidMeasures	liquid_2		1/21	(-4.962501, 0.9000001)	4/19/2017 2:26:42 PM	40.39127
+PressFraction	LiquidMeasures	liquid_2		1/21	(-4.962501, 0.9000001)	4/19/2017 2:26:43 PM	40.77529
+ReleaseFraction	LiquidMeasures	liquid_2		1/21	(-4.962501, 0.9000001)	4/19/2017 2:26:43 PM	40.89627
+SecActionFraction	LiquidMeasures	liquid_2		1/21	(-4.962501, 0.9000001)	4/19/2017 2:26:43 PM	41.36716
+ClickButton	Tool/FindEquivalence					4/19/2017 2:26:45 PM	42.97629
+EquivalenceGenerated	Liquid	liquid_2_eq1				4/19/2017 2:26:45 PM	42.97629
+FractionChange	Numerator	liquid_2_eq1		1		4/19/2017 2:26:45 PM	42.97629
+FractionChange	Denominator	liquid_2_eq1		21		4/19/2017 2:26:45 PM	42.97629
+PressFraction	LiquidMeasures	liquid_2_eq1		1/21	(-4.962501, -2.763963)	4/19/2017 2:26:46 PM	43.69529
+ReleaseFraction	LiquidMeasures	liquid_2_eq1		1/21	(2.704167, -5.330629)	4/19/2017 2:26:46 PM	44.23134
+PressFraction	LiquidMeasures	liquid_2_eq1		1/21	(2.704167, -5.330629)	4/19/2017 2:26:47 PM	44.65435
+ReleaseFraction	LiquidMeasures	liquid_2_eq1		1/21	(-2.1625, -4.83063)	4/19/2017 2:26:47 PM	45.33438
+PressFraction	LiquidMeasures	liquid_2_eq1		1/21	(-2.1625, -4.83063)	4/19/2017 2:26:48 PM	46.16028
+FractionChange	Partitions	liquid_2_eq1		2		4/19/2017 2:26:49 PM	47.07141
+FractionChange	Partitions	liquid_2_eq1		3		4/19/2017 2:26:49 PM	47.3274
+FractionChange	Partitions	liquid_2_eq1		4		4/19/2017 2:26:49 PM	47.51847
+FractionChange	Partitions	liquid_2_eq1		5		4/19/2017 2:26:50 PM	47.74246
+FractionChange	Partitions	liquid_2_eq1		6		4/19/2017 2:26:50 PM	47.96039
+FractionChange	Partitions	liquid_2_eq1		7		4/19/2017 2:26:50 PM	48.18239
+FractionChange	Partitions	liquid_2_eq1		8		4/19/2017 2:26:50 PM	48.41643
+FractionChange	Partitions	liquid_2_eq1		9		4/19/2017 2:26:51 PM	48.63945
+FractionChange	Partitions	liquid_2_eq1		10		4/19/2017 2:26:51 PM	48.87842
+FractionChange	Partitions	liquid_2_eq1		11		4/19/2017 2:26:51 PM	49.11012
+FractionChange	Partitions	liquid_2_eq1		12		4/19/2017 2:26:51 PM	49.34254
+FractionChange	Partitions	liquid_2_eq1		13		4/19/2017 2:26:52 PM	49.60619
+FractionChange	Partitions	liquid_2_eq1		14		4/19/2017 2:26:52 PM	49.83863
+FractionChange	Partitions	liquid_2_eq1		15		4/19/2017 2:26:52 PM	50.07963
+FractionChange	Partitions	liquid_2_eq1		16		4/19/2017 2:26:52 PM	50.31858
+FractionChange	Partitions	liquid_2_eq1		17		4/19/2017 2:26:53 PM	50.57401
+FractionChange	Partitions	liquid_2_eq1		18		4/19/2017 2:26:53 PM	50.7915
+FractionChange	Partitions	liquid_2_eq1		19		4/19/2017 2:26:53 PM	51.02208
+FractionChange	Partitions	liquid_2_eq1		20		4/19/2017 2:26:53 PM	51.2714
+PressFraction	LiquidMeasures	liquid_1		1/21	(1.970833, 0)	4/19/2017 2:26:54 PM	51.77534
+ReleaseFraction	LiquidMeasures	liquid_1		1/21	(1.970833, 0)	4/19/2017 2:26:54 PM	51.90198
+FractionChange	Denominator	liquid_1		22		4/19/2017 2:26:54 PM	52.53466
+FractionChange	Denominator	liquid_1		23		4/19/2017 2:26:55 PM	52.76648
+FractionChange	Denominator	liquid_1		24		4/19/2017 2:26:55 PM	52.98196
+FractionChange	Denominator	liquid_1		25		4/19/2017 2:26:55 PM	53.21588
+FractionChange	Denominator	liquid_1		26		4/19/2017 2:26:55 PM	53.46209
+FractionChange	Denominator	liquid_1		27		4/19/2017 2:26:56 PM	53.70208
+FractionChange	Denominator	liquid_1		28		4/19/2017 2:26:56 PM	53.93459
+FractionChange	Denominator	liquid_1		29		4/19/2017 2:26:56 PM	54.17415
+FractionChange	Denominator	liquid_1		30		4/19/2017 2:26:56 PM	54.39893
+FractionChange	Denominator	liquid_1		31		4/19/2017 2:26:57 PM	54.63867
+FractionChange	Denominator	liquid_1		32		4/19/2017 2:26:57 PM	54.88633
+FractionChange	Denominator	liquid_1		33		4/19/2017 2:26:57 PM	55.13514
+FractionChange	Denominator	liquid_1		34		4/19/2017 2:26:57 PM	55.38998
+FractionChange	Denominator	liquid_1		35		4/19/2017 2:26:58 PM	55.63199
+FractionChange	Denominator	liquid_1		36		4/19/2017 2:26:58 PM	55.88706
+FractionChange	Denominator	liquid_1		37		4/19/2017 2:26:58 PM	56.15816
+FractionChange	Denominator	liquid_1		38		4/19/2017 2:26:58 PM	56.42208
+FractionChange	Denominator	liquid_1		39		4/19/2017 2:26:59 PM	56.6938
+FractionChange	Denominator	liquid_1		40		4/19/2017 2:26:59 PM	56.9337
+FractionChange	Denominator	liquid_1		41		4/19/2017 2:26:59 PM	57.1901
+FractionChange	Denominator	liquid_1		42		4/19/2017 2:26:59 PM	57.48751
+FractionChange	Denominator	liquid_1		43		4/19/2017 2:27:00 PM	57.77392
+FractionChange	Denominator	liquid_1		44		4/19/2017 2:27:00 PM	58.046
+FractionChange	Denominator	liquid_1		45		4/19/2017 2:27:00 PM	58.32668
+FractionChange	Denominator	liquid_1		46		4/19/2017 2:27:01 PM	58.59801
+FractionChange	Denominator	liquid_1		47		4/19/2017 2:27:01 PM	58.89499
+FractionChange	Denominator	liquid_1		48		4/19/2017 2:27:01 PM	59.1666
+FractionChange	Denominator	liquid_1		49		4/19/2017 2:27:01 PM	59.44799
+FractionChange	Denominator	liquid_1		50		4/19/2017 2:27:02 PM	59.70966
+FractionChange	Denominator	liquid_1		51		4/19/2017 2:27:02 PM	59.97453
+FractionChange	Denominator	liquid_1		52		4/19/2017 2:27:02 PM	60.22982
+PressFraction	LiquidMeasures	liquid_2_eq1		20/420	(-2.1625, -4.83063)	4/19/2017 2:27:03 PM	61.43762
+PressFraction	LiquidMeasures	liquid_2_eq1		20/420	(-2.129167, -4.763963)	4/19/2017 2:27:04 PM	62.03212
+PressFraction	LiquidMeasures	liquid_2_eq1		20/420	(-2.129167, -4.83063)	4/19/2017 2:27:04 PM	62.38234
+FractionChange	Partitions	liquid_2_eq1		21		4/19/2017 2:27:05 PM	62.92579
+FractionChange	Partitions	liquid_2_eq1		22		4/19/2017 2:27:05 PM	63.17575
+FractionChange	Partitions	liquid_2_eq1		23		4/19/2017 2:27:05 PM	63.4374
+FractionChange	Partitions	liquid_2_eq1		24		4/19/2017 2:27:06 PM	63.68702
+FractionChange	Partitions	liquid_2_eq1		25		4/19/2017 2:27:06 PM	63.93457
+FractionChange	Partitions	liquid_2_eq1		26		4/19/2017 2:27:06 PM	64.20782
+FractionChange	Partitions	liquid_2_eq1		27		4/19/2017 2:27:06 PM	64.46394
+FractionChange	Partitions	liquid_2_eq1		28		4/19/2017 2:27:07 PM	64.73177
+FractionChange	Partitions	liquid_2_eq1		29		4/19/2017 2:27:07 PM	65.02926
+FractionChange	Partitions	liquid_2_eq1		30		4/19/2017 2:27:07 PM	65.30324
+FractionChange	Partitions	liquid_2_eq1		31		4/19/2017 2:27:07 PM	65.53358
+FractionChange	Partitions	liquid_2_eq1		32		4/19/2017 2:27:08 PM	65.81744
+FractionChange	Partitions	liquid_2_eq1		33		4/19/2017 2:27:08 PM	66.08555
+FractionChange	Partitions	liquid_2_eq1		34		4/19/2017 2:27:08 PM	66.35305
+FractionChange	Partitions	liquid_2_eq1		35		4/19/2017 2:27:09 PM	66.6335
+FractionChange	Partitions	liquid_2_eq1		36		4/19/2017 2:27:09 PM	66.89867
+FractionChange	Partitions	liquid_2_eq1		37		4/19/2017 2:27:09 PM	67.15071
+FractionChange	Partitions	liquid_2_eq1		38		4/19/2017 2:27:09 PM	67.47761
+FractionChange	Partitions	liquid_2_eq1		39		4/19/2017 2:27:10 PM	67.74181
+FractionChange	Partitions	liquid_2_eq1		40		4/19/2017 2:27:10 PM	67.99698
+FractionChange	Partitions	liquid_2_eq1		41		4/19/2017 2:27:10 PM	68.23946
+FractionChange	Partitions	liquid_2_eq1		42		4/19/2017 2:27:10 PM	68.51531
+FractionChange	Partitions	liquid_2_eq1		43		4/19/2017 2:27:11 PM	68.76636
+FractionChange	Partitions	liquid_2_eq1		44		4/19/2017 2:27:11 PM	69.03385
+FractionChange	Partitions	liquid_2_eq1		45		4/19/2017 2:27:11 PM	69.30813
+FractionChange	Partitions	liquid_2_eq1		46		4/19/2017 2:27:12 PM	69.5965
+FractionChange	Partitions	liquid_2_eq1		47		4/19/2017 2:27:12 PM	69.89735
+FractionChange	Partitions	liquid_2_eq1		48		4/19/2017 2:27:12 PM	70.21359
+FractionChange	Partitions	liquid_2_eq1		49		4/19/2017 2:27:13 PM	70.54692
+FractionChange	Partitions	liquid_2_eq1		50		4/19/2017 2:27:14 PM	71.1073
+FractionChange	Partitions	liquid_2_eq1		51		4/19/2017 2:27:16 PM	73.00111
+FractionChange	Partitions	liquid_2_eq1		50		4/19/2017 2:27:17 PM	74.37891
+FractionChange	Partitions	liquid_2_eq1		49		4/19/2017 2:27:17 PM	74.68496
+FractionChange	Partitions	liquid_2_eq1		48		4/19/2017 2:27:18 PM	75.00352
+FractionChange	Partitions	liquid_2_eq1		47		4/19/2017 2:27:18 PM	75.31328
+FractionChange	Partitions	liquid_2_eq1		46		4/19/2017 2:27:18 PM	75.66124
+FractionChange	Partitions	liquid_2_eq1		45		4/19/2017 2:27:18 PM	75.93949
+FractionChange	Partitions	liquid_2_eq1		44		4/19/2017 2:27:19 PM	76.22243
+FractionChange	Partitions	liquid_2_eq1		43		4/19/2017 2:27:19 PM	76.50255
+FractionChange	Partitions	liquid_2_eq1		42		4/19/2017 2:27:19 PM	76.78051
+FractionChange	Partitions	liquid_2_eq1		41		4/19/2017 2:27:20 PM	77.05228
+FractionChange	Partitions	liquid_2_eq1		40		4/19/2017 2:27:20 PM	77.30956
+FractionChange	Partitions	liquid_2_eq1		39		4/19/2017 2:27:20 PM	77.56772
+FractionChange	Partitions	liquid_2_eq1		38		4/19/2017 2:27:20 PM	77.82335
+FractionChange	Partitions	liquid_2_eq1		37		4/19/2017 2:27:21 PM	78.27708
+FractionChange	Partitions	liquid_2_eq1		38		4/19/2017 2:27:21 PM	78.96874
+FractionChange	Partitions	liquid_2_eq1		39		4/19/2017 2:27:22 PM	79.22137
+FractionChange	Partitions	liquid_2_eq1		40		4/19/2017 2:27:23 PM	79.79101
+FractionChange	Partitions	liquid_2_eq1		41		4/19/2017 2:27:23 PM	80.12434
+FractionChange	Partitions	liquid_2_eq1		42		4/19/2017 2:27:23 PM	80.37672
+FractionChange	Partitions	liquid_2_eq1		43		4/19/2017 2:27:24 PM	80.63564
+FractionChange	Partitions	liquid_2_eq1		44		4/19/2017 2:27:24 PM	80.90211
+FractionChange	Partitions	liquid_2_eq1		45		4/19/2017 2:27:24 PM	81.18349
+FractionChange	Partitions	liquid_2_eq1		46		4/19/2017 2:27:24 PM	81.47132
+FractionChange	Partitions	liquid_2_eq1		47		4/19/2017 2:27:25 PM	81.76519
+FractionChange	Partitions	liquid_2_eq1		48		4/19/2017 2:27:25 PM	82.07223
+FractionChange	Partitions	liquid_2_eq1		49		4/19/2017 2:27:25 PM	82.3693
+FractionChange	Partitions	liquid_2_eq1		50		4/19/2017 2:27:26 PM	82.68193
+FractionChange	Partitions	liquid_2_eq1		49		4/19/2017 2:27:31 PM	88.29665
+FractionChange	Partitions	liquid_2_eq1		48		4/19/2017 2:27:32 PM	88.96933
+FractionChange	Partitions	liquid_2_eq1		47		4/19/2017 2:27:33 PM	89.84099
+FractionChange	Partitions	liquid_2_eq1		46		4/19/2017 2:27:35 PM	92.52042
+FractionChange	Partitions	liquid_2_eq1		45		4/19/2017 2:27:36 PM	92.80401
+FractionChange	Partitions	liquid_2_eq1		44		4/19/2017 2:27:36 PM	93.10268
+FractionChange	Partitions	liquid_2_eq1		43		4/19/2017 2:27:36 PM	93.38314
+FractionChange	Partitions	liquid_2_eq1		42		4/19/2017 2:27:37 PM	93.65476
+FractionChange	Partitions	liquid_2_eq1		41		4/19/2017 2:27:37 PM	93.92064
+FractionChange	Partitions	liquid_2_eq1		40		4/19/2017 2:27:37 PM	94.17612
+FractionChange	Partitions	liquid_2_eq1		39		4/19/2017 2:27:38 PM	94.50946
+FractionChange	Partitions	liquid_2_eq1		38		4/19/2017 2:27:38 PM	94.7582
+FractionChange	Partitions	liquid_2_eq1		37		4/19/2017 2:27:39 PM	94.99274
+FractionChange	Partitions	liquid_2_eq1		36		4/19/2017 2:27:39 PM	95.22533
+FractionChange	Partitions	liquid_2_eq1		35		4/19/2017 2:27:39 PM	95.45
+FractionChange	Partitions	liquid_2_eq1		34		4/19/2017 2:27:39 PM	95.80143
+FractionChange	Partitions	liquid_2_eq1		33		4/19/2017 2:27:40 PM	96.03461
+FractionChange	Partitions	liquid_2_eq1		32		4/19/2017 2:27:40 PM	96.30046
+FractionChange	Partitions	liquid_2_eq1		31		4/19/2017 2:27:40 PM	96.57239
+FractionChange	Partitions	liquid_2_eq1		30		4/19/2017 2:27:40 PM	96.83347
+FractionChange	Partitions	liquid_2_eq1		29		4/19/2017 2:27:41 PM	97.11337
+FractionChange	Partitions	liquid_2_eq1		28		4/19/2017 2:27:41 PM	97.36935
+FractionChange	Partitions	liquid_2_eq1		27		4/19/2017 2:27:41 PM	97.65925
+FractionChange	Partitions	liquid_2_eq1		26		4/19/2017 2:27:42 PM	97.94826
+FractionChange	Partitions	liquid_2_eq1		25		4/19/2017 2:27:42 PM	98.21728
+FractionChange	Partitions	liquid_2_eq1		24		4/19/2017 2:27:42 PM	98.50422
+FractionChange	Partitions	liquid_2_eq1		23		4/19/2017 2:27:42 PM	98.80911
+FractionChange	Partitions	liquid_2_eq1		22		4/19/2017 2:27:43 PM	99.09863
+FractionChange	Partitions	liquid_2_eq1		21		4/19/2017 2:27:43 PM	99.38559
+FractionChange	Partitions	liquid_2_eq1		20		4/19/2017 2:27:44 PM	99.85648
+FractionChange	Partitions	liquid_2_eq1		19		4/19/2017 2:27:44 PM	100.1154
+PressFraction	LiquidMeasures	liquid_1		1/52	(1.970833, 0)	4/19/2017 2:27:47 PM	103.1364
+ReleaseFraction	LiquidMeasures	liquid_1		1/52	(1.970833, 0)	4/19/2017 2:27:47 PM	103.242

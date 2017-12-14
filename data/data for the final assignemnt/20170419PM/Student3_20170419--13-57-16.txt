@@ -1,0 +1,39 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		3	b9ccf04bf67f83adbb1de51fda9cded0257279a1	4/19/2017 1:57:16 PM		4/19/2017 1:57:59 PM	39.39077
+ClickButton	NumberedLines					4/19/2017 2:00:02 PM	162.1502
+FractionGenerated	NumberedLines	line_1				4/19/2017 2:00:02 PM	162.1502
+PressFraction	NumberedLines	line_1		0/0	(2.3125, 0)	4/19/2017 2:00:03 PM	163.8541
+ReleaseFraction	NumberedLines	line_1		0/0	(2.3125, 0)	4/19/2017 2:00:04 PM	164.0143
+PressFraction	NumberedLines	line_1		0/0	(2.3125, 0)	4/19/2017 2:00:04 PM	164.6308
+ReleaseFraction	NumberedLines	line_1		0/0	(2.3125, 0)	4/19/2017 2:00:04 PM	164.7822
+FractionChange	Denominator	line_1		1		4/19/2017 2:00:06 PM	166.7255
+FractionChange	Denominator	line_1		2		4/19/2017 2:00:07 PM	167.7175
+FractionChange	Denominator	line_1		3		4/19/2017 2:00:09 PM	169.1185
+FractionChange	Denominator	line_1		4		4/19/2017 2:00:09 PM	169.8785
+FractionChange	Denominator	line_1		5		4/19/2017 2:00:10 PM	170.4226
+FractionChange	Denominator	line_1		6		4/19/2017 2:00:11 PM	171.1906
+FractionChange	Denominator	line_1		7		4/19/2017 2:00:12 PM	172.1027
+PressFraction	NumberedLines	line_1		0/7	(2.3125, 0)	4/19/2017 2:00:19 PM	179.3579
+FractionTrashed	NumberedLines	line_1		0/7		4/19/2017 2:00:20 PM	180.63
+ReleaseFraction	NumberedLines	line_1		0/7	(-12.83333, 5.8)	4/19/2017 2:00:20 PM	180.63
+ClickButton	Shape/VRects					4/19/2017 2:00:29 PM	189.2783
+FractionGenerated	VRects	vrect_2				4/19/2017 2:00:29 PM	189.2783
+PressFraction	VRects	vrect_2		0/0	(0.125, 0)	4/19/2017 2:00:33 PM	193.1015
+ReleaseFraction	VRects	vrect_2		0/0	(0.125, 0)	4/19/2017 2:00:33 PM	193.2625
+FractionChange	Denominator	vrect_2		1		4/19/2017 2:00:34 PM	194.0865
+FractionChange	Denominator	vrect_2		2		4/19/2017 2:00:35 PM	195.1186
+FractionChange	Denominator	vrect_2		3		4/19/2017 2:00:36 PM	196.1496
+FractionChange	Denominator	vrect_2		4		4/19/2017 2:00:38 PM	198.1657
+PressFraction	VRects	vrect_2		0/4	(0.125, 0)	4/19/2017 2:00:39 PM	199.2368
+ReleaseFraction	VRects	vrect_2		0/4	(0.0250001, -0.0333333)	4/19/2017 2:00:39 PM	199.4538
+FractionChange	Numerator	vrect_2		1		4/19/2017 2:00:44 PM	204.085
+FractionChange	Numerator	vrect_2		2		4/19/2017 2:00:45 PM	205.062
+FractionChange	Numerator	vrect_2		3		4/19/2017 2:00:46 PM	205.957
+EndStateReached						4/19/2017 2:00:48 PM	208.0621
+FractionChange	Numerator	vrect_2		4		4/19/2017 2:00:48 PM	208.5742
+FractionChange	Numerator	vrect_2		3		4/19/2017 2:00:51 PM	211.3653
+FractionChange	Numerator	vrect_2		4		4/19/2017 2:00:52 PM	212.8683
+FractionChange	Numerator	vrect_2		3		4/19/2017 2:00:55 PM	215.4604
+FractionChange	Numerator	vrect_2		4		4/19/2017 2:00:57 PM	217.1885
+FractionChange	Numerator	vrect_2		3		4/19/2017 2:01:01 PM	221.0126
+FractionChange	Numerator	vrect_2		4		4/19/2017 2:01:06 PM	226.74

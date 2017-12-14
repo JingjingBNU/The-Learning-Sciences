@@ -1,0 +1,99 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		12	99a58f9d1e41bfc6ad303b7fd5f256c0e7d272a3	4/19/2017 2:32:54 PM		4/19/2017 2:33:42 PM	46.85962
+ClickButton	Set/Hearts					4/19/2017 2:34:11 PM	75.63245
+FractionGenerated	HeartSets	heartset_1				4/19/2017 2:34:11 PM	75.63245
+FractionChange	Denominator	heartset_1		1		4/19/2017 2:34:12 PM	77.21619
+FractionChange	Denominator	heartset_1		2		4/19/2017 2:34:13 PM	77.52332
+FractionChange	Denominator	heartset_1		3		4/19/2017 2:34:13 PM	77.86624
+FractionChange	Denominator	heartset_1		4		4/19/2017 2:34:13 PM	78.25051
+FractionChange	Denominator	heartset_1		5		4/19/2017 2:34:14 PM	78.68823
+FractionChange	Denominator	heartset_1		6		4/19/2017 2:34:14 PM	79.04229
+PressFraction	HeartSets	heartset_1		0/6	(1.28125, 0)	4/19/2017 2:34:15 PM	79.78637
+ReleaseFraction	HeartSets	heartset_1		0/6	(1.28125, 0)	4/19/2017 2:34:15 PM	79.9603
+FractionChange	Numerator	heartset_1		1		4/19/2017 2:34:16 PM	80.80966
+FractionChange	Numerator	heartset_1		2		4/19/2017 2:34:16 PM	81.08933
+FractionChange	Numerator	heartset_1		3		4/19/2017 2:34:17 PM	81.41042
+FractionChange	Numerator	heartset_1		4		4/19/2017 2:34:17 PM	81.76849
+FractionChange	Numerator	heartset_1		3		4/19/2017 2:34:18 PM	82.95364
+EndStateReached						4/19/2017 2:34:20 PM	84.4124
+ClickButton	OpenTaskDescription					4/19/2017 2:34:20 PM	84.65782
+EndStateReached						4/19/2017 2:34:21 PM	85.95655
+PopupAfterTaskReflection						4/19/2017 2:34:22 PM	86.66552
+EndStateReached						4/19/2017 2:34:23 PM	87.65954
+PopupAfterTaskReflection						4/19/2017 2:34:25 PM	89.78564
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/19/2017 2:34:28 PM		4/19/2017 2:34:28 PM	93.06469
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	简单	4/19/2017 2:34:31 PM		4/19/2017 2:34:31 PM	96.23381
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很无聊	4/19/2017 2:34:36 PM		4/19/2017 2:34:36 PM	100.7469
+PopupAfterTaskReflection_Response	ContinueSelected			4/19/2017 2:34:37 PM		4/19/2017 2:34:37 PM	101.8969
+ClickButton	Set/Hearts					4/19/2017 2:35:22 PM	146.952
+FractionGenerated	HeartSets	heartset_2				4/19/2017 2:35:22 PM	146.952
+FractionChange	Denominator	heartset_2		1		4/19/2017 2:35:23 PM	148.2141
+PressFraction	HeartSets	heartset_2		0/1	(0.28125, -1)	4/19/2017 2:35:26 PM	151.3341
+ReleaseFraction	HeartSets	heartset_2		0/1	(0.3479166, -1)	4/19/2017 2:35:27 PM	151.5182
+FractionChange	Numerator	heartset_2		1		4/19/2017 2:35:28 PM	152.7332
+PressFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:29 PM	153.5492
+ReleaseFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:30 PM	154.8852
+ClickButton	Lab					4/19/2017 2:35:31 PM	155.8143
+PressFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:35 PM	159.4874
+FractionPlaced	EqOp1	heartset_2		1/1		4/19/2017 2:35:36 PM	160.6064
+ReleaseFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:36 PM	160.6064
+ClickButton	3OperandTab					4/19/2017 2:35:37 PM	161.7034
+ClickButton	 OperationSwitchMinus					4/19/2017 2:35:39 PM	163.5734
+PressFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:41 PM	165.9415
+FractionPlaced	SubOp1	heartset_2		1/1		4/19/2017 2:35:42 PM	166.7425
+ReleaseFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:42 PM	166.7425
+PressFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:43 PM	167.7327
+FractionPlaced	SubOp2	heartset_2		1/1		4/19/2017 2:35:44 PM	168.4606
+ReleaseFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:44 PM	168.4606
+PressFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:45 PM	169.3985
+OperationResult	Substraction			<		4/19/2017 2:35:45 PM	170.1907
+FractionPlaced	SubRes	heartset_2		1/1		4/19/2017 2:35:45 PM	170.1907
+ReleaseFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:45 PM	170.1907
+PressFraction	HeartSets	heartset_2		1/1	(0.3479166, -1)	4/19/2017 2:35:48 PM	172.8606
+ReleaseFraction	HeartSets	heartset_2		1/1	(-2.085417, 5.233334)	4/19/2017 2:35:49 PM	173.7407
+PressFraction	HeartSets	heartset_2		1/1	(-2.085417, 5.233334)	4/19/2017 2:35:50 PM	174.7107
+ReleaseFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:35:52 PM	177.2368
+OperationResult	Sum			>		4/19/2017 2:35:53 PM	178.317
+ClickButton	OperationSwitchPlus					4/19/2017 2:35:53 PM	178.317
+PressFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:35:54 PM	179.2939
+OperationResult	Sum			>		4/19/2017 2:35:56 PM	180.381
+FractionPlaced	SumOp1	heartset_2		1/1		4/19/2017 2:35:56 PM	180.381
+ReleaseFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:35:56 PM	180.381
+PressFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:35:57 PM	181.3509
+OperationResult	Sum			>		4/19/2017 2:35:57 PM	182.2139
+FractionPlaced	SumOp2	heartset_2		1/1		4/19/2017 2:35:57 PM	182.2139
+ReleaseFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:35:57 PM	182.2139
+PressFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:35:58 PM	182.9109
+OperationResult	Sum			>		4/19/2017 2:35:59 PM	183.685
+FractionPlaced	SumRes	heartset_2		1/1		4/19/2017 2:35:59 PM	183.685
+ReleaseFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:35:59 PM	183.685
+PressFraction	HeartSets	heartset_2		1/1	(-2.699997, 2.6)	4/19/2017 2:36:00 PM	184.9399
+ReleaseFraction	HeartSets	heartset_2		1/1	(-3.266664, -0.2999994)	4/19/2017 2:36:01 PM	185.509
+PressFraction	HeartSets	heartset_2		1/1	(-3.266664, -0.2999994)	4/19/2017 2:36:02 PM	186.662
+ReleaseFraction	HeartSets	heartset_2		1/1	(-3.266664, -0.2999994)	4/19/2017 2:36:02 PM	186.804
+FractionChange	Numerator	heartset_2		2		4/19/2017 2:36:03 PM	187.9901
+FractionChange	Numerator	heartset_2		3		4/19/2017 2:36:03 PM	188.2771
+PressFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:06 PM	190.3731
+OperationResult	Sum			<		4/19/2017 2:36:07 PM	191.4772
+FractionPlaced	SumRes	heartset_2		3/1		4/19/2017 2:36:07 PM	191.4772
+ReleaseFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:07 PM	191.4772
+PressFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:08 PM	192.8921
+OperationResult	Sum			<		4/19/2017 2:36:09 PM	193.6622
+FractionPlaced	SumRes	heartset_2		3/1		4/19/2017 2:36:09 PM	193.6622
+ReleaseFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:09 PM	193.6622
+PressFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:10 PM	194.7733
+OperationResult	Sum			>		4/19/2017 2:36:11 PM	195.3723
+FractionPlaced	SumOp2	heartset_2		3/1		4/19/2017 2:36:11 PM	195.3723
+ReleaseFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:11 PM	195.3723
+PressFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:12 PM	196.3743
+OperationResult	Sum			>		4/19/2017 2:36:12 PM	197.1523
+FractionPlaced	SumOp1	heartset_2		3/1		4/19/2017 2:36:12 PM	197.1523
+ReleaseFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:12 PM	197.1523
+PressFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:15 PM	199.8674
+OperationResult	Sum			>		4/19/2017 2:36:16 PM	200.7474
+FractionPlaced	SumOp2	heartset_2		3/1		4/19/2017 2:36:16 PM	200.7474
+ReleaseFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:16 PM	200.7474
+PressFraction	HeartSets	heartset_2		3/1	(-3.266664, -0.2999994)	4/19/2017 2:36:17 PM	201.5654
+ReleaseFraction	HeartSets	heartset_2		3/1	(12.33333, 9)	4/19/2017 2:36:20 PM	204.5014
+PressFraction	HeartSets	heartset_2		3/1	(12.33333, 9)	4/19/2017 2:36:21 PM	205.9795
+ReleaseFraction	HeartSets	heartset_2		3/1	(12.33333, 9)	4/19/2017 2:36:21 PM	206.1475

@@ -1,0 +1,17 @@
+EventType	EventName	Object1Id	Object2Id	ObjectValue	ObjectPosition	DateTime	SecondsSinceSessionStart
+SessionStart		12	9705a7efddb6ad92fe8146171892453814102bd4	4/20/2017 10:19:04 AM		4/20/2017 10:19:42 AM	32.76012
+ClickButton	LiquidMeasures					4/20/2017 10:22:01 AM	171.782
+FractionGenerated	LiquidMeasures	liquid_1				4/20/2017 10:22:01 AM	171.782
+FractionChange	Denominator	liquid_1		1		4/20/2017 10:22:16 AM	186.7917
+FractionChange	Denominator	liquid_1		2		4/20/2017 10:23:38 AM	269.4536
+FractionChange	Denominator	liquid_1		3		4/20/2017 10:23:40 AM	270.8146
+FractionChange	Denominator	liquid_1		4		4/20/2017 10:23:40 AM	271.5667
+PressFraction	LiquidMeasures	liquid_1		0/4	(1.9375, 0)	4/20/2017 10:23:47 AM	277.7257
+ReleaseFraction	LiquidMeasures	liquid_1		0/4	(1.9375, 0)	4/20/2017 10:23:47 AM	277.9189
+FractionChange	Numerator	liquid_1		1		4/20/2017 10:23:50 AM	280.7979
+FractionChange	Numerator	liquid_1		2		4/20/2017 10:23:50 AM	281.5089
+EndStateReached						4/20/2017 10:23:53 AM	284.51
+PopupAfterTaskReflection						4/20/2017 10:24:05 AM	296.5406
+PopupAfterTaskReflection_Response	RadioSelected	Panel_1	一般	4/20/2017 10:24:20 AM		4/20/2017 10:24:20 AM	310.8364
+PopupAfterTaskReflection_Response	RadioSelected	Panel_2	很有趣	4/20/2017 10:24:25 AM		4/20/2017 10:24:25 AM	316.5738
+PopupAfterTaskReflection_Response	ContinueSelected			4/20/2017 10:24:26 AM		4/20/2017 10:24:26 AM	317.2679
