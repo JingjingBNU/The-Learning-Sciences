@@ -109,8 +109,8 @@
 
 #### 4.	如何进行二分网络转换的（具体步骤）？
 > 二分网络中的数据中将每一个学科和作者编号，还包括边（点A-点B-权重）的信息：
-> ../images/wyr/wyr-netdata-vertices.jpg 
-> ../images/wyr/wyr-netdata-edges.jpg
+> ![image](../images/wyr/wyr-netdata-vertices.jpg )
+> ![image](../images/wyr/wyr-netdata-edges.jpg)
 >最后通过PPT画出二分网络图如下：
 > ../images/wyr/wyr-twomode1.jpg
 >在手工画二分网络图的过程中，首先发现很多点并不相连，而形成几个聚类（我猜想这是由于1992年的时候学习科学才刚起步，还未形成一个大型网络，也又可能是属于同一个学科的名字由于大小写等问题被分成了两个类别导致网络断点），于是我将属于一个聚类的点标成一个颜色，在每一个聚类中，将作者所在的点用深一点的颜色表示。
