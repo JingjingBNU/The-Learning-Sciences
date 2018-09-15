@@ -109,13 +109,14 @@
 
 #### 4.	如何进行二分网络转换的（具体步骤）？
 >二分网络中的数据中将每一个学科和作者编号，还包括边（点A-点B-权重）的信息：
-> ../images/wyr-netdata-vertices.jpg 
-> ../images/wyr-netdata-edges.jpg
+> images/wyr-netdata-vertices.jpg 
+> images/wyr-netdata-edges.jpg
+> images/二部图-Python.jpg
 >最后通过PPT画出二分网络图如下：
-> ../images/wyr-twomode1.jpg
+> images/wyr-twomode1.jpg
 >在手工画二分网络图的过程中，首先发现很多点并不相连，而形成几个聚类（我猜想这是由于1992年的时候学习科学才刚起步，还未形成一个大型网络，也又可能是属于同一个学科的名字由于大小写等问题被分成了两个类别导致网络断点），于是我将属于一个聚类的点标成一个颜色，在每一个聚类中，将作者所在的点用深一点的颜色表示。
 >然后又发现数据中很多学科是一样的，但是由于大小写等问题变成了两个类别。手动对这些数据进行清理之后，重新画出二分网络图：
-> ../images/wyr-twomode2.jpg
+> images/wyr-twomode2.jpg
 >可以看出，进行清理后的网络相比之前联结更加紧密了，可见数据清理的必要性。
 
 #### 5.	有什么新的发现来回答“学习科学的学科基础”这个问题。
