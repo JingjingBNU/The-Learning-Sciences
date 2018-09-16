@@ -187,8 +187,11 @@
  
 #### 2.	数据以何种格式存放？为什么选择这样存放？
 我修改数据是直接在github里改的，但我存储我负责的作者的数据的时候是运用excel操作的。我自己手动添加了2007年的nodelist，如下图所示。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq1.png)
+
 edgelist如下图所示：
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq2.png)
 
 选用csv格式存储的原因：因为github就是这么存储的……csv格式可以自动分割逗号，这个功能非常好用！
@@ -196,19 +199,28 @@ edgelist如下图所示：
 #### 3.	如何生成二分网络的？比如：使用了什么工具（使用的具体步骤），为什么使用此类工具？
 上一周由于我不太会使用软件，所以使用手画作者与学科之间的关系（画得非常粗糙），后来用的是Gephi，画出了二分网络。
 使用的具体步骤：将nodelist和edgelist导入，会生成一个点与点之间的网络。可以给academic和discipline分别设置一个颜色，效果如下图所示。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq3.png)
+
 接着，我们通过布局调整一下这个杂乱无章的分布。我选择的是ForceAtlas 2布局。 
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq4.png)
+
 添加文字，得出二分图。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq5.png)
  
 #### 4.	如何进行二分网络转换的（具体步骤）？
 用到了Gephi的一个叫做MultiMode Networks Transformation Plugin的插件，具体参数设置如下图所示。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq6.png)
+
 二分网络的学科投影如下图所示：
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq7.png)
 
 #### 5.	有什么新的发现来回答“学习科学的学科基础”这个问题。
 通过我搜集并修改的2007年的数据可以发现，Education是学习科学研究领域的一个大模块，它与Psychology的联系非常紧密（可以看下图中两个点的连线的粗细），同时，鼠标放在Education上，发现其与Computer Science，以Physics和Math为代表的自然科学学科有很强的关联。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq8.png)
  
