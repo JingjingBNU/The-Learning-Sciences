@@ -310,8 +310,9 @@ edgelist如下图所示：
 
 （我画的也和其他人不一样，非常难过）  
 
-感觉自己对于二分网络图和单点图的原理还不是很明白。
-![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_单点2.png)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_单点3.png)
+
+感觉自己对于二分网络图和单点图的原理还不是很明白。并且可以看到图中一个非常大的点（应该是education）并没有和其他专业有联系，感觉非常疑惑。
 
 #### 5.有什么新的发现来回答“学习科学的学科基础”这个问题？
 
