@@ -341,3 +341,51 @@ edgelist如下图所示：
 >用了MultiMode Networks Transformation Plugin插件，但暂时还是有一些错误，改之后我再回来
 #### 5. 有什么新的发现来回答“学习科学的学科基础”这个问题。
 >我只是对这个方法存在一些疑问。在我们后期对数据进行初步整理的时候，那么重复的信息是要删除的。但是倘若一个学者他本科、研究生、博士、工作方向都只是education，那么在删除重复的时候，这些信息就只留下了一条。这样是没问题的吗？
+
+
+### 吴怡君的分享
+#### 1.	如何收集数据的？收集过程中遇到了什么问题？
+> 检查为主，通过researchgate查找作者所属院校或机构，然后去院校或机构的官网中查找作者的相关具体信息。在收集过程中部分作者来自非英语国家，在谷歌浏览器中可以进行翻译；
+另外，在官网上，一些作者的介绍中没有教育背景；
+作者的教育背景的学科层次不一。
+
+
+#### 2.	数据以何种格式存放？为什么选择这样存放？
+> Csv或excel，便于进行数据格式的变换。（如下图所示）
+> ![image](../images/P1.png )
+
+#### 3.	如何生成二分网络的？比如：使用了什么工具 （使用的具体步骤），为什么使用此类工具？
+> 使用了UCINET。
+	具体步骤：
+a)	首先将需要用到的数据导入UCINET中，选项卡为Data-Import Excel-DL type formats
+b)	然后将excel表格里的数据粘贴到弹出的编辑页中。（如下图所示）
+c)	将数据的格式设置为Matrix (incl. attributes, 2-mode, etc) 后进行保存。
+d)	在主界面中选择Visualize-NetDraw。
+e)	在打开的NetDraw中，选择File-Open-UCINET dataset-network并打开相应的二分数据文件。
+> ![image](../images/P2.png )
+
+#### 4.	如何进行二分网络转换的（具体步骤）？
+> 具体步骤：
+a)	首先将需要用到的数据导入UCINET中，选项卡为Data-Import Excel-DL type formats
+b)	然后将excel表格里的数据粘贴到弹出的编辑页中。（如图2所示）
+c)	将数据的格式设置为Matrix (incl. attributes, 2-mode, etc) 后进行保存。
+d)	在主界面中点击选项卡Data---Affiliations:Convert2-mode to 1-mode data，并按照图4的选项进行选择。
+e)	在打开的NetDraw中，选择File-Open-UCINET dataset-network并打开转换后的单定点数据文件。
+> ![image](../images/P3.png )
+
+
+>最后画出作者-学科关系二分网络图如下：
+> ![image](../images/作者-学科网络.jpg)
+
+>学科单定点网络图如下：
+> ![image](../images/学科单定点网络.jpg)
+
+
+#### 5.	有什么新的发现来回答“学习科学的学科基础”这个问题。
+>可以从图中看出Cognitive science、Computer science、Education、Mathmatics、Psycology与学习科学的关联次数较多，这也在一定程度上说明学习科学与这些学科联系较为紧密。
+
+#### 6.	数据问题及相关案例。
+>	数据格式不对，应该用逗号分隔的变成了冒号（已修改）
+	部分数据将作者的研究领域也纳入了进来这样对研究的精准度是否有影响。【row19、21】
+	作者的教育背景的学科层次不一，例如Science education 与education，需要制定统一标准。【row1、12、14、19、22、24、25】
+	另外一些学科的表达方式不统一【row31、33、36、39】
