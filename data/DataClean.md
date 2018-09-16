@@ -286,7 +286,8 @@ edgelist如下图所示：
 >有的专业里存在逗号或并列关系（例：Language, Literacy and Culture），这个逗号本身是分隔符，可能影响数据处理，以及是否要分为language、literacy和culture三类；
 >有些系别名称相像，是否归为一类；
 >有些系别本身是跨学科的（例：Education and Social Policy），这样的专业该如何归类；
->有些信息是从非英语翻译过来，那么翻译的准确性也会影响到系别命名和归类。
+>有些信息是从非英语翻译过来，那么翻译的准确性也会影响到系别命名和归类。  
+
 ·没有记录数据修改日志
 
 #### 2.数据以何种格式存放？为什么选择这样存放？
@@ -295,14 +296,18 @@ edgelist如下图所示：
 
 #### 3.如何生成二分网络的？比如：使用了什么工具（使用的具体步骤），为什么使用此类工具？
 
-最开始用Excel手工画图，后来使用Openrefine进行数据清理，用Gephi画图。利用老师和师姐所给的Gephi使用教程，导入初步清理过数据的csv边表格和节点表格，选择布局，调整节点大小和颜色绘制的。
-（但我画的图和其他人不一样，有点奇怪……）
+最开始用Excel手工画图，后来使用Openrefine进行数据清理，用Gephi画图。利用老师和师姐所给的Gephi使用教程，导入初步清理过数据的csv边表格和节点表格，选择布局，调整节点大小和颜色绘制的。  
+
+（但我画的图和其他人不一样，有点奇怪……）  
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_二分.png)
 
 #### 4.如何进行二分网络转换的（具体步骤）？
 
-通过二分网络图，使用MultiMode Networks Transformation Plugin插件绘制discipline的单点图，由于边界不太清晰，所以对节点进行拖拽。
-（我画的也和其他人不一样，非常难过）
+通过二分网络图，使用MultiMode Networks Transformation Plugin插件绘制discipline的单点图，由于边界不太清晰，所以对节点进行拖拽。  
+
+（我画的也和其他人不一样，非常难过）  
+
 感觉自己对于二分网络图和单点图的原理还不是很明白。
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_单点.png)
 
