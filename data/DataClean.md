@@ -26,9 +26,9 @@
  
 #### 4.单顶点网络
 
- 点击过滤 分类 如下图：
- 
- ![](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/txp4.png)
+ 将节点数据导入SCI，点击datapreparation，选倒数第四个；再点preprocessing 选network， delete isolates
+ 最后点文件，view，即可看到单顶点图的节点list和边list
+ 导入gephi生成单顶点网络图
  
  #### 5.疑惑
  感觉要解决学习科学的学科基础问题，除了数据资料之外，还需要文献的支撑，来更好的解释数据
