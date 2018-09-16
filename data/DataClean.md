@@ -456,3 +456,44 @@ e)	在打开的NetDraw中，选择File-Open-UCINET dataset-network并打开转�
 #### 5.有什么新的发现来回答“学习科学的学科基础”这个问题。
 说实话我还是不太理解二分网络和单顶点网络，但是我觉得应该是所在节点越大，对应学科就应该是学习科学的学科基础。但是因为画出来的图没有标记名称，所以我暂时不知道是哪几个学科。
 
+### 何思凝的分享
+#### 1. 如何收集数据以及收集过程中遇到了什么问题
+>手动收集数据。通过依次访问年度不同期刊，浏览期刊内容，通过不同的搜索引擎、访问国内外的网站获取作者名、毕业系别、工作系别等信息，并依次录入到excel文件中。
+>在收集初期，寻找所需要的信息耗费了一定的时间（原本想在期刊的网站中定位到所需信息的位置，并在每个期刊的不同位置获取到相应的信息），后发现无法在期刊网站获取相应信息，于是选择了通过国内外的搜索引擎获取相应信息。过程中由于数据量大，且难以在统一的平台获取相应信息，故花费了大量时间查找、收集信息。
+>同时由于需要手动录入、寻找，需要一定的时间成本，且容易发生录入错误等情况。初步收集的数据较为杂乱，以每个人为单位，在excel的一行中集中展示。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn1.png)
+>但这样的方式不利于后续数据处理，故后将数据重新整理为生成二分网络所需形式。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn2.png)
+
+#### 2. 数据以何种格式存放？为什么选择这样存放？
+>在第一周，我将数据以Excel表格的形式存放。这样的存放方式可以比较好的体现出作者（教授）与其所修读的学位、所在的工作方向的对应关系，且便于进行后续的数据整理和进一步的数据处理。
+>在第二周的处理中，用excel生成csv格式文件，便于后面软件分析及生成二分网络图。同时，重新制作了分类表格，以完成后续的数据整理、生成图表工作。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn3.png)
+
+#### 3. 如何生成二分网络的？比如：使用了什么工具 （使用的具体步骤），为什么使用此类工具？
+>在第一周，使用了PPT手动画出了二分网络。因为没有钻研出使用生成工具的方法，所以选择了原始的方式。先将所有的作者（教授）名字列出来，再将他们研究的专业、领域进行分类。总共分成了包括Education & Curriculum、Mathematics & Physics、Computer Science等在内的7大类，并进行了作者与学科之间的连线，最终完成了二分图。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn4.jpg)
+>此后，做了作者到学科的上投影，从而形成了学科之间的网络图。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn5.jpg)
+>这样的形式过于冗杂，且由于分类没有科学依据，很难体现出直观的结论和规律。
+>在第二周，学习了Gephi的使用方法，使用Gephi重新生成了二分图。导入结点和边数据后，生成了二分图：
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn6.png)
+>此后，将其整理为更为逻辑性的形式展示(其中，红绿两色分别为学科和学者)：
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn7.png)
+>此后，通过二分图，生成了单点网络图。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn8.png)
+>单点网络图将结果投影到学科上，也以此得到了各学科之间以及其与学习科学学科的关系，以节点的大小、连线的粗细做出相应的分析，以得到进一步的结论。
+
+#### 4. 如何进行二分网络转换的（具体步骤）？
+>在第一周的尝试中，我按照每个专业大类，对应到拥有该专业学位的作者（教授），再对应到该作者修读的其它学位是否属于其它分类，如果是，就建立这两个专业之间的连线。
+>在完成此工作时，按照较为冷门的专业类别优先，能够提升完成的效率。部分诸如Education & Curriculum、Learning Science等专业大类几乎与所有学科都有一定的联系。
+>在第二周使用Gephi软件后，这个步骤变得轻松了很多。二分图使用边和节点csv文件生成了二分图，之后，使用MultiMode Networks Transformation Plugin插件完成了这一步转换、投影等工作。流程如下：
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn9.png)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hsn10.png)
+
+#### 5. 有什么新的发现来回答“学习科学的学科基础”这个问题。
+>通过二分图、二分网络等方式，能够看出研究学习科学（或发表学习科学相关文章）的教授、学者曾经修习哪个专业，从而推断出这些专业在辅助他们研究学习科学的方面起到了一定的作用。因此，这些学科都在某种意义上属于“学习科学的学科基础”，而非仅仅只有我曾预想的，与学习科学紧密相关的那些学科。
+>通过分析生成的二分图、单节点网络图，可以发现很多专业都与学习科学领域相关，是学习科学的学科基础，包括如物理、数学这样的基础学科，以及心理学等等。通过分析它们与学习科学联系的紧密程度，以及节点大小所体现的关键程度，也能够看出计算机科学、心理学、教育学、数学等对学习科学的发展起到了重要的奠基作用。
+>通过收集数据、生成二分网络来研究学习科学的学习基础，这样的研究方式更加严谨、科学，结果呈现的方式更为直观清晰，更具有意义和价值。
+
+
