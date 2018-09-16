@@ -332,9 +332,9 @@ edgelist如下图所示：
 #### 3. 如何生成二分网络的？比如：使用了什么工具 （使用的具体步骤），为什么使用此类工具？
 >最开始我尝试的是直接用PPT来手工绘制。我是把作者放到了一侧，各种学科放到了另一侧，采用连线的方式一点点画出来的。  
 >问题就是  
->>①特别麻烦，手动打字很费力；  
->>②非常的不美观，通过做出来的图很难看出来各个学科与学习科学这一学科的关联程度。   
->![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/liusz1.png)
+>①特别麻烦，手动打字很费力；  
+>②非常的不美观，通过做出来的图很难看出来各个学科与学习科学这一学科的关联程度。   
+>![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/liusz1.jpg)
 >后来尝试了gephi，我是直接导入了整个csv文件，并没有绘制某一年的，所以做出来的图很乱，也可能是因为我没有对数据进行初步的处理。  
 >![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/liusz2.png)
 #### 4. 如何进行二分网络转换的（具体步骤）？
