@@ -13,7 +13,7 @@
 #### 2.数据存储
    csv格式比较便于导入gephi,所以选择了csv格式
 #### 3.二分网络的生成
-  
+  ![](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/txp1.png)
 
 ### 唐文静的分享
 #### 1.查找的问题
