@@ -226,15 +226,20 @@ edgelist如下图所示：
  
 ### 于玻的分享
 #### 1.如何收集数据以及收集过程中遇到了什么问题？
-（1）数据收集过程中存在的问题
-主要利用谷歌、必应国际版和百度搜索，通过学校网站、个人网站、领英、维基百科等网站得到个人信息。找数据中存在的问题：
+（1）数据收集过程中存在的问题  
+
+主要利用谷歌、必应国际版和百度搜索，通过学校网站、个人网站、领英、维基百科等网站得到个人信息。找数据中存在的问题：  
+
 >信息不足：
 如有些学者没有某一专业的信息，或有些作者根本找不到，或有些企业家、学生等非高校学者，难以找到信息。
 >信息过剩：
 在学习系别方面：对于同一个人、同一专业各个网站的写法可能不一样，比如有的写literacy，有的写writing；有的写education，有的写Curriculum and Instruction。  
-在工作系别方面：有些作者属于XXX department，XXX center，XXX lab，XXX institute，或者属于两个department，不确定到底用哪一范围。  
+在工作系别方面：有些作者属于XXX department，XXX center，XXX lab，XXX institute，或者属于两个department，不确定到底用哪一范围。 
+
 （2）数据清理过程中存在的问题  
-主要利用Openrefine清理数据，同时用notepad++（UTF-8）打开数据进行比对，人工阅读前2000条数据，发现了以下问题。  
+
+主要利用Openrefine清理数据，同时用notepad++（UTF-8）打开数据进行比对，人工阅读前2000条数据，发现了以下问题。 
+
 >有些作者专业为空  
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_1.png)  
 
@@ -269,7 +274,8 @@ edgelist如下图所示：
 >5000+行存在无专业的情况，我直接采用删除的方法。  
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_12.png)  
 
->另外还有作者信息缺少的问题，比如我所整理的2016年的作者，有12位作者的信息在edgelist表格中都没有，其他年份也一定存在这类问题。
+>另外还有作者信息缺少的问题，比如我所整理的2016年的作者，有12位作者的信息在edgelist表格中都没有，其他年份也一定存在这类问题。  
+
 （3）做图前存在的问题
 ·系别命名归类
 >有的专业里存在逗号或并列关系（例：Language, Literacy and Culture），这个逗号本身是分隔符，可能影响数据处理，以及是否要分为language、literacy和culture三类；
