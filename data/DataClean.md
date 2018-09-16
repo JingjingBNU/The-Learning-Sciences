@@ -421,26 +421,37 @@ e)	在打开的NetDraw中，选择File-Open-UCINET dataset-network并打开转�
 #### 5.	有什么新的发现来回答“学习科学的学科基础”这个问题。
 >在上图中可以看到度较大的几个学科是：心理学、计算机科学、教育、学习科学。这与我们在通过历史发展的角度分析学习科学的学科基础时，有一些相似的结论。学习科学一开始是由认知科学演变而来，而认知科学又属于心理学范畴的学科，由于科学家想要研究在真实教学情境中人认知的规律，学习科学应运而生了。是从这个角度来说，我们通过数据分析的结果与从历史角度的推理结果是吻合的。
 
-覃梦媛的分享
 ### 覃梦媛的分享
 #### 1.如何收集数据的？收集过程中遇到了什么问题？
 舍友给我推荐了维基百科、领英、ResearchGate这三个网站，我把每个作者的名字在各个网站搜索一遍，综合着看，基本都能找到作者的专业或者工作领域的一些信息。还是找不到的话就直接百度，点击下面跳出的各个网页链接，有些能链接到作者所在的大学或者工作机构，也能找到信息。但是有些作者的信息可能由于年代比较久远实在找不到，我就对照着师兄师姐们上一年收集的材料进行合并。遇到的困难是专业名字和去年的有一些差异，比如我搜到的Wolff-Michael Roth这位作者的博士学位是Science and Technology（cognition, statistics, and physical chemistry），去年是分开写成了三条Cognitive Science、Statistics、Physics。
 #### 2.数据以何种格式存放？为什么选择这样存放？
 我一开始存放数据是用excel表格来存放的，表头分别命名好作者、本科、硕士、博士、工作并在每个作者后面放上链接。因为觉得github上数据没有标注是什么学历还是工作系别，自己留存数据的时候就想保留好最初收集的材料模样，方便下次查验，有迹可循。现在想想应该在后面再备注一栏，不然后面都回想不起来自己对原数据修改了什么。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/qmy_1.png)
+
 后来为了方便把数据生成二分网络，又把数据变成下面的样子，作者一列，专业系别或者工作系别一列。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/qmy_2.png)
+
 #### 3.	如何生成二分网络的？比如：使用了什么工具 （使用的具体步骤），为什么使用此类工具？
 我负责的这部分数据比较少，我也没有注意到平台上有多二分网络的教程资料，就使用excel简单地手工画了在作者和系别之间连线（对一些接近的专业进行了合并，但可能不科学，比如将Cognitive Psychology和Psychology和并成Psychology等）。这样大概能看出指向Computer Science和The learning Sciences两个系别的箭头比较密集，但是感觉这样做有点杂论无章，特别是数据多的时候。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/qmy_3.png)
+
 后来学习了如何使用openrefine和gephi软件后，我尝试去用gephi去画二分网络。
 我在excel中手动整理出edgelist.csv和nodelist.csv两个文件，然后按照老师在平台上写的步骤以及导入到gephi中。
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/qmy_4.png)
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/qmy_5.png)
+
 大概调了一下颜色和节点大小，得到下面的图形
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/qmy_6.png)
+
 然后按照老师的文档调整为相应布局
+
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/qmy_7.png)
+
 然后下载插件，并按照文档设置好后，却没有得到类似的效果。现在还没太搞懂为什么。
 #### 5.有什么新的发现来回答“学习科学的学科基础”这个问题。
 说实话我还是不太理解二分网络和单顶点网络，但是我觉得应该是所在节点越大，对应学科就应该是学习科学的学科基础。但是因为画出来的图没有标记名称，所以我暂时不知道是哪几个学科。
