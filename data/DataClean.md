@@ -174,3 +174,41 @@
 #### 5.	学习科学的学科基础
 对于学习科学的学科基础问题，一开始我的想法是是不是学者所涉及到的专业都有可能是其学习科学的学习基础，而在和同学交流的过程中，会发现有些学者的专业在所收集到的数据中占比极少，比如音乐学史、人类学等，那么这样来看，将它们称之为学科基础好像不是很站得住脚，因此就想应该还是取重复专业比较多的，那从我目前收集到的数据来看，education、psychology和computer science占比还是比较大的，但是这种方式感觉也比较草率，所以我们在判断学科基础的标准是以什么标准作为判断，是否有对权重的要求。
 
+
+### 黄雨祺的分享
+#### 1.	如何收集数据的？收集过程中遇到了什么问题？
+由于期刊的学者绝大数多数都是外国人，我是在实验室翻墙用谷歌搜索找这些人的。
+涉及到的一些比较实用的网站有——学者所在学院的官网，在那里能找到学者的学历，就算不能直接找到，也能找到学者的homepage或者cv，在里头明明白白地记载了他们的本硕博方向。
+领英，一个拥有许多注册学者学历的神奇网站，还有中文版，查阅起来十分方便。
+谷歌学术，只要学者在谷歌学术里注册了账号，就能查看到他之前发过的论文，通过论文的作者简介查找到这个人是谁。
+在收集的过程中，主要遇到的问题有：
+很难直接通过搜索找到某篇文章的第二、第三作者的信息（私人猜测这或许是因为第二第三作者都是博士生？），这时我一般会搜这个作者发表的其它文章，文章里面有时会写学院，通过其学院大致可以推断他在什么专业。
+关于专业拆分的问题，math education是否能被拆分为math和education？我认为不，但是我改的许多数据中，都出现了这种情况。专业划分应该有一个具体的衡量标准，math education到底是算math学科还是算education学科？我认为在严格上来说，数学教育应该是教育的一个分支才对。
+ 
+#### 2.	数据以何种格式存放？为什么选择这样存放？
+我修改数据是直接在github里改的，但我存储我负责的作者的数据的时候是运用excel操作的。我自己手动添加了2007年的nodelist，如下图所示。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq1.png)
+edgelist如下图所示：
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq2.png)
+
+选用csv格式存储的原因：因为github就是这么存储的……csv格式可以自动分割逗号，这个功能非常好用！
+
+#### 3.	如何生成二分网络的？比如：使用了什么工具（使用的具体步骤），为什么使用此类工具？
+上一周由于我不太会使用软件，所以使用手画作者与学科之间的关系（画得非常粗糙），后来用的是Gephi，画出了二分网络。
+使用的具体步骤：将nodelist和edgelist导入，会生成一个点与点之间的网络。可以给academic和discipline分别设置一个颜色，效果如下图所示。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq3.png)
+接着，我们通过布局调整一下这个杂乱无章的分布。我选择的是ForceAtlas 2布局。 
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq4.png)
+添加文字，得出二分图。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq5.png)
+ 
+#### 4.	如何进行二分网络转换的（具体步骤）？
+用到了Gephi的一个叫做MultiMode Networks Transformation Plugin的插件，具体参数设置如下图所示。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq6.png)
+二分网络的学科投影如下图所示：
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq7.png)
+
+#### 5.	有什么新的发现来回答“学习科学的学科基础”这个问题。
+通过我搜集并修改的2007年的数据可以发现，Education是学习科学研究领域的一个大模块，它与Psychology的联系非常紧密（可以看下图中两个点的连线的粗细），同时，鼠标放在Education上，发现其与Computer Science，以Physics和Math为代表的自然科学学科有很强的关联。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq8.png)
+ 
