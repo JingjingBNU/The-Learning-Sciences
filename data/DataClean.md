@@ -224,3 +224,58 @@ edgelist如下图所示：
 
 ![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/hyq8.png)
  
+### 于玻的分享
+#### 1.查找的问题
+（1）数据收集过程中存在的问题
+主要利用谷歌、必应国际版和百度搜索，通过学校网站、个人网站、领英、维基百科等网站得到个人信息。找数据中存在的问题：
+·信息不足：
+如有些学者没有某一专业的信息，或有些作者根本找不到，或有些企业家、学生等非高校学者，难以找到信息。
+·信息过剩：
+在学习系别方面：对于同一个人、同一专业各个网站的写法可能不一样，比如有的写literacy，有的写writing；有的写education，有的写Curriculum and Instruction。
+在工作系别方面：有些作者属于XXX department，XXX center，XXX lab，XXX institute，或者属于两个department，不确定到底用哪一范围。
+（2）数据清理过程中存在的问题
+主要利用Openrefine清理数据，同时用notepad++（UTF-8）打开数据进行比对，人工阅读前2000条数据，发现了以下问题。
+有些作者专业为空
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_1.png)
+专业名称大小写不统一（存疑），我在Excel中利用proper函数改为了全部首字母大写。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_2.png)
+因数据空缺或缺少逗号分隔符，导致Undirected错位，手动改正。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_3.png)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_4.png)
+并列不当
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_5.png)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_6.png)
+专业使用缩写或者全称
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_7.png)
+拼写错误，手动修改或使用函数
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_8.png)
+出现分割线（多次），手动删除
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_9.png)
+系别命名相似，有的为Art有的为Arts
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_10.png)
+系别出现汉字（多次），利用谷歌翻译转换为英文，但存在翻译不准确的问题。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_11.png)
+5000+行存在无专业的情况，我直接采用删除的方法。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_12.png)
+另外还有作者信息缺少的问题，比如我所整理的2016年的作者，有12位作者的信息在edgelist表格中都没有，其他年份也一定存在这类问题。
+（3）做图前存在的问题
+·系别命名归类
+有的专业里存在逗号或并列关系（例：Language, Literacy and Culture），这个逗号本身是分隔符，可能影响数据处理，以及是否要分为language、literacy和culture三类；
+有些系别名称相像，是否归为一类；
+有些系别本身是跨学科的（例：Education and Social Policy），这样的专业该如何归类；
+有些信息是从非英语翻译过来，那么翻译的准确性也会影响到系别命名和归类。
+·没有记录数据修改日志
+#### 2.数据以何种格式存放？为什么选择这样存放？
+之前的做法是本地用Excel储存csv文件，在GitHub网页版修改数据。现在利用Excel储存csv文件，利用Openrefine和GitHub Desktop进行修改。csv文件使用逗号作为分隔符，纯文本、无格式的形式更加有利于数据的处理
+#### 3.如何生成二分网络的？比如：使用了什么工具（使用的具体步骤），为什么使用此类工具？
+最开始用Excel手工画图，后来使用Openrefine进行数据清理，用Gephi画图。利用老师和师姐所给的Gephi使用教程，导入初步清理过数据的csv边表格和节点表格，选择布局，调整节点大小和颜色绘制的。
+（但我画的图和其他人不一样，有点奇怪……）
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_二分.png)
+#### 4.如何进行二分网络转换的（具体步骤）？
+通过二分网络图，使用MultiMode Networks Transformation Plugin插件绘制discipline的单点图，由于边界不太清晰，所以对节点进行拖拽。
+（我画的也和其他人不一样，非常难过）
+感觉自己对于
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_单点.png)
+#### 5.有什么新的发现来回答“学习科学的学科基础”这个问题。
+在整理2016年坐着数据的过程中，发现基础学科如物理、化学、生物等占很大比例，以及艺术类学科也有一定数量。
+在做图过程中发现，占核心学科地位的还是learning science、education、psychology、cognitive science和computer science。
