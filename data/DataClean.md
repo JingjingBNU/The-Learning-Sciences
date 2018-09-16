@@ -280,6 +280,8 @@ edgelist如下图所示：
 
 >另外还有作者信息缺少的问题，比如我所整理的2016年的作者，有12位作者的信息在edgelist表格中都没有，其他年份也一定存在这类问题。  
 
+>有大量重复数据，清理后有1900+条数据。  
+
 （3）做图前存在的问题  
 
 ·系别命名归类
@@ -300,7 +302,7 @@ edgelist如下图所示：
 
 （但我画的图和其他人不一样，有点奇怪……）  
 
-![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_二分.png)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_二分2.png)
 
 #### 4.如何进行二分网络转换的（具体步骤）？
 
@@ -309,7 +311,7 @@ edgelist如下图所示：
 （我画的也和其他人不一样，非常难过）  
 
 感觉自己对于二分网络图和单点图的原理还不是很明白。
-![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_单点.png)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/yb_单点2.png)
 
 #### 5.有什么新的发现来回答“学习科学的学科基础”这个问题？
 
@@ -406,14 +408,11 @@ e)	在打开的NetDraw中，选择File-Open-UCINET dataset-network并打开转�
 >当时还没有太理解整个过程，所以当时选择了最熟悉的Excel。后面意识到需要利用Gephic画图，而进行分析需要用到所以还是采取了CSV存放。不过因为电脑java的一些问题没有安装好openrefine，所以还没有体会CSV格式的数据在处理时的便捷。
 #### 3.	如何生成二分网络的？比如：使用了什么工具 （使用的具体步骤），为什么使用此类工具？
 >最开始由于对学习新软件的抗拒，选择了用PPT人工画图。这个过程非要需要耐心，也并没有像我想象的那么容易。我将数据中的学科进行了一些分类，形成了六个集合。但是由于分的类太笼统，导致最后生成的学科关系图，几乎每个学科都有相互的关系，感觉并不能回答“学习科学”的学科基础这个问题。
-> ![image](../images/hwq1.png)
-> ![image](../images/hwq2.png)
+[image]
 >到最后发现还是要学习新软件才能比较好地解决这个问题，也算是吃一堑长一智了。在运用Gephic进行绘图时，遇到了一个问题。就是在呈现图的时候，出现了NULL数据，后来经过检查发现，是因为在nodelist.csv里记录的是“Curriculum & Instruction”，但是在edgelist.csv里记录的是“Curriculum and Instruction”，所以出现了NULL数据的情况。在调试其外观的过程中也遇到了一些问题，不过都不是什么大问题，摸索一会就得到了较为满意的结果。
-> ![image](../images/hwq3.png)
-> ![image](../images/hwq4.png)
 #### 4.	如何进行二分网络转换的（具体步骤）？
 >根据老师放在github上的教程，利用Gephic非常简单的就能够将二分网络的单顶点投影图做出来
 >最后得到的学科关系图如下：
-> ![image](../images/hwq5.png)
+[image]
 #### 5.	有什么新的发现来回答“学习科学的学科基础”这个问题。
 >在上图中可以看到度较大的几个学科是：心理学、计算机科学、教育、学习科学。这与我们在通过历史发展的角度分析学习科学的学科基础时，有一些相似的结论。学习科学一开始是由认知科学演变而来，而认知科学又属于心理学范畴的学科，由于科学家想要研究在真实教学情境中人认知的规律，学习科学应运而生了。是从这个角度来说，我们通过数据分析的结果与从历史角度的推理结果是吻合的。
