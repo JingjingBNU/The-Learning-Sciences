@@ -584,3 +584,30 @@ e)	在打开的NetDraw中，选择File-Open-UCINET dataset-network并打开转�
 #### 5. 有什么新的发现来回答“学习科学的学科基础”这个问题。
 >我一直在想收集这些数据是干什么用的，这个星期我才有些明白。在此之前我从来没有想过对于学习科学的学科基础的研究还可以基于二分网络来研究，也没有想过教授的工作研究方向以及受教育背景对研究学习科学的学科基础有什么作用。一个人研究学习科学是需要知识的积淀的，需要一定的基础，之前所学的一切东西都为工作时候的成果奠定了基础。从这个角度理解，现在在研究学习科学的人，他们的基础就是从本硕博时期学习而来的，那么他们本硕博时期的所学即是现如今他们研究的基础。一定程度上，他们本硕博所学的学科就是学习科学的学科基础。从这个角度出发，我们可以通过对教授的工作研究方向和本硕博的专业进行统计，再进行数据分析，如果说有很多教授上学的时候都是学某个学科的，那么这个学科就非常有可能是学习科学的学科基础之一，但是这样得出来的结果并不完全的准确，数据并不能体现出来一些本质性的关联，还需要进一步的论证。
 
+### 阚雨菲的分享
+
+### 1. 如何收集数据的？收集过程中遇到了什么问题？
+>利用谷歌学术、领英、作者学校的官方网站等来查找数据，将数据记录到Excel中。第一次查找数据工作与研究方向无法区分并且不熟悉数据存放的具体要求，导致工作的数据过于杂且大小写不准确，为后续分析作图产生影响，因此进行第二次复查将数据进一步整理。
+>在整理数据时遇到以下问题：①发现由于文章的完成时间以及发表时间（2010年），许多作者的工作单位已经更换，所以只能通过领英等工作经历以及专业来判断。②有的作者在写文章时应该仍是学生，无法查找到确定具体信息。③有的作者并不是教授，而是参加的工作，工作系别无法确认。④不同国家，不同大学对于专业的划分并不相同，难以统一。⑤遇到了不同语种，包括西班牙语，德语等，利用谷歌翻译转换成英文来阅读查找信息。
+
+### 2. 数据以何种格式存放？为什么选择这样存放？
+>由于较为熟悉Excel的操作，初始数据保存在Excel中。按照作者名字，本科，研究生，博士，工作的顺序存放，然后利用Excel的分列功能等简单处理，存为.csv格式。通过学习OpenRefine对数据进行处理。发现该软件能够快速整理多列数据。最终按照格式要求整理完数据。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/数据存储.PNG)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/数据预处理.PNG)
+
+### 3. 如何生成二分网络的？比如：使用了什么工具 （使用的具体步骤），为什么使用此类工具？
+>利用Gephi生成二分图。
+>按照平台上的教程进行操作。但这其中也有许多细节需要注意。①输入完边数据表后输入节点的时候注意勾选加入已有工作区而不是新建。②尽管自己利用Excel整理了一遍nodelist文件，但由于还存在非英语的字母导致有的作者的编码混乱和拼写错误导致nodelist文件的错误，因此生成的fruchterman reingold图出现了黑点。发现Gephi平台能够直接编辑和复制列，因此直接利用平台编辑nodelist并导出。发现了一个拼写错误，耗费精力修正数据。所以保证初始数据的准确和符合格式真的很重要！！！③按照教程步骤生成图片。尽管生成了图片感觉自己也并不能很准确的理解不同布局之间的能够体现数据的哪种特点。(PS 我的huyifu图有分散的部分，我觉得可能是我的数据专业分类标准不同导致了有的作者自己单独出去了)
+>Gephi平台对于生成网络很便利，并且能够直接更改数据，方便。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/kyf0.PNG)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/kyf1.PNG)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/kyf2.PNG)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/kyfhyf.png)
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/kyf初始图.png)
+
+### 4. 如何进行二分网络转换的（具体步骤）？
+>利用MultiMode Networks Transformation Plugin这个插件进行操作。按照教程进行操作，其中由于选择错误导致生成的网络没有没有边。后来经过修正得到单定点网络。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/kyf图.png)
+
+### 5. 有什么新的发现来回答“学习科学的学科基础”这个问题。
+>除了Education,Psychology外，Physicsy,Chemistry等也为学习科学的研究提供了基础。同时我发现了许多点很小的学科。这种冗余的学科对于学习科学研究的意义是什么？因为只研究了2010年的因此无法判断这些学科是否正在逐渐成为学习科学的基础学科。
