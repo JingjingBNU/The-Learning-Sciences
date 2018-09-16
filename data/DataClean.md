@@ -13,7 +13,15 @@
 #### 2.数据存储
    csv格式比较便于导入gephi,所以选择了csv格式
 #### 3.二分网络的生成
+   如下图，点击文件创建新的工作区，点击数据资料，分别导入nodelist和edgelist
   ![](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/txp1.png)
+ 外观分类选择 CAT
+ ![](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/txp2.png)
+ 得到下图
+ ![](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/txp3.png)
+#### 4.单顶点网络
+ 点击过滤 分类 如下图：
+ ![](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/txp4.png)
 
 ### 唐文静的分享
 #### 1.查找的问题
