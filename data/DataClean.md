@@ -611,3 +611,27 @@ e)	在打开的NetDraw中，选择File-Open-UCINET dataset-network并打开转�
 
 ### 5. 有什么新的发现来回答“学习科学的学科基础”这个问题。
 >除了Education,Psychology外，Physicsy,Chemistry等也为学习科学的研究提供了基础。同时我发现了许多点很小的学科。这种冗余的学科对于学习科学研究的意义是什么？因为只研究了2010年的因此无法判断这些学科是否正在逐渐成为学习科学的基础学科。
+
+### 周建蓉的分享
+#### 1.如何收集数据的？收集过程中遇到了什么问题？
+开始直接在百度搜索作者的姓名，发现维基百科、领英有大部分作者的信息，但是还存在很多搜不到的情况，找到一个叫做ResearchGate的网站，里面会有学者目前工作的机构、学校，这样可以去学校的官网找到相应的信息。
+
+遇到的问题：因为我搜集的年份是2000年，有很多作者的信息非常少或者根本找不到；搜集到的专业名有些很详细，比如Clinical and Developmental Psychology，我当时完整记录了这个数据，但当与师兄师姐的数据进行对照时，发现基本都只写了psychology, 不清楚是否应该修改。
+
+#### 2. 数据以何种格式存放？为什么选择这样存放？
+我选择了excel存放数据。分为姓名、本科、硕士、博士、工作系别五列，这样能够清晰明了地看到哪些地方空缺。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/zjr1.PNG)
+但后来在使用Gephi的时候，导入文件的格式需要改变，于是手动修改了数据存放的格式。（当时很疑惑这样的修改是需要手动还是某些软件可以直接做到这样）
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/zjr2.PNG)
+
+#### 3.如何生成二分网络？
+我使用Gephi生成二分网络，按照GitHub上已有的使用步骤操作。首先把数据按照格式修改，导入Gephi中。选择ForceAltlas2布局，但边缘几个数据相隔很远，为了截图手动拉近了距离（Joel Russell和Yrjö Engeströ）,而且后者文字无法正常显示。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/zjr3.png)
+因为给出的工具中Gephi为可视化的工具，所以选择了这个，感觉操作相对简单。
+
+#### 4.如何进行二分网络转换的？
+安装MultimodeNetworksTransformationPlugin，按照已有步骤做出下图。
+![image](https://github.com/JingjingBNU/The-Learning-Sciences/blob/master/images/zjr4.png)
+
+#### 5.有什么新的发现来回答“学习科学的学科基础”这个问题。
+在2000年发表文章的作者中，心理学、教育技术、科学教育、信息技术、数学等学科都占了很大的比重。同时有些文章由一位作者完成，会得到这一位学者的学科背景（有些会有不同领域的学科背景）；有些文章是很多学者共同完成的，这些学者可能会有各自不同的领域，这些都共同促进了学习科学这一领域的发展。
